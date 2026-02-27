@@ -1,32 +1,42 @@
-<VSCode.Cell language="markdown">
-# Day 1: Introduction to Genetics – The Wonder of Inherited Traits
+---
+layout: default
+title: Day 1 — Introduction to Genetics
+---
 
-**Scripture Focus:** Psalm 139:13-14 – “For you created my inmost being… I praise you because I am fearfully and wonderfully made.”
+# Day 1: Introduction to Genetics
 
-**Objectives:**
+> "For you created my inmost being; you knit me together in my mother's womb." — Psalm 139:13
+
+**Grade:** 9 • **Length:** 70 minutes
+
+## Bell Work (10 min)
+
+- List 3 family traits you share and 1 unique trait.
+
+## Objectives
+
 - Describe genes, chromosomes, and DNA.
 - Recognize DNA’s complexity as evidence of the Creator.
-- Connect inheritance to “after their kinds” (Genesis 1:21, 24).
+- Connect inheritance to "after their kinds" (Genesis 1:21).
 
-**Materials:**
-- National Geographic Chapter 11 opener.
-- Family trait photos.
-- Graphic organizer.
+## Materials
 
-**Bell Work (10 min):**
-List 3 family traits you share and 1 unique trait. Why the variation?
+- National Geographic Chapter 11 opener
+- Family trait photos
+- Graphic organizer
 
-**Lesson (70 min):**
-1. Phenomenon discussion with National Geographic images.
-2. Direct notes: DNA as God’s information code (4-letter alphabet too precise for chance).
-3. Group activity – “Why DNA points to design, not random process.”
+## Lesson Plan (70 min)
 
-**Classwork/Homework:**
-Read Chapter 11.1 and complete key terms graphic organizer (finish at home).
+1. Phenomenon: discuss family-trait photos and patterns.
+2. Direct notes: DNA structure and information content.
+3. Activity: Build a simple DNA model using pipe cleaners.
 
-**Exit Ticket:**
-Write one sentence: “How does DNA show God’s handiwork?”
+## Classwork / Homework
 
-**Notes:**
-- Advanced: Research one genetic disorder as a fallen-world effect.
-- Struggling: Pre-filled diagrams.
+- Read Chapter 11.1 and complete the key-terms organizer.
+
+---
+
+### Exit Ticket
+
+One sentence: "How does DNA show God's handiwork?"

@@ -1,31 +1,41 @@
-# Aaron Esbenshade — Biology Lesson Plans
+---
+layout: default
+title: Aaron Esbenshade — Biology
+permalink: /biology/
+---
 
-Daily one-page summaries for Unit 4 (Genetics) and Unit 5 (Evolution/Changing Environments).
+<div class="page-banner card">
+  <img src="/assets/img/banner.svg" alt="Subtle DNA strand banner" class="banner-img" />
+</div>
 
-## Unit 4: Genetics
-- [Day 1](lessons/unit4/day-01.md)
-- [Day 2](lessons/unit4/day-02.md)
-- [Day 3](lessons/unit4/day-03.md)
-- [Day 4](lessons/unit4/day-04.md)
-- [Day 5](lessons/unit4/day-05.md)
-- [Day 6](lessons/unit4/day-06.md)
-- [Day 7](lessons/unit4/day-07.md)
-- [Day 8](lessons/unit4/day-08.md)
-- [Day 9](lessons/unit4/day-09.md)
-- [Day 10](lessons/unit4/day-10.md)
-- [Day 11](lessons/unit4/day-11.md)
-- [Day 12](lessons/unit4/day-12.md)
+# Welcome — Biology with Aaron Esbenshade
 
-## Unit 5: Evolution and Changing Environments
-- [Day 1](lessons/unit5/day-01.md)
-- [Day 2](lessons/unit5/day-02.md)
-- [Day 3](lessons/unit5/day-03.md)
-- [Day 4](lessons/unit5/day-04.md)
-- [Day 5](lessons/unit5/day-05.md)
-- [Day 6](lessons/unit5/day-06.md)
-- [Day 7](lessons/unit5/day-07.md)
-- [Day 8](lessons/unit5/day-08.md)
-- [Day 9](lessons/unit5/day-09.md)
-- [Day 10](lessons/unit5/day-10.md)
-- [Day 11](lessons/unit5/day-11.md)
-- [Day 12](lessons/unit5/day-12.md)
+I teach high-school biology (freshmen) with an emphasis on academic excellence and a biblical, creation-centered perspective. This site provides concise daily lesson summaries, study guides, and resources for Units 4 (Genetics) and 5 (Evolution & Changing Environments). We celebrate God’s design in living systems while practicing careful scientific thinking and stewardship.
+
+---
+
+## Quick Navigation
+
+- [Unit 4: Genetics](/lessons/unit4/README.md)
+- [Unit 5: Evolution & Changing Environments](/lessons/unit5/README.md)
+- [Syllabus & Calendar](/syllabus.md)
+- [Resources & Study Guides](/resources/)
+
+---
+
+## Course Snapshot
+
+- **Audience:** High school freshmen
+- **Tone:** Respectful of Christian worldview; academically rigorous
+- **Format:** Short daily summaries, study guides, and assessments
+
+---
+
+## How to use this site
+
+- Tap a unit above to see daily lessons (links to day-01.md ...).
+- This site is optimized for classroom projection and phone access; tap the menu on small screens.
+
+<footer class="page-footer">
+Aaron Esbenshade — Biology • © {{ site.time | date: "%Y" }}
+</footer>

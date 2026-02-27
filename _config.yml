@@ -1,0 +1,13 @@
+title: "Aaron Esbenshade — Biology"
+description: "High school biology lessons and resources from a biblical perspective."
+baseurl: "/biology"
+url: "https://ajesbenshade.github.io"
+theme: minima
+markdown: kramdown
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
