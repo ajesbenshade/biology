@@ -6,7 +6,7 @@ title: Syllabus & Calendar
 # Syllabus & Calendar
 
 ## Course Overview
-Welcome to Biology at Dock Mennonite High School! This course covers Units 4 (Genetics) and 5 (Evolution and Changing Environments) with a focus on academic excellence and a biblical creationist perspective.
+Welcome to Biology with Aaron Esbenshade! This course covers Units 4 (Genetics) and 5 (Evolution and Changing Environments) with a focus on academic excellence and a biblical creationist perspective.
 
 ### Units Covered:
 - **Unit 4: Genetics**

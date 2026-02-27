@@ -82,7 +82,7 @@ for unit in ['Unit4', 'Unit5']:
 
 index = root / 'index.md'
 lines = [
-    '# Dock Mennonite Biology Lesson Plans',
+    '# Aaron Esbenshade — Biology Lesson Plans',
     '',
     'Daily one-page summaries for Unit 4 (Genetics) and Unit 5 (Evolution/Changing Environments).',
     '',
@@ -108,7 +108,7 @@ for unit, title, total in [
 readme = root / 'README.md'
 readme.write_text(
     '# biology\n\n'
-    'Dock Mennonite High School Biology\n\n'
+    'Aaron Esbenshade — Biology\n\n'
     '## Lesson Plans\n'
     '- [Lesson Plan Index](index.md)\n'
     '- [Unit 4](lessons/unit4/README.md)\n'

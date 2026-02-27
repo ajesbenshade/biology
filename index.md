@@ -1,4 +1,4 @@
-# Dock Mennonite Biology Lesson Plans
+# Aaron Esbenshade — Biology Lesson Plans
 
 Daily one-page summaries for Unit 4 (Genetics) and Unit 5 (Evolution/Changing Environments).
 

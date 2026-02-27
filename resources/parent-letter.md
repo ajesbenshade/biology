@@ -2,7 +2,7 @@
 
 Dear Parents,
 
-Welcome to Biology at Dock Mennonite High School! This course is designed to provide students with a rigorous understanding of biology while viewing God’s creation through Scripture. We will explore:
+Welcome to Biology with Aaron Esbenshade. This course is designed to provide students with a rigorous understanding of biology while viewing God’s creation through Scripture. We will explore:
 
 - **Unit 4: Genetics** – DNA as evidence of intelligent design, inheritance patterns, and biotechnology stewardship.
 - **Unit 5: Evolution** – Adaptation and biodiversity within created kinds, and the role of humans as stewards of God’s creation.

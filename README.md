@@ -1,6 +1,6 @@
 # biology
 
-Dock Mennonite High School Biology
+Aaron Esbenshade — Biology
 
 ## Lesson Plans
 - [Lesson Plan Index](index.md)
