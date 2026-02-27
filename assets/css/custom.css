@@ -26,3 +26,8 @@ body { font-size:18px; }
 code{background:#f6f8f7;padding:0.15rem 0.3rem;border-radius:4px;font-family:Menlo,monospace}
 
 @media (max-width:720px){.main-nav{display:none}.banner-img{height:72px}}
+/* Logo image handling */
+.logo{display:flex; align-items:center}
+.site-logo{height:48px; width:auto; margin-right:0.75rem}
+.logo svg{display:block}
+@media (max-width:480px){.site-logo{height:40px}}
