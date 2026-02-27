@@ -1,3 +1,9 @@
+---
+layout: default
+title: Parent Letter
+permalink: /resources/parent-letter/
+---
+
 # Parent Letter
 
 Dear Parents,

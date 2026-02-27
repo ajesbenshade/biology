@@ -1,4 +1,8 @@
-<VSCode.Cell language="markdown">
+---
+layout: default
+title: Day 6: Mechanisms of Evolution – Mutation, Migration, and Drift
+---
+
 # Day 6: Mechanisms of Evolution – Mutation, Migration, and Drift
 
 **Scripture Focus:** Romans 8:22 – “The whole creation has been groaning.”
@@ -16,3 +20,10 @@ Analyze a graph of population change over time.
 
 **Classwork/Homework:**
 Complete lab analysis questions.
+
+<div class="scripture-connection">
+<h3>Scripture Connection</h3>
+<p><strong>Romans 8:22 – “The whole creation has been groaning.”</strong></p>
+<p>Connect today's scientific evidence to biblical truth with specific observations from class data, diagrams, or models.</p>
+<p><strong>Synthesis Question:</strong> What scientific result from today most clearly supports your understanding of this verse?</p>
+</div>

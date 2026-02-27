@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Syllabus & Calendar
+permalink: /syllabus/
 ---
 
 # Syllabus & Calendar
@@ -17,13 +18,11 @@ Welcome to Biology with Aaron Esbenshade! This course covers Units 4 (Genetics) 
   - Scripture Focus: Genesis 1:31, Job 12:7-10.
 
 ### Grading Policy:
-- Bell Work/Class Participation: 20%
-- Homework/Class Work: 30%
-- Quizzes: 20%
-- Unit Tests: 30%
+- Objective mastery (tests, problem sets, data analysis): 60%
+- Application (labs, claim evaluation, Scripture-data synthesis): 40%
 
 ### Calendar:
 - **Week 1-4:** Unit 4 (Genetics)
 - **Week 5-8:** Unit 5 (Evolution)
 
-For detailed daily plans, visit the [Unit 4](lessons/unit4/README.md) and [Unit 5](lessons/unit5/README.md) pages.
+For detailed daily plans, visit [Unit 4]({{ "/lessons/unit4/" | relative_url }}) and [Unit 5]({{ "/lessons/unit5/" | relative_url }}).

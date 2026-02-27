@@ -1,3 +1,9 @@
+---
+layout: default
+title: Unit 5 Study Guide
+permalink: /resources/unit5-study-guide/
+---
+
 # Unit 5 Study Guide
 
 ## Key Topics:

@@ -101,6 +101,31 @@ h3 {
   color: var(--muted);
 }
 
+.philosophy-strip {
+  background: #eef7f1;
+  border-bottom: 1px solid var(--border);
+}
+
+.philosophy-strip .container {
+  max-width: 1040px;
+  margin: 0 auto;
+  padding: 0.85rem 1rem;
+  font-size: 0.96rem;
+}
+
+.scripture-connection {
+  margin-top: 1rem;
+  padding: 0.9rem 1rem;
+  border: 1px solid #d8e9dc;
+  border-left: 4px solid var(--primary);
+  border-radius: 8px;
+  background: #f8fcf9;
+}
+
+.scripture-connection h3 {
+  margin-bottom: 0.4rem;
+}
+
 .site-footer .container {
   max-width: 1040px;
   margin: 0 auto 1.5rem auto;
@@ -120,5 +145,10 @@ h3 {
   main.container {
     margin: 0.75rem;
     padding: 1rem;
+  }
+
+  .philosophy-strip .container {
+    padding: 0.75rem;
+    font-size: 0.92rem;
   }
 }

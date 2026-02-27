@@ -1,3 +1,9 @@
+---
+layout: default
+title: Unit 4 Study Guide
+permalink: /resources/unit4-study-guide/
+---
+
 # Unit 4 Study Guide
 
 ## Key Topics:

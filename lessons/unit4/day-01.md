@@ -40,3 +40,10 @@ title: Day 1 — Introduction to Genetics
 ### Exit Ticket
 
 One sentence: "How does DNA show God's handiwork?"
+
+<div class="scripture-connection">
+<h3>Scripture Connection</h3>
+<p><strong>"For you created my inmost being; you knit me together in my mother's womb." — Psalm 139:13</strong></p>
+<p>Connect today's scientific evidence to biblical truth with specific observations from class data, diagrams, or models.</p>
+<p><strong>Synthesis Question:</strong> What scientific result from today most clearly supports your understanding of this verse?</p>
+</div>
