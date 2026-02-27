@@ -5,7 +5,7 @@ permalink: /
 ---
 
 <div class="page-banner card">
-  <img src="{{ "/assets/img/banner.svg" | relative_url }}" alt="Subtle DNA strand banner" class="banner-img" />
+  <img src="{{ "/assets/images/dna-banner.jpg" | relative_url }}" alt="DNA strand banner" class="banner-img" />
 </div>
 
 # Welcome — Biology with Aaron Esbenshade
