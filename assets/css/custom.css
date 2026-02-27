@@ -1,110 +1,124 @@
-:root{
-  --primary:#0B6A3A; /* deep green */
-  --accent:#CFAF4B;  /* gold */
-  --bg:#ffffff;
-  --text:#1f2933;
+:root {
+  --primary: #0B6A3A;
+  --accent: #CFAF4B;
+  --bg: #f7f8fa;
+  --surface: #ffffff;
+  --text: #1f2933;
+  --muted: #6b7280;
+  --border: #e5e7eb;
 }
-*{box-sizing:border-box}
-body{font-family:"Merriweather", Georgia, serif; color:var(--text); background:var(--bg); margin:0; line-height:1.6}
-.container{max-width:800px; margin:2rem auto; padding:2rem; background-color:var(--bg); box-shadow:0 4px 6px rgba(0, 0, 0, 0.1); border-radius:10px}
-.site-header{border-bottom:4px solid var(--accent); background:linear-gradient(90deg, rgba(11,106,58,0.03), transparent); text-align:center}
-.site-header .container{display:flex; align-items:center; gap:1rem; padding:0.75rem 1rem; flex-direction:column}
-.logo svg{display:block}
-.main-nav{margin-left:auto; display:flex; gap:1rem; justify-content:center; margin-top:1rem}
-.main-nav a{color:var(--primary); text-decoration:none; font-weight:600}
-main.container{padding:2rem 1rem}
-h1,h2,h3{color:var(--primary); margin-top:0}
-.site-footer{border-top:1px solid #e6e6e6; padding:1rem 0; color:#6b7280; font-size:0.95rem; text-align:center}
-/* Cards and lists */
-.card{border:1px solid #eef2f1; padding:1rem; border-radius:8px; background:#fff}
-.page-banner{margin:0 0 1rem 0}
-.banner-img{width:100%; max-height:120px; object-fit:cover; border-radius:6px}
-.page-banner.card{padding:0.25rem}
 
-/* Typography tweaks */
-body { font-size:18px; }
-code{background:#f6f8f7;padding:0.15rem 0.3rem;border-radius:4px;font-family:Menlo,monospace}
+* {
+  box-sizing: border-box;
+}
 
-@media (max-width:720px){.main-nav{display:none}.banner-img{height:72px}}
-/* Logo image handling */
-.logo{display:flex; align-items:center}
-.site-logo{height:48px; width:auto; margin-right:0.75rem}
-.logo svg{display:block}
-@media (max-width:480px){.site-logo{height:40px}}
-/* Center the content and improve layout */
 body {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  min-height: 100vh;
-  background: linear-gradient(to bottom, #f0f4f8, #ffffff);
-  padding: 0;
   margin: 0;
-}
-
-.container {
-  max-width: 800px;
-  margin: 2rem auto;
-  padding: 2rem;
-  background-color: #ffffff;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  border-radius: 12px;
-  text-align: center;
+  font-family: "Merriweather", Georgia, serif;
+  color: var(--text);
+  background: var(--bg);
+  line-height: 1.6;
 }
 
 .site-header {
-  text-align: center;
-  padding: 2rem 1rem;
-  background-color: var(--primary);
-  color: white;
-  border-bottom: none;
-  border-radius: 12px 12px 0 0;
+  border-bottom: 4px solid var(--accent);
+  background: var(--surface);
 }
 
 .site-header .container {
-  flex-direction: column;
+  max-width: 1040px;
+  margin: 0 auto;
+  padding: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.logo {
+  display: inline-flex;
+  align-items: center;
+}
+
+.site-logo {
+  height: 56px;
+  width: auto;
+  display: block;
 }
 
 .main-nav {
-  justify-content: center;
-  margin-top: 1rem;
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
 }
 
 .main-nav a {
-  color: white;
+  color: var(--primary);
   text-decoration: none;
-  font-weight: bold;
-  padding: 0.5rem 1rem;
-  border-radius: 5px;
-  transition: background-color 0.3s;
+  font-weight: 700;
 }
 
 .main-nav a:hover {
-  background-color: var(--accent);
-  color: white;
+  text-decoration: underline;
 }
 
-h1 {
-  font-size: 2.5rem;
-  margin-bottom: 1rem;
+main.container {
+  max-width: 1040px;
+  margin: 1.25rem auto;
+  padding: 1.5rem;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 10px;
 }
 
-h2 {
-  font-size: 2rem;
-  margin-bottom: 1rem;
-}
-
+h1,
+h2,
 h3 {
-  font-size: 1.5rem;
-  margin-bottom: 0.75rem;
+  color: var(--primary);
+  margin-top: 0;
+}
+
+.page-banner {
+  margin: 0 0 1rem 0;
+}
+
+.banner-img {
+  width: 100%;
+  max-height: 140px;
+  object-fit: cover;
+  border-radius: 8px;
+  display: block;
+}
+
+.card {
+  border: 1px solid var(--border);
+  padding: 0.5rem;
+  border-radius: 10px;
+  background: var(--surface);
 }
 
 .site-footer {
-  text-align: center;
-  padding: 1.5rem 0;
-  background-color: var(--primary);
-  color: white;
-  border-radius: 0 0 12px 12px;
-  margin-top: 2rem;
+  color: var(--muted);
+}
+
+.site-footer .container {
+  max-width: 1040px;
+  margin: 0 auto 1.5rem auto;
+  padding: 0 1rem;
+}
+
+@media (max-width: 760px) {
+  .site-header .container {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .site-logo {
+    height: 46px;
+  }
+
+  main.container {
+    margin: 0.75rem;
+    padding: 1rem;
+  }
 }

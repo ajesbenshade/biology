@@ -5,24 +5,21 @@
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <title>{{ page.title | default: site.title | default: "Biology" }}</title>
     <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="/assets/css/custom.css">
+    <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+    <link rel="stylesheet" href="{{ "/assets/css/custom.css" | relative_url }}">
   </head>
   <body>
     <header class="site-header">
       <div class="container">
-        <a class="logo" href="/"> 
-          <svg xmlns="http://www.w3.org/2000/svg" width="240" height="52" viewBox="0 0 240 52" role="img" aria-label="Aaron Esbenshade Biology">
-            <rect width="220" height="48" fill="none"/>
-            <text x="0" y="34" font-family="Merriweather, Georgia, serif" font-size="22" fill="#0B6A3A">Aaron Esbenshade</text>
-            <text x="0" y="46" font-family="Merriweather, Georgia, serif" font-size="12" fill="#CFAF4B">Biology</text>
-          </svg>
+        <a class="logo" href="{{ "/" | relative_url }}" aria-label="Aaron Esbenshade Biology home">
+          <img src="{{ "/assets/images/logo.png" | relative_url }}" alt="Aaron Esbenshade — Biology" class="site-logo" />
         </a>
         <nav class="main-nav">
-          <a href="/">Home</a>
-          <a href="/lessons/unit4/README.md">Unit 4</a>
-          <a href="/lessons/unit5/README.md">Unit 5</a>
-          <a href="/syllabus.md">Syllabus</a>
-          <a href="/resources/">Resources</a>
+          <a href="{{ "/" | relative_url }}">Home</a>
+          <a href="{{ "/lessons/unit4/" | relative_url }}">Unit 4</a>
+          <a href="{{ "/lessons/unit5/" | relative_url }}">Unit 5</a>
+          <a href="{{ "/syllabus/" | relative_url }}">Syllabus</a>
+          <a href="{{ "/resources/" | relative_url }}">Resources</a>
         </nav>
       </div>
     </header>
@@ -33,12 +30,4 @@
       <div class="container">Aaron Esbenshade — Biology • © {{ site.time | date: "%Y" }}</div>
     </footer>
   </body>
-        </a>
-          <!-- Optional raster logo; place assets/images/logo.png to use it -->
-          <img src="/assets/images/logo.png" alt="Aaron Esbenshade — Biology" class="site-logo" />
-          <!-- Fallback SVG text-logo -->
-          <svg xmlns="http://www.w3.org/2000/svg" width="240" height="52" viewBox="0 0 240 52" role="img" aria-label="Aaron Esbenshade Biology">
-            <rect width="220" height="48" fill="none"/>
-            <text x="0" y="34" font-family="Merriweather, Georgia, serif" font-size="22" fill="#0B6A3A">Aaron Esbenshade</text>
-            <text x="0" y="46" font-family="Merriweather, Georgia, serif" font-size="12" fill="#CFAF4B">Biology</text>
-          </svg>
+ </html>

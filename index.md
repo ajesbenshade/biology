@@ -1,11 +1,11 @@
 ---
 layout: default
 title: Aaron Esbenshade — Biology
-permalink: /biology/
+permalink: /
 ---
 
 <div class="page-banner card">
-  <img src="/assets/img/banner.svg" alt="Subtle DNA strand banner" class="banner-img" />
+  <img src="{{ "/assets/img/banner.svg" | relative_url }}" alt="Subtle DNA strand banner" class="banner-img" />
 </div>
 
 # Welcome — Biology with Aaron Esbenshade
@@ -16,10 +16,10 @@ I teach high-school biology (freshmen) with an emphasis on academic excellence a
 
 ## Quick Navigation
 
-- [Unit 4: Genetics](/lessons/unit4/README.md)
-- [Unit 5: Evolution & Changing Environments](/lessons/unit5/README.md)
-- [Syllabus & Calendar](/syllabus.md)
-- [Resources & Study Guides](/resources/)
+- [Unit 4: Genetics]({{ "/lessons/unit4/" | relative_url }})
+- [Unit 5: Evolution & Changing Environments]({{ "/lessons/unit5/" | relative_url }})
+- [Syllabus & Calendar]({{ "/syllabus/" | relative_url }})
+- [Resources & Study Guides]({{ "/resources/" | relative_url }})
 
 ---
 
