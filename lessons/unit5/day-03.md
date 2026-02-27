@@ -1,3 +1,4 @@
+<VSCode.Cell language="markdown">
 # Day 3: Molecular & Developmental Evidence
 
 **Scripture Focus:** Psalm 19:1 – “The heavens declare the glory of God.”

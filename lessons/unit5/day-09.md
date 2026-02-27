@@ -1,3 +1,4 @@
+<VSCode.Cell language="markdown">
 # Day 9: Unit Review – Connecting Evidence to Processes
 
 **Scripture Focus:** Genesis 1:31 – “God saw all that he had made, and it was very good.”

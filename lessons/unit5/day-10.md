@@ -1,3 +1,4 @@
+<VSCode.Cell language="markdown">
 # Day 10: Unit Test Prep and Peer Teaching
 
 **Scripture Focus:** Psalm 19:1 – “The heavens declare the glory of God.”

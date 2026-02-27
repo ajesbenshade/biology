@@ -1,3 +1,4 @@
+<VSCode.Cell language="markdown">
 # Day 1: Introduction to Evolution – Why Do Organisms Change Over Time?
 
 **Scripture Focus:** Genesis 1:31 – “God saw all that he had made, and it was very good.”

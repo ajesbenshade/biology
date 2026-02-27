@@ -1,3 +1,4 @@
+<VSCode.Cell language="markdown">
 # Day 1: Introduction to Genetics – The Wonder of Inherited Traits
 
 **Scripture Focus:** Psalm 139:13-14 – “For you created my inmost being… I praise you because I am fearfully and wonderfully made.”

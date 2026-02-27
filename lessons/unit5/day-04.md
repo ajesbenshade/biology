@@ -1,3 +1,4 @@
+<VSCode.Cell language="markdown">
 # Day 4: Natural Selection & Adaptation
 
 **Scripture Focus:** Job 12:7-10 – Animals teach us of God’s hand.

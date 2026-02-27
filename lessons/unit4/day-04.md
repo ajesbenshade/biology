@@ -1,3 +1,4 @@
+<VSCode.Cell language="markdown">
 # Day 4: Mendelian Inheritance – Laws of Heredity Within Kinds
 
 **Scripture Focus:** Genesis 1:21 – “According to their kinds.”

@@ -1,3 +1,4 @@
+<VSCode.Cell language="markdown">
 # Day 7: Review Chapter 12 + Biotechnology Introduction
 
 **Scripture Focus:** Genesis 1:28 – Dominion and stewardship.

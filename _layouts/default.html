@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>{{ page.title | default: site.title | default: "Biology" }}</title>
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/assets/css/custom.css">
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container">
+        <a class="logo" href="/"> 
+          <svg xmlns="http://www.w3.org/2000/svg" width="220" height="48" viewBox="0 0 220 48" role="img" aria-label="Dock Mennonite Biology">
+            <rect width="220" height="48" fill="none"/>
+            <text x="0" y="34" font-family="Merriweather, Georgia, serif" font-size="22" fill="#0B6A3A">Dock Mennonite</text>
+            <text x="0" y="46" font-family="Merriweather, Georgia, serif" font-size="12" fill="#CFAF4B">Biology</text>
+          </svg>
+        </a>
+        <nav class="main-nav">
+          <a href="/">Home</a>
+          <a href="/lessons/unit4/README.md">Unit 4</a>
+          <a href="/lessons/unit5/README.md">Unit 5</a>
+          <a href="/syllabus.md">Syllabus</a>
+          <a href="/resources/">Resources</a>
+        </nav>
+      </div>
+    </header>
+    <main class="container">
+      {{ content }}
+    </main>
+    <footer class="site-footer">
+      <div class="container">Dock Mennonite Academy — Biology • © {{ site.time | date: "%Y" }}</div>
+    </footer>
+  </body>
+</html>

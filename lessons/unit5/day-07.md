@@ -1,3 +1,4 @@
+<VSCode.Cell language="markdown">
 # Day 7: Speciation & Isolation
 
 **Scripture Focus:** Genesis 1:21 – “According to their kinds.”

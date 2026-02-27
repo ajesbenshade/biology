@@ -1,3 +1,4 @@
+<VSCode.Cell language="markdown">
 # Day 2: DNA Structure & Replication – Faithful Copying by the Creator
 
 **Scripture Focus:** Colossians 1:17 – “In him all things hold together.”

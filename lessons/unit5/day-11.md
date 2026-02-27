@@ -1,3 +1,4 @@
+<VSCode.Cell language="markdown">
 # Day 11: Unit 5 Assessment
 
 **Scripture Focus:** Psalm 139:14 – “I praise you because I am fearfully and wonderfully made.”

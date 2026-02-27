@@ -1,3 +1,45 @@
+#!/usr/bin/env python3
+"""Sanitize lesson markdown files: remove code fences and add Jekyll front matter.
+
+Usage: python integrate_lessons.py
+"""
+import pathlib
+import re
+
+ROOT = pathlib.Path(__file__).resolve().parent
+LESSONS = ROOT / 'lessons'
+
+def ensure_front_matter(text, title):
+    fm = f"---\nlayout: default\ntitle: {title}\n---\n\n"
+    if text.lstrip().startswith('---'):
+        return text
+    return fm + text.lstrip()
+
+def clean_file(path: pathlib.Path):
+    txt = path.read_text(encoding='utf-8')
+    # remove surrounding triple-backtick fences if present
+    txt = re.sub(r"^\s*```(?:markdown)?\s*\n","", txt)
+    txt = re.sub(r"\n\s*```\s*$","", txt)
+    # determine title from first H1
+    m = re.search(r"^#\s*(.+)$", txt, flags=re.MULTILINE)
+    title = m.group(1).strip() if m else path.stem
+    # short title for front matter
+    short_title = title.split('—')[0].strip() if '—' in title else title
+    # add front matter if missing
+    new = ensure_front_matter(txt, short_title)
+    if new != txt:
+        path.write_text(new, encoding='utf-8')
+        print(f"Updated {path.relative_to(ROOT)}")
+
+def main():
+    if not LESSONS.exists():
+        print('No lessons directory found.')
+        return
+    for md in LESSONS.rglob('*.md'):
+        clean_file(md)
+
+if __name__ == '__main__':
+    main()
 from pathlib import Path
 import re
 

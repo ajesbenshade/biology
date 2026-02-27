@@ -1,3 +1,4 @@
+<VSCode.Cell language="markdown">
 # Day 10: Unit Review – Key Concepts and Phenomena Tie-In
 
 **Scripture Focus:** Genesis 1:31 – “God saw all that he had made, and it was very good.”

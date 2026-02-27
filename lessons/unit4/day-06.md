@@ -1,3 +1,4 @@
+<VSCode.Cell language="markdown">
 # Day 6: Human Genetics & Pedigrees
 
 **Scripture Focus:** Acts 17:26 – “From one man he made all the nations.”

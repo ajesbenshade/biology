@@ -1,3 +1,4 @@
+<VSCode.Cell language="markdown">
 # Day 9: Biotechnology Ethics and Real-World Applications
 
 **Scripture Focus:** Proverbs 3:5-6 – Trust in the Lord with genetic technology decisions.

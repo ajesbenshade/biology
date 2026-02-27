@@ -1,3 +1,4 @@
+<VSCode.Cell language="markdown">
 # Day 2: Lines of Evidence – Fossils & Anatomy
 
 **Scripture Focus:** 2 Peter 3:5-6 – Flood cataclysm.

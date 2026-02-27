@@ -1,3 +1,4 @@
+<VSCode.Cell language="markdown">
 # Day 6: Mechanisms of Evolution – Mutation, Migration, and Drift
 
 **Scripture Focus:** Romans 8:22 – “The whole creation has been groaning.”

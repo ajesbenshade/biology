@@ -1,3 +1,4 @@
+<VSCode.Cell language="markdown">
 # Day 5: Population Genetics & Microevolution
 
 **Scripture Focus:** Psalm 104:24 – “How many are your works, Lord!”

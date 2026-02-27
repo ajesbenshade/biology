@@ -1,3 +1,4 @@
+<VSCode.Cell language="markdown">
 # Day 3: Gene Expression & Protein Synthesis – The Central Dogma
 
 **Scripture Focus:** Job 38:4,36 – God’s wisdom in creation’s details.
