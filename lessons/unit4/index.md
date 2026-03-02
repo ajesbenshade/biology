@@ -34,7 +34,7 @@ Each daily summary includes a boxed **Scripture Connection** with:
 **Molecular Basis of Heredity**  
 **Core Academic Goal:** Students will master the central dogma (replication → transcription → translation) with quantitative practice, data analysis, and modeling while recognizing these processes as the precise information system designed by our Creator (Colossians 1:16-17).  
 **Pacing:** 8 days (college-prep pace with built-in review and labs)  
-**Materials Used:** All provided Cengage resources (11.1–11.3 sections, Minilab, Looking at the Data, Case Study, Chapter Review, NG Explorer video).
+**Materials Used:** All provided Cengage resources (11.1–11.3 sections, Minilab, Looking at the Data, Case Study, Chapter Review, NG Explorer video).  
 
 **Day 1 – 11.1 Genetic Information: Discovery & Structure of DNA**  
 **Objectives:** Discuss experiments that revealed DNA’s role; relate DNA, mRNA, and protein structures to their functions; analyze base-pairing rules.  
@@ -94,5 +94,70 @@ Each daily summary includes a boxed **Scripture Connection** with:
 **Tie-in:** Students write a one-paragraph synthesis: “How do the mechanisms of DNA, RNA, and proteins demonstrate that ‘in Him all things hold together’?”  
 **Assessment:** Chapter test (60% objective, 40% biblical integration/application).
 
+### Chapter 12: Genetic Variation and Heredity  
+**Core Academic Goal:** Students will master meiosis, mutations, Mendelian ratios, and non-Mendelian patterns with probability calculations, chi-square analysis, pedigrees, and modeling while recognizing that all genetic variation occurs **within** God’s created kinds (Genesis 1:24-25) — never producing new kinds.  
+**Pacing:** 8 days (college-prep pace with built-in math and labs)  
+**Materials Used:** All provided Cengage resources (12.1–12.4 sections, Minilab, Looking at the Data: Blood Type Compatibility, Case Study: For the Love of Dogs, Tying It All Together, Chapter Review, NG Explorer video).
+
+**Day 1 – 12.1 Meiosis**  
+**Objectives:** Compare asexual vs. sexual reproduction; explain how meiosis produces genetic diversity (crossing over, independent assortment).  
+**Key Practice:** Diagram meiosis I & II; compare to mitosis.  
+**Scripture Connection (insightful):**  
+**Genesis 1:24-25** – “And God said… ‘Let the land produce living creatures according to their kinds’… And it was so.”  
+**Tie-in:** Sexual reproduction shuffles alleles but keeps variation **within** the created kind (e.g., dog breeds from wolves). Students defend the claim: “Meiosis is God’s wise mechanism for diversity without creating new kinds.”  
+**Assessment:** Exit ticket – advantages/disadvantages table.
+
+**Day 2 – 12.2 Mutations**  
+**Objectives:** Explain causes and types of mutations (point, chromosomal); relate to trait expression and diversity.  
+**Key Practice:** Classify mutation examples from the section.  
+**Scripture Connection:**  
+**Romans 8:20-22** – “For the creation was subjected to frustration… in hope that the creation itself will be liberated…”  
+**Tie-in:** Mutations introduce variation but are mostly harmful (post-Fall effect); they do not drive upward evolution. Students analyze real examples and contrast with the Designer’s original perfect code.  
+**Assessment:** Mutation classification quiz.
+
+**Day 3 – 12.3 Mendelian Inheritance**  
+**Objectives:** Differentiate genotype/phenotype; solve monohybrid crosses; predict recessive expression.  
+**Key Practice:** Complete Punnett squares for sample crosses.  
+**Scripture Connection:**  
+**Psalm 139:13-16** (review from Ch. 11) – reinforced with inheritance.  
+**Tie-in:** Alleles are passed exactly as God designed for faithful reproduction within kinds.  
+**Assessment:** Genetic cross worksheet.
+
+**Day 4 – Minilab: Modeling Inheritance**  
+**Objectives:** Model a dihybrid cross using coin flips; apply probability and statistics.  
+**Key Practice:** Full Minilab (25 trials, calculate genotype/phenotype ratios).  
+**Scripture Connection:** Same as Day 3 (reinforced).  
+**Assessment:** Lab write-up with chi-square test on results.
+
+**Day 5 – 12.4 Other Patterns of Inheritance**  
+**Objectives:** Compare incomplete dominance, codominance, multiple alleles, sex-linked traits; analyze environmental effects.  
+**Key Practice:** Blood type pedigree problems (from Looking at the Data).  
+**Scripture Connection:**  
+**Job 10:8-12** – “Your hands shaped me and made me…”  
+**Tie-in:** Environmental influences on phenotype show God’s built-in flexibility within kinds (e.g., dog coat color).  
+**Assessment:** Pedigree analysis.
+
+**Day 6 – Looking at the Data + Case Study Application**  
+**Objectives:** Analyze blood-type pedigrees; connect to dog breeding (Case Study: For the Love of Dogs).  
+**Key Practice:** Calculate probabilities from pedigree; watch NG Explorer Kristen Ruegg video (bird migration genes).  
+**Scripture Connection:**  
+**Genesis 1:28** – “Be fruitful and increase in number; fill the earth and subdue it.”  
+**Tie-in:** Selective breeding (dogs) and conservation (birds) are human stewardship of the genetic variation God placed within kinds.  
+**Assessment:** Short claim-evidence-reasoning paragraph.
+
+**Day 7 – Tying It All Together Project**  
+**Objectives:** Research a dog breed; build model of inheritance; create digital presentation (full Tying It All Together activity).  
+**Key Practice:** Predict offspring genotypes from chosen trait.  
+**Scripture Connection:** Same as Day 6 (reinforced).  
+**Assessment:** Presentation rubric (science + biblical integration).
+
+**Day 8 – Chapter 12 Review & Synthesis**  
+**Objectives:** Master all Review Key Concepts (describe alleles, contrast reproduction types, classify mutations, analyze crosses, predict outcomes).  
+**Key Practice:** Full Chapter 12 Review packet + sickle-cell example.  
+**Scripture Connection (capstone):**  
+**Colossians 1:16-17** – “All things have been created through Him and for Him… in Him all things hold together.”  
+**Tie-in:** Students synthesize: “How does the genetic variation we modeled demonstrate that God’s design holds together within every created kind?”  
+**Assessment:** Chapter test (60% objective, 40% biblical integration/application).
+
 **Next Chapters in Unit 4**  
-(Chapter 12: Mendelian Genetics – coming next week)
+(Chapter 13: coming next week)
