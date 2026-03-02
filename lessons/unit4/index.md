@@ -159,5 +159,70 @@ Each daily summary includes a boxed **Scripture Connection** with:
 **Tie-in:** Students synthesize: “How does the genetic variation we modeled demonstrate that God’s design holds together within every created kind?”  
 **Assessment:** Chapter test (60% objective, 40% biblical integration/application).
 
-**Next Chapters in Unit 4**  
-(Chapter 13: coming next week)
+### Chapter 13: Genetic Technologies  
+**Core Academic Goal:** Students will master genetic tools, engineering, and vaccine development through the engineering design process, data analysis, and modeling while viewing these technologies as powerful expressions of human dominion and stewardship (Genesis 1:28) — tools to care for creation and alleviate suffering in a fallen world, always guided by biblical wisdom and ethics.  
+**Pacing:** 8 days (college-prep pace with built-in engineering and ethics)  
+**Materials Used:** All provided Cengage resources (13.1–13.3 sections, Minilab: Herd Immunity, Looking at the Data: Genetic Therapy Clinical Trials, Case Study: Genetics to the Rescue!, Tying It All Together, Chapter Review, NG Explorer video).
+
+**Day 1 – 13.1 Tools in Genetic Technology**  
+**Objectives:** Describe restriction enzymes, PCR, gel electrophoresis, and genomics.  
+**Key Practice:** Analyze electrophoresis results and Knowledge Rating Scale (from 13.1).  
+**Scripture Connection (insightful):**  
+**Psalm 139:13-16** – “Your eyes saw my unformed body; all the days ordained for me were written in your book…”  
+**Tie-in:** Scientists can cut, copy, and read DNA only because God designed it as an orderly, readable code. Students explain how PCR mimics faithful replication and journal: “How does the precision of these tools reflect the Creator’s handiwork?”  
+**Assessment:** Exit ticket – label PCR steps.
+
+**Day 2 – 13.2 Genetic Engineering (GMOs & Cloning)**  
+**Objectives:** Identify uses of genetic engineering and somatic cell nuclear transfer (SCNT); connect to Case Study (Elizabeth Ann ferret).  
+**Key Practice:** Discuss cloning for conservation.  
+**Scripture Connection:**  
+**Genesis 1:28** – “Be fruitful and increase in number; fill the earth and subdue it.”  
+**Tie-in:** Cloning an endangered ferret is wise stewardship of the kinds God entrusted to us, but humans cannot create life from nothing.  
+**Assessment:** Short claim about ethical use of cloning.
+
+**Day 3 – 13.2 Gene Therapy & CRISPR**  
+**Objectives:** Explain gene therapy; evaluate CRISPR effectiveness and ethics.  
+**Key Practice:** Analyze ethical questions from the Analyze prompt (human germline editing).  
+**Scripture Connection:**  
+**Proverbs 2:6** – “For the Lord gives wisdom; from his mouth come knowledge and understanding.”  
+**Tie-in:** CRISPR is an incredible tool, but we must use God-given wisdom — we are image-bearers who steward, not play God.  
+**Assessment:** Ethical evaluation paragraph.
+
+**Day 4 – Looking at the Data + Minilab Prep**  
+**Objectives:** Analyze clinical trial graphs (numbers and costs).  
+**Key Practice:** Make a claim about the future of gene therapy trials.  
+**Scripture Connection:** Same as Day 3 (reinforced).  
+**Assessment:** Data-based claim with evidence.
+
+**Day 5 – 13.3 Vaccine Development**  
+**Objectives:** Summarize immune system protection; compare vaccine types and supporting measures.  
+**Key Practice:** Semantic Map of immunity terms.  
+**Scripture Connection:**  
+**Romans 8:20-22** – “…the creation itself will be liberated from its bondage to decay…”  
+**Tie-in:** Vaccines are a merciful gift to fight disease in a cursed world; they do not replace God’s design but help restore health.  
+**Assessment:** Compare vaccine technologies table.
+
+**Day 6 – Minilab: Herd Immunity**  
+**Objectives:** Model vaccination rates and infection spread; calculate average infection rates.  
+**Key Practice:** Full Minilab with real-world comparison.  
+**Scripture Connection:** Same as Day 5 (reinforced).  
+**Assessment:** Lab write-up with graph and stewardship reflection.
+
+**Day 7 – Tying It All Together Project + NG Explorer**  
+**Objectives:** Design a genetic engineering solution for a hypothetical endangered species (full Tying It All Together); watch Pardis Sabeti video (malaria prediction).  
+**Key Practice:** Build and evaluate two models.  
+**Scripture Connection:**  
+**Genesis 1:28** (review).  
+**Tie-in:** Using math and engineering to fight malaria or save species is exactly the dominion God commanded — science serving people and creation.  
+**Assessment:** Project presentation rubric (science + biblical ethics).
+
+**Day 8 – Chapter 13 Review & Synthesis**  
+**Objectives:** Master all Review Key Concepts (identify procedures, compare DNA samples, describe PCR, contrast genomes, define SCNT, identify treatable conditions).  
+**Key Practice:** Full Chapter 13 Review packet + ethical scenario.  
+**Scripture Connection (capstone):**  
+**Colossians 1:16-17** – “All things have been created through Him and for Him… in Him all things hold together.”  
+**Tie-in:** Students synthesize: “How do genetic technologies demonstrate both the wonder of God’s design and our responsibility to use them wisely under His authority?”  
+**Assessment:** Chapter test (60% objective, 40% biblical integration/application).
+
+**End of Unit 4**  
+(Ready for Unit 5: Evolution and Changing Environments — coming next week)
