@@ -84,7 +84,7 @@ Each daily summary includes a boxed **Scripture Connection** with:
 **Scripture Connection:**  
 **Job 10:8-12** – “Your hands shaped me and made me… Did you not clothe me with skin and flesh…?”  
 **Tie-in:** Environmental factors (temperature/light) switch genes on/off without changing the DNA code—exactly as God designed for diversity within kinds (butterfly adaptive radiation).  
-**Assessment:** Lab write-up with photo of student model.
+**Assessment:** Lab write-up + **TIAT: Expressing the Genetic Code** using [Creationist-Enhanced Rubric]({{ "/resources/rubrics/unit4-ch11-tiat-rubric/" | relative_url }}) (includes Biblical Stewardship row on Psalm 139/Colossians 1).
 
 **Day 8 – Chapter 11 Review & Synthesis**  
 **Objectives:** Master all Review Key Concepts (identify, classify, label, calculate, explain, summarize, describe).  
@@ -149,7 +149,7 @@ Each daily summary includes a boxed **Scripture Connection** with:
 **Objectives:** Research a dog breed; build model of inheritance; create digital presentation (full Tying It All Together activity).  
 **Key Practice:** Predict offspring genotypes from chosen trait.  
 **Scripture Connection:** Same as Day 6 (reinforced).  
-**Assessment:** Presentation rubric (science + biblical integration).
+**Assessment:** Presentation using [Creationist-Enhanced TIAT Rubric]({{ "/resources/rubrics/unit4-ch12-tiat-rubric/" | relative_url }}) (Biblical Stewardship row emphasizes variation within created kinds and dominion).
 
 **Day 8 – Chapter 12 Review & Synthesis**  
 **Objectives:** Master all Review Key Concepts (describe alleles, contrast reproduction types, classify mutations, analyze crosses, predict outcomes).  
@@ -214,7 +214,7 @@ Each daily summary includes a boxed **Scripture Connection** with:
 **Scripture Connection:**  
 **Genesis 1:28** (review).  
 **Tie-in:** Using math and engineering to fight malaria or save species is exactly the dominion God commanded — science serving people and creation.  
-**Assessment:** Project presentation rubric (science + biblical ethics).
+**Assessment:** Project using [Creationist-Enhanced TIAT Rubric]({{ "/resources/rubrics/unit4-ch13-tiat-rubric/" | relative_url }}) (Biblical Stewardship row requires ethical dominion reflection).
 
 **Day 8 – Chapter 13 Review & Synthesis**  
 **Objectives:** Master all Review Key Concepts (identify procedures, compare DNA samples, describe PCR, contrast genomes, define SCNT, identify treatable conditions).  
@@ -226,3 +226,9 @@ Each daily summary includes a boxed **Scripture Connection** with:
 
 **End of Unit 4**  
 (Ready for Unit 5: Evolution and Changing Environments — coming next week)
+
+### Tying It All Together Rubrics Folder
+
+- [Chapter 11 TIAT: Expressing the Genetic Code]({{ "/resources/rubrics/unit4-ch11-tiat-rubric/" | relative_url }})
+- [Chapter 12 TIAT: For the Love of Dogs]({{ "/resources/rubrics/unit4-ch12-tiat-rubric/" | relative_url }})
+- [Chapter 13 TIAT: Genetics to the Rescue!]({{ "/resources/rubrics/unit4-ch13-tiat-rubric/" | relative_url }})
