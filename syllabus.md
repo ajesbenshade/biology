@@ -18,8 +18,8 @@ Welcome to Biology with Aaron Esbenshade! This course covers Units 4 (Genetics) 
   - Scripture Focus: Genesis 1:31, Job 12:7-10.
 
 ### Grading Policy:
-- Objective mastery (tests, problem sets, data analysis): 60%
-- Application (labs, claim evaluation, Scripture-data synthesis): 40%
+- Summative (tests, quizzes, problem sets, data analysis): 60%
+- Formative (homework, bellwork, class work, labs, claim-evaluation, Scripture-data synthesis): 40%
 
 ### Calendar:
 - **Week 1-4:** Unit 4 (Genetics)

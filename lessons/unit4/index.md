@@ -25,8 +25,8 @@ Each daily summary includes a boxed **Scripture Connection** with:
 
 ## Assessment Weighting
 
-- **60% Objective:** tests, Punnett square mastery, data analysis, graphing
-- **40% Application:** lab reports and claim-evaluation writing using data + Scripture
+- **60% Summative:** tests, quizzes, Punnett square mastery, data analysis, graphing
+- **40% Formative:** homework, bellwork, class work, lab reports, and claim-evaluation writing using data + Scripture
 
 ## Daily Lessons
 
@@ -100,7 +100,7 @@ Each daily summary includes a boxed **Scripture Connection** with:
 **Scripture Connection (capstone):**  
 **Colossians 1:16-17** (review of unit philosophy).  
 **Tie-in:** Students write a one-paragraph synthesis: “How do the mechanisms of DNA, RNA, and proteins demonstrate that ‘in Him all things hold together’?”  
-**Assessment:** Chapter test (60% objective, 40% biblical integration/application).
+**Assessment:** Chapter test (Summative — counts toward 60% of the course grade; formative work and application count toward 40%.)
 
 ### Chapter 12: Genetic Variation and Heredity  
 **Core Academic Goal:** Students will master meiosis, mutations, Mendelian ratios, and non-Mendelian patterns with probability calculations, chi-square analysis, pedigrees, and modeling while recognizing that all genetic variation occurs **within** God’s created kinds (Genesis 1:24-25) — never producing new kinds.  
@@ -165,7 +165,7 @@ Each daily summary includes a boxed **Scripture Connection** with:
 **Scripture Connection (capstone):**  
 **Colossians 1:16-17** – “All things have been created through Him and for Him… in Him all things hold together.”  
 **Tie-in:** Students synthesize: “How does the genetic variation we modeled demonstrate that God’s design holds together within every created kind?”  
-**Assessment:** Chapter test (60% objective, 40% biblical integration/application).
+**Assessment:** Chapter test (Summative — counts toward 60% of the course grade; formative work and application count toward 40%.)
 
 ### Chapter 13: Genetic Technologies  
 **Core Academic Goal:** Students will master genetic tools, engineering, and vaccine development through the engineering design process, data analysis, and modeling while viewing these technologies as powerful expressions of human dominion and stewardship (Genesis 1:28) — tools to care for creation and alleviate suffering in a fallen world, always guided by biblical wisdom and ethics.  
@@ -230,7 +230,7 @@ Each daily summary includes a boxed **Scripture Connection** with:
 **Scripture Connection (capstone):**  
 **Colossians 1:16-17** – “All things have been created through Him and for Him… in Him all things hold together.”  
 **Tie-in:** Students synthesize: “How do genetic technologies demonstrate both the wonder of God’s design and our responsibility to use them wisely under His authority?”  
-**Assessment:** Chapter test (60% objective, 40% biblical integration/application).
+**Assessment:** Chapter test (Summative — counts toward 60% of the course grade; formative work and application count toward 40%.)
 
 **End of Unit 4**  
 (Ready for Unit 5: Evolution and Changing Environments — coming next week)

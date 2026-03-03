@@ -9,7 +9,7 @@ permalink: /lessons/unit4/day8-genetic-engineering/
 ## Lesson Focus
 - Apply biotechnology concepts to real-world cases
 - Evaluate evidence-based claims in genetics
-- Maintain objective assessment aligned to textbook science
+- Maintain summative assessments aligned to textbook science
 
 ## Objective Science Targets
 - Recombinant DNA and GMO basics
@@ -22,7 +22,7 @@ permalink: /lessons/unit4/day8-genetic-engineering/
 - Virtual gene-editing simulation with vocabulary checkpoints
 - Claim-evidence-reasoning writing task using biotechnology data
 
-## Assessment (Objective)
+## Assessment (Summative)
 - Short response on CRISPR mechanism
 - Data interpretation prompt (PCR/gel or case-study data)
 - Vocabulary and concept check on biotechnology terms
