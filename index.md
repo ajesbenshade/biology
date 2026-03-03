@@ -42,11 +42,11 @@ I teach high-school biology (freshmen) with an emphasis on academic excellence a
 ## Unit 4 Daily Summaries
 
 - [Day 1]({{ "/lessons/unit4/day-01/" | relative_url }})
-- [Day 2]({{ "/lessons/unit4/day-02/" | relative_url }})
-- [Day 3]({{ "/lessons/unit4/day-03/" | relative_url }})
-- [Day 4]({{ "/lessons/unit4/day-04/" | relative_url }})
-- [Day 5]({{ "/lessons/unit4/day-05/" | relative_url }})
-- [Day 6]({{ "/lessons/unit4/day-06/" | relative_url }})
+- [Day 2]({{ "/lessons/unit4/day2-dna-replication/" | relative_url }})
+- [Day 3]({{ "/lessons/unit4/day3-gene-expression/" | relative_url }})
+- [Day 4]({{ "/lessons/unit4/day4-mendelian-inheritance/" | relative_url }})
+- [Day 5]({{ "/lessons/unit4/day5-complex-inheritance/" | relative_url }})
+- [Day 6]({{ "/lessons/unit4/day6-human-genetics-pedigrees/" | relative_url }})
 - [Day 7]({{ "/lessons/unit4/day-07/" | relative_url }})
 - [Day 8]({{ "/lessons/unit4/day-08/" | relative_url }})
 - [Day 9]({{ "/lessons/unit4/day-09/" | relative_url }})

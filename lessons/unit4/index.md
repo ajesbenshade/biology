@@ -32,16 +32,16 @@ Welcome to Unit 4. This unit is focused on measurable mastery of National Geogra
 | Day | Focus | Link |
 |---|---|---|
 | 1 | Introduction to Genetics | [Go to Day 1 →]({{ "/lessons/unit4/day-01/" | relative_url }}) |
-| 2 | DNA Structure and Replication Basics | [Go to Day 2 →]({{ "/lessons/unit4/day-02/" | relative_url }}) |
-| 3 | Transcription and Translation | [Go to Day 3 →]({{ "/lessons/unit4/day-03/" | relative_url }}) |
-| 4 | Protein Synthesis and Review | [Go to Day 4 →]({{ "/lessons/unit4/day-04/" | relative_url }}) |
+| 2 | DNA Structure and Replication Basics | [Go to Day 2 →]({{ "/lessons/unit4/day2-dna-replication/" | relative_url }}) |
+| 3 | Transcription and Translation | [Go to Day 3 →]({{ "/lessons/unit4/day3-gene-expression/" | relative_url }}) |
+| 4 | Protein Synthesis and Review | [Go to Day 4 →]({{ "/lessons/unit4/day4-mendelian-inheritance/" | relative_url }}) |
 
 ### Chapter 12 — Genetic Variation and Heredity
 
 | Day | Focus | Link |
 |---|---|---|
-| 5 | Meiosis and Inheritance Patterns | [Go to Day 5 →]({{ "/lessons/unit4/day-05/" | relative_url }}) |
-| 6 | Human Genetics and Pedigrees | [Go to Day 6 →]({{ "/lessons/unit4/day-06/" | relative_url }}) |
+| 5 | Meiosis and Inheritance Patterns | [Go to Day 5 →]({{ "/lessons/unit4/day5-complex-inheritance/" | relative_url }}) |
+| 6 | Human Genetics and Pedigrees | [Go to Day 6 →]({{ "/lessons/unit4/day6-human-genetics-pedigrees/" | relative_url }}) |
 | 7 | Chapter 12 Review + Biotechnology Intro | [Go to Day 7 →]({{ "/lessons/unit4/day7-review-biotech/" | relative_url }}) |
 | 8 | Genetic Engineering Applications | [Go to Day 8 →]({{ "/lessons/unit4/day8-genetic-engineering/" | relative_url }}) |
 
