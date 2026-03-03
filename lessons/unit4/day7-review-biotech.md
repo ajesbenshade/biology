@@ -36,3 +36,4 @@ Scripture discussion can frame stewardship and ethics during discussion, but qui
 ## Resources
 - [Unit 4 Hub]({{ "/lessons/unit4/" | relative_url }})
 - [Student View (objective-only)]({{ "/lessons/unit4/student-view/" | relative_url }})
+- [Download Worksheet Pack]({{ "/resources/unit4-day7-8-worksheet-pack/" | relative_url }})

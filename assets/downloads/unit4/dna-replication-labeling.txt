@@ -1,0 +1,40 @@
+Unit 4 Worksheet: DNA Replication Labeling
+Name: ____________________   Date: ____________________
+
+Directions:
+Label the following on a replication fork diagram:
+- Helicase
+- Primase
+- DNA polymerase
+- Ligase
+- Leading strand
+- Lagging strand
+- Okazaki fragments
+- 5' and 3' ends
+
+Part A: Labeling Checklist
+[ ] Helicase at the fork opening
+[ ] Primase at RNA primer start sites
+[ ] DNA polymerase extending new strands (5' -> 3')
+[ ] Ligase joining Okazaki fragments
+[ ] Leading strand continuous synthesis
+[ ] Lagging strand discontinuous synthesis
+[ ] Correct 5'/3' direction labels
+
+Part B: Short Response
+1) Why can DNA polymerase only add nucleotides in the 5' -> 3' direction?
+
+2) Why are Okazaki fragments formed on only one strand?
+
+3) What is the role of ligase in replication?
+
+4) Explain semi-conservative replication in one paragraph.
+
+Part C: Sequence Practice
+Given template strand: 3'-TACGGCATTA-5'
+A) Write the complementary original strand:
+B) Write the newly synthesized complementary strand after replication:
+C) Explain how base pairing ensures fidelity.
+
+Extension:
+Describe one way replication errors are reduced in cells.

@@ -1,0 +1,57 @@
+Unit 4 Worksheet: Chi-Square Practice (Genetics)
+Name: ____________________   Date: ____________________
+
+Directions:
+Use chi-square (χ²) to compare observed vs. expected outcomes.
+Formula: χ² = Σ ((O - E)^2 / E)
+Use df = (number of categories - 1).
+
+Problem 1: Monohybrid Cross (Expected 3:1)
+Observed counts from 160 seedlings:
+- Dominant phenotype: 118
+- Recessive phenotype: 42
+
+A) Calculate expected counts for a 3:1 ratio.
+B) Compute χ².
+C) Determine df.
+D) Interpret whether observed data fit the expected ratio.
+
+Work:
+
+
+
+
+Problem 2: Dihybrid Cross (Expected 9:3:3:1)
+Observed counts from 320 offspring:
+- Round yellow: 176
+- Round green: 66
+- Wrinkled yellow: 52
+- Wrinkled green: 26
+
+A) Calculate expected counts for 9:3:3:1.
+B) Compute χ².
+C) Determine df.
+D) State whether data are a good fit.
+
+Work:
+
+
+
+
+Problem 3: Test Cross (Expected 1:1)
+Observed counts from 200 offspring:
+- Purple: 95
+- White: 105
+
+A) Calculate expected counts.
+B) Compute χ².
+C) Determine df.
+D) Interpret your result.
+
+Work:
+
+
+
+
+Extension:
+Write one sentence explaining why chi-square is useful in genetics.

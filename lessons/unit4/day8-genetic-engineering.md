@@ -33,3 +33,4 @@ Ethical framing can be discussed in class, while grading remains on scientific u
 ## Resources
 - [Unit 4 Hub]({{ "/lessons/unit4/" | relative_url }})
 - [Advanced Review Page]({{ "/resources/unit4-days7-8-advanced-review/" | relative_url }})
+- [Download Worksheet Pack]({{ "/resources/unit4-day7-8-worksheet-pack/" | relative_url }})

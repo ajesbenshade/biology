@@ -16,6 +16,7 @@ permalink: /resources/
 - Pedigree chart examples
 - [Advanced Review: Unit 4 Days 7–8]({{ "/resources/unit4-days7-8-advanced-review/" | relative_url }})
 - [Unit 4 Student View (Objective Targets)]({{ "/lessons/unit4/student-view/" | relative_url }})
+- [Unit 4 Worksheet Pack (Day 7–8)]({{ "/resources/unit4-day7-8-worksheet-pack/" | relative_url }})
 
 ## Family Communication
 - [Parent Letter]({{ "/resources/parent-letter/" | relative_url }})

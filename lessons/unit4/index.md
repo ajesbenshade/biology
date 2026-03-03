@@ -34,6 +34,7 @@ Each daily summary includes a boxed **Scripture Connection** with:
 
 - [Day 7: Chapter 12 Review + Biotechnology Introduction]({{ "/lessons/unit4/day7-review-biotech/" | relative_url }})
 - [Day 8: Genetic Engineering Applications and Ethics]({{ "/lessons/unit4/day8-genetic-engineering/" | relative_url }})
+- [Download Worksheet Pack (Chi-Square + Codon + Replication)]({{ "/resources/unit4-day7-8-worksheet-pack/" | relative_url }})
 - [Student View (Objective Science Targets)]({{ "/lessons/unit4/student-view/" | relative_url }})
 - [Advanced Review (Days 7–8)]({{ "/resources/unit4-days7-8-advanced-review/" | relative_url }})
 

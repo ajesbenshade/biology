@@ -1,0 +1,44 @@
+Unit 4 Worksheet: Codon Table Practice
+Name: ____________________   Date: ____________________
+
+Directions:
+Use a standard mRNA codon table.
+- Start codon: AUG
+- Stop codons: UAA, UAG, UGA
+
+Part A: Translate mRNA to amino acids
+1) AUG GCU UUU CCA UGA
+2) AUG AAG GGA UCU UAA
+3) AUG CCU CGA GGU UAG
+4) AUG UUU UUU UUC UGA
+
+Write amino acid chains:
+
+
+Part B: DNA -> mRNA -> Protein
+For each DNA template strand, transcribe mRNA and translate:
+1) TAC CGA AAA GGT ACT
+2) TAC TTC CCT AGA ATT
+3) TAC GGA GCT CCA ATC
+
+Work:
+
+
+Part C: Mutation Analysis
+Original mRNA: AUG GCU UUU CCA UGA
+
+A) Point mutation (substitution): AUG GCU UUA CCA UGA
+- Is the mutation silent, missense, or nonsense?
+- Explain your evidence from the codon table.
+
+B) Frameshift mutation (deletion): AUG CUU UUC CAU GA...
+- Translate as far as possible.
+- Explain why frameshift mutations often have larger effects.
+
+Work:
+
+
+Part D: Quick Checks
+1) Which codon starts translation? ____________________
+2) List all stop codons: ____________________
+3) Why is reading frame important? ____________________
