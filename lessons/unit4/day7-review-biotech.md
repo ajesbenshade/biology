@@ -6,34 +6,47 @@ permalink: /lessons/unit4/day7-review-biotech/
 
 # Unit 4 Day 7 — Chapter 12 Review + Biotechnology Introduction
 
-## Lesson Focus (70 minutes)
-- Review Chapter 12 inheritance skills
-- Introduce biotechnology vocabulary and tools
--- Keep summative assessments objective and science-only
+## Bell Work
 
-## Objective Science Targets
-- Mendelian ratios and Punnett squares
-- Chi-square analysis and probability
-- Meiosis vs. mitosis diagram interpretation
-- DNA replication steps and enzyme roles
-- PCR and gel electrophoresis basics
-- CRISPR introductory concepts
+What is one ethical issue in gene editing?
 
-## Suggested Flow
-1. **Bell Work (10 min):** Identify one current biotechnology application and one possible concern.
-2. **Chapter 12 Review Stations (30 min):** Punnett squares, pedigrees, meiosis/mitosis, chi-square.
-3. **Biotechnology Intro (30 min):** PCR, gels, and CRISPR with vocabulary check.
+## Objectives (Tested)
+
+- Review Mendelian inheritance
+- Review meiosis vs. mitosis
+- Review DNA replication with major enzymes and strand direction
+- Introduce PCR basics
+- Introduce gel electrophoresis basics
+- Introduce CRISPR basics
+
+## Materials
+
+- National Geographic Biology Chapter 12 review set
+- MindTap CRISPR video
+- Class notes and vocabulary list
+
+## Activities
+
+1. Bell work response and share-out
+2. Chapter 12 review stations: Punnett squares, chi-square, meiosis/mitosis, DNA replication
+3. Biotechnology intro mini-lesson: PCR, gels, CRISPR
+4. Pros/cons discussion of biotechnology based on scientific evidence
 
 ## Assessment (Summative)
-- 20 multiple-choice questions
-- 2 Punnett square problems
-- 1 chi-square problem
-- 1 labeled DNA replication diagram
 
-## Teacher Note (Worldview Integration)
-Scripture discussion can frame stewardship and ethics during discussion, but quiz scoring remains based on objective science content.
+- Chapter 12 quiz
 
-## Resources
-- [Unit 4 Hub]({{ "/lessons/unit4/" | relative_url }})
-- [Student View (objective-only)]({{ "/lessons/unit4/student-view/" | relative_url }})
-- [Download Worksheet Pack]({{ "/resources/unit4-day7-8-worksheet-pack/" | relative_url }})
+## Homework (Formative)
+
+- Complete targeted review corrections from quiz prep items
+
+## Teacher Notes Only (not for students)
+
+- Reinforce a creationist worldview in discussion by emphasizing design, order, and limits of human intervention.
+- In the debate segment, emphasize responsible use of biotechnology as a teacher-led framing point only.
+- Keep all graded items 100% academic and textbook-aligned.
+
+## Navigation
+
+- [← Back to Unit 4 Hub]({{ "/lessons/unit4/" | relative_url }})
+- [Go to Day 8 →]({{ "/lessons/unit4/day8-genetic-engineering/" | relative_url }})

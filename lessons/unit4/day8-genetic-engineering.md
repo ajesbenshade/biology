@@ -6,31 +6,34 @@ permalink: /lessons/unit4/day8-genetic-engineering/
 
 # Unit 4 Day 8 — Genetic Engineering Applications and Ethics
 
-## Lesson Focus
-- Apply biotechnology concepts to real-world cases
-- Evaluate evidence-based claims in genetics
-- Maintain summative assessments aligned to textbook science
+## Objectives (Tested)
 
-## Objective Science Targets
-- Recombinant DNA and GMO basics
-- CRISPR mechanism and applications
-- PCR/gel interpretation in applied contexts
-- Data-based argumentation from biotechnology case evidence
+- Describe recombinant DNA
+- Explain GMO basics and applications
+- Explain CRISPR basics and common uses
+- Evaluate real-world biotechnology applications using data
 
-## Suggested Activities
-- Pros/cons analysis using evidence from textbook and class notes
-- Virtual gene-editing simulation with vocabulary checkpoints
-- Claim-evidence-reasoning writing task using biotechnology data
+## Activities
+
+1. Pros/cons group debate using textbook evidence
+2. Virtual lab on gene insertion
+3. Data-based discussion and summary writing
 
 ## Assessment (Summative)
-- Short response on CRISPR mechanism
-- Data interpretation prompt (PCR/gel or case-study data)
-- Vocabulary and concept check on biotechnology terms
 
-## Teacher Note (Worldview Integration)
-Ethical framing can be discussed in class, while grading remains on scientific understanding, data use, and clear reasoning.
+- In-class application check: recombinant DNA, GMOs, CRISPR, and data interpretation
 
-## Resources
-- [Unit 4 Hub]({{ "/lessons/unit4/" | relative_url }})
-- [Advanced Review Page]({{ "/resources/unit4-days7-8-advanced-review/" | relative_url }})
-- [Download Worksheet Pack]({{ "/resources/unit4-day7-8-worksheet-pack/" | relative_url }})
+## Homework (Formative)
+
+- Debate outline
+- Unit review packet
+
+## Teacher Notes Only (not for students)
+
+- Use ethics discussion to frame responsible use of technology from a biblical worldview perspective.
+- Keep grading strictly on science vocabulary, data interpretation, and reasoning.
+
+## Navigation
+
+- [← Back to Unit 4 Hub]({{ "/lessons/unit4/" | relative_url }})
+- [Go to Day 9 →]({{ "/lessons/unit4/day9-biotech-data-analysis/" | relative_url }})
