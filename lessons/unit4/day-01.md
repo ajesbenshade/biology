@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Day 1 — Introduction to Genetics
+permalink: /lessons/unit4/day-01/
 ---
 
 # Day 1: Introduction to Genetics

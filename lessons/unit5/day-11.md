@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Day 11: Unit 5 Assessment
+permalink: /lessons/unit5/day-11/
 ---
 
 # Day 11: Unit 5 Assessment

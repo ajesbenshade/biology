@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Day 7: Speciation & Isolation
+permalink: /lessons/unit5/day-07/
 ---
 
 # Day 7: Speciation & Isolation

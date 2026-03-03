@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Day 6: Human Genetics & Pedigrees
+permalink: /lessons/unit4/day-06/
 ---
 
 # Day 6: Human Genetics & Pedigrees

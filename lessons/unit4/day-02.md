@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Day 2: DNA Structure & Replication – Faithful Copying by the Creator
+permalink: /lessons/unit4/day-02/
 ---
 
 # Day 2: DNA Structure & Replication – Faithful Copying by the Creator

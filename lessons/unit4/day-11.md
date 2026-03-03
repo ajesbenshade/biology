@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Day 11: Unit Test Prep and Extension
+permalink: /lessons/unit4/day-11/
 ---
 
 # Day 11: Unit Test Prep and Extension

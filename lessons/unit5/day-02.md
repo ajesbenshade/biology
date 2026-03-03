@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Day 2: Lines of Evidence – Fossils & Anatomy
+permalink: /lessons/unit5/day-02/
 ---
 
 # Day 2: Lines of Evidence – Fossils & Anatomy

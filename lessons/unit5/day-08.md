@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Day 8: Patterns of Change & Extinction
+permalink: /lessons/unit5/day-08/
 ---
 
 # Day 8: Patterns of Change & Extinction

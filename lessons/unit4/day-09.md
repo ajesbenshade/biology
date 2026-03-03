@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Day 9: Biotechnology Ethics and Real-World Applications
+permalink: /lessons/unit4/day-09/
 ---
 
 # Day 9: Biotechnology Ethics and Real-World Applications

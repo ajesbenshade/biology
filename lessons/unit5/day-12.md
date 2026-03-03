@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Day 12: Unit 5 Assessment & Wrap-Up
+permalink: /lessons/unit5/day-12/
 ---
 
 # Day 12: Unit 5 Assessment & Wrap-Up

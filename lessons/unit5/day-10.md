@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Day 10: Unit Test Prep and Peer Teaching
+permalink: /lessons/unit5/day-10/
 ---
 
 # Day 10: Unit Test Prep and Peer Teaching

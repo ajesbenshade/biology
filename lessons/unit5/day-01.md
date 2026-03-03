@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Day 1: Introduction to Evolution – Why Do Organisms Change Over Time?
+permalink: /lessons/unit5/day-01/
 ---
 
 # Day 1: Introduction to Evolution – Why Do Organisms Change Over Time?

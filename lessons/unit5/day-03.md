@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Day 3: Molecular & Developmental Evidence
+permalink: /lessons/unit5/day-03/
 ---
 
 # Day 3: Molecular & Developmental Evidence

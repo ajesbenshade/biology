@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Day 5: Population Genetics & Microevolution
+permalink: /lessons/unit5/day-05/
 ---
 
 # Day 5: Population Genetics & Microevolution
