@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Day 7: Review Chapter 12 + Biotechnology Introduction
+title: "Day 7: Review Chapter 12 + Biotechnology Introduction"
 permalink: /lessons/unit4/day-07/
 ---
 

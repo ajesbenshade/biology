@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Day 8: Genetic Engineering Applications & Ethics
+title: "Day 8: Genetic Engineering Applications & Ethics"
 permalink: /lessons/unit4/day-08/
 ---
 

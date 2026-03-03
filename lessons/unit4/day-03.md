@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Day 3: Gene Expression & Protein Synthesis – The Central Dogma
+title: "Day 3: Gene Expression & Protein Synthesis – The Central Dogma"
 permalink: /lessons/unit4/day-03/
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Day 9: Biotechnology Ethics and Real-World Applications
+title: "Day 9: Biotechnology Ethics and Real-World Applications"
 permalink: /lessons/unit4/day-09/
 ---
 

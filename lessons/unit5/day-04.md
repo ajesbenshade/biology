@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Day 4: Natural Selection & Adaptation
+title: "Day 4: Natural Selection & Adaptation"
 permalink: /lessons/unit5/day-04/
 ---
 

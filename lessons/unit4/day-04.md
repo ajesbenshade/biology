@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Day 4: Mendelian Inheritance – Laws of Heredity Within Kinds
+title: "Day 4: Mendelian Inheritance – Laws of Heredity Within Kinds"
 permalink: /lessons/unit4/day-04/
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Day 9: Unit Review – Connecting Evidence to Processes
+title: "Day 9: Unit Review – Connecting Evidence to Processes"
 permalink: /lessons/unit5/day-09/
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Day 12: Unit 4 Assessment and Wrap-Up
+title: "Day 12: Unit 4 Assessment and Wrap-Up"
 permalink: /lessons/unit4/day-12/
 ---
 

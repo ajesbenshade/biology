@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Day 6: Human Genetics & Pedigrees
+title: "Day 6: Human Genetics & Pedigrees"
 permalink: /lessons/unit4/day-06/
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Day 5: Complex Inheritance Patterns
+title: "Day 5: Complex Inheritance Patterns"
 permalink: /lessons/unit4/day-05/
 ---
 

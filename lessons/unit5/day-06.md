@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Day 6: Mechanisms of Evolution – Mutation, Migration, and Drift
+title: "Day 6: Mechanisms of Evolution – Mutation, Migration, and Drift"
 permalink: /lessons/unit5/day-06/
 ---
 
