@@ -12,3 +12,5 @@
 - [Day 10](day-10.md)
 - [Day 11](day-11.md)
 - [Day 12](day-12.md)
+- [Day 13](day-13.md)
+- [Day 14](day-14.md)
