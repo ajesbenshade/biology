@@ -30,6 +30,13 @@ Each daily summary includes a boxed **Scripture Connection** with:
 
 ## Daily Lessons
 
+### Days 7–8 Quick Access
+
+- [Day 7: Chapter 12 Review + Biotechnology Introduction]({{ "/lessons/unit4/day7-review-biotech/" | relative_url }})
+- [Day 8: Genetic Engineering Applications and Ethics]({{ "/lessons/unit4/day8-genetic-engineering/" | relative_url }})
+- [Student View (Objective Science Targets)]({{ "/lessons/unit4/student-view/" | relative_url }})
+- [Advanced Review (Days 7–8)]({{ "/resources/unit4-days7-8-advanced-review/" | relative_url }})
+
 ### Chapter 11: DNA, RNA, and Proteins  
 **Molecular Basis of Heredity**  
 **Core Academic Goal:** Students will master the central dogma (replication → transcription → translation) with quantitative practice, data analysis, and modeling while recognizing these processes as the precise information system designed by our Creator (Colossians 1:16-17).  
@@ -232,3 +239,7 @@ Each daily summary includes a boxed **Scripture Connection** with:
 - [Chapter 11 TIAT: Expressing the Genetic Code]({{ "/resources/rubrics/unit4-ch11-tiat-rubric/" | relative_url }})
 - [Chapter 12 TIAT: For the Love of Dogs]({{ "/resources/rubrics/unit4-ch12-tiat-rubric/" | relative_url }})
 - [Chapter 13 TIAT: Genetics to the Rescue!]({{ "/resources/rubrics/unit4-ch13-tiat-rubric/" | relative_url }})
+
+### Teacher Planning Support
+
+- [Advanced Review — Unit 4 Days 7–8]({{ "/resources/unit4-days7-8-advanced-review/" | relative_url }})
