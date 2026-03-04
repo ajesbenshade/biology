@@ -2,6 +2,7 @@
 layout: default
 title: Unit 4 — Genetics
 permalink: /lessons/unit4/
+description: Unit 4 Genetics overview with daily schedule, skills targets, and student resources for Dock Mennonite Biology.
 ---
 
 # Unit 4 — Genetics
@@ -29,6 +30,8 @@ Welcome to Unit 4. This unit is focused on measurable mastery of National Geogra
 
 ### Chapter 11 — DNA, RNA, and Proteins
 
+<div class="schedule-table-wrap" role="region" aria-label="Unit 4 Chapter 11 schedule" tabindex="0">
+
 | Day | Focus | Link |
 |---|---|---|
 | 1 | Introduction to Genetics | [Go to Day 1 →]({{ "/lessons/unit4/day-01/" | relative_url }}) |
@@ -36,7 +39,11 @@ Welcome to Unit 4. This unit is focused on measurable mastery of National Geogra
 | 3 | Transcription and Translation | [Go to Day 3 →]({{ "/lessons/unit4/day3-gene-expression/" | relative_url }}) |
 | 4 | Protein Synthesis and Review | [Go to Day 4 →]({{ "/lessons/unit4/day4-mendelian-inheritance/" | relative_url }}) |
 
+</div>
+
 ### Chapter 12 — Genetic Variation and Heredity
+
+<div class="schedule-table-wrap" role="region" aria-label="Unit 4 Chapter 12 schedule" tabindex="0">
 
 | Day | Focus | Link |
 |---|---|---|
@@ -45,7 +52,11 @@ Welcome to Unit 4. This unit is focused on measurable mastery of National Geogra
 | 7 | Chapter 12 Review + Biotechnology Intro | [Go to Day 7 →]({{ "/lessons/unit4/day7-review-biotech/" | relative_url }}) |
 | 8 | Genetic Engineering Applications | [Go to Day 8 →]({{ "/lessons/unit4/day8-genetic-engineering/" | relative_url }}) |
 
+</div>
+
 ### Chapter 13 — Genetic Technologies
+
+<div class="schedule-table-wrap" role="region" aria-label="Unit 4 Chapter 13 schedule" tabindex="0">
 
 | Day | Focus | Link |
 |---|---|---|
@@ -54,7 +65,11 @@ Welcome to Unit 4. This unit is focused on measurable mastery of National Geogra
 | 11 | Review and Error Analysis | [Go to Day 11 →]({{ "/lessons/unit4/day11-review-error-analysis/" | relative_url }}) |
 | 12 | Unit Assessment and Wrap-Up | [Go to Day 12 →]({{ "/lessons/unit4/day12-unit-assessment-wrap-up/" | relative_url }}) |
 
+</div>
+
 ## Student Resources
 
-- [Download Worksheet Pack]({{ "/resources/unit4-day7-8-worksheet-pack/" | relative_url }})
+- [Unit 4 Study Guide]({{ "/resources/unit4-study-guide/" | relative_url }})
+- [Unit 4 Worksheet Pack (Days 7–8)]({{ "/resources/unit4-day7-8-worksheet-pack/" | relative_url }})
+- [Unit 4 Days 7–8 Advanced Review]({{ "/resources/unit4-days7-8-advanced-review/" | relative_url }})
 - [Student View (Objective Science Targets)]({{ "/lessons/unit4/student-view/" | relative_url }})

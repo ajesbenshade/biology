@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Unit 4: Genetics
+title: "Unit 4: Genetics"
 ---
 
 # Unit 4: Genetics

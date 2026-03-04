@@ -2,6 +2,7 @@
 layout: default
 title: Syllabus & Calendar
 permalink: /syllabus/
+description: Course syllabus, grading policy, and calendar overview for Dock Mennonite freshman Biology Units 4 and 5.
 ---
 
 # Syllabus & Calendar

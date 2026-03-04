@@ -2,6 +2,7 @@
 layout: default
 title: Full Curriculum Map
 permalink: /full-curriculum-map/
+description: Full year Biology curriculum map showing unit progression, key topics, and links to active unit lesson hubs.
 ---
 
 # Full Curriculum Map

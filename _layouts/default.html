@@ -3,23 +3,34 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <title>{{ page.title | default: site.title | default: "Biology" }}</title>
+    <title>{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title | default: "Biology" }}{% endif %}</title>
+    <meta name="description" content="{{ page.description | default: site.description | escape }}">
+    <meta name="theme-color" content="#4a7043">
+    <meta property="og:title" content="{{ page.title | default: site.title | escape }}">
+    <meta property="og:description" content="{{ page.description | default: site.description | escape }}">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="{{ page.url | absolute_url }}">
     <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700&display=swap" rel="stylesheet">
-    <!-- removed reference to missing /assets/main.css to avoid 404; using assets/css/custom.css -->
+    <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="{{ "/assets/css/custom.css" | relative_url }}">
   </head>
   <body>
-    <header class="site-header">
-      <div class="container">
+    <a class="skip-link" href="#main-content">Skip to main content</a>
+    <header class="site-header" role="banner">
+      <div class="container site-header-inner">
         <a class="logo" href="{{ "/" | relative_url }}" aria-label="Aaron Esbenshade Biology home">
           <img src="{{ "/assets/images/logo.jpg" | relative_url }}" alt="Aaron Esbenshade — Biology" class="site-logo" />
         </a>
-        <nav class="main-nav">
+        <button id="menu-toggle" class="menu-toggle md:hidden" type="button" aria-controls="site-menu" aria-expanded="false">
+          Menu
+        </button>
+        <nav class="main-nav hidden md:flex" id="site-menu" role="navigation" aria-label="Main site navigation">
           <a href="{{ "/" | relative_url }}">Home</a>
-          <a href="{{ "/lessons/unit4/" | relative_url }}">Unit 4</a>
-          <a href="{{ "/lessons/unit5/" | relative_url }}">Unit 5</a>
-          <a href="{{ "/syllabus/" | relative_url }}">Syllabus</a>
-          <a href="{{ "/resources/" | relative_url }}">Resources</a>
+          <a href="{{ "/lessons/unit4/" | relative_url }}">Unit 4: Genetics</a>
+          <a href="{{ "/lessons/unit5/" | relative_url }}">Unit 5: Evolution &amp; Changing Environments</a>
+          <a href="{{ "/syllabus/" | relative_url }}">Syllabus &amp; Calendar</a>
+          <a href="{{ "/resources/" | relative_url }}">Resources &amp; Study Guides</a>
+          <a href="{{ "/full-curriculum-map/" | relative_url }}">Full Curriculum Map</a>
         </nav>
       </div>
     </header>
@@ -28,11 +39,27 @@
         We study biology with academic rigor—mastering scientific methods, data analysis, and current research—while viewing every system as the work of the Creator who “made all things through Him and for Him” (Colossians 1:16-17). Scripture is not an add-on; it is the lens that reveals the purpose and design behind the mechanisms we examine.
       </div>
     </section>
-    <main class="container">
+    <main class="container" id="main-content">
       {{ content }}
     </main>
     <footer class="site-footer">
-      <div class="container">Aaron Esbenshade — Biology • Prepared for Dock Mennonite High School – Soli Deo Gloria • © {{ site.time | date: "%Y" }}</div>
+      <div class="container">
+        <p>© {{ site.time | date: "%Y" }} Aaron Esbenshade — Dock Mennonite Biology</p>
+        <p>Contact: Aaron Esbenshade, Dock Mennonite Academy</p>
+      </div>
     </footer>
+    <script>
+      const menuButton = document.getElementById('menu-toggle');
+      const menu = document.getElementById('site-menu');
+
+      if (menuButton && menu) {
+        menuButton.addEventListener('click', () => {
+          const isOpen = menuButton.getAttribute('aria-expanded') === 'true';
+          menuButton.setAttribute('aria-expanded', String(!isOpen));
+          menu.classList.toggle('hidden');
+          menu.classList.toggle('mobile-open');
+        });
+      }
+    </script>
   </body>
  </html>
