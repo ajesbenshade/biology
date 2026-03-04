@@ -1,14 +1,63 @@
 ---
 layout: default
-title: Unit 4 Day 8
-description: Legacy Unit 4 day URL redirect to canonical topic page.
+title: "Day 8: Genetic Engineering Applications and Ethics"
+description: Unit 4 Day 8 lesson on recombinant DNA, GMOs, CRISPR, and evidence-based evaluation.
 permalink: /lessons/unit4/day-08/
 ---
 
-# Unit 4 Day 8
+# Day 8: Genetic Engineering Applications and Ethics
 
-This lesson now lives at [Day 8: Genetic Engineering Applications and Ethics]({{ "/lessons/unit4/day8-genetic-engineering/" | relative_url }}).
+## Objectives
+
+- Describe recombinant DNA, GMO applications, and CRISPR basics.
+- Evaluate biotechnology scenarios using evidence and scientific reasoning.
+- Communicate biotechnology claims with clear vocabulary and data support.
+
+## Key Terms
+
+- recombinant DNA
+- GMO
+- CRISPR
+- gene insertion
+- application analysis
+
+## Textbook Content
+
+- Chapter 13 biotechnology overview with real-world applications.
+- Evidence evaluation of benefits, limits, and risks in engineering contexts.
+
+## In-Class Activities / Minilabs
+
+1. **Bellwork (8 min):** Identify one claimed benefit and one potential limitation of gene editing.
+2. **Case Comparison (20 min):** Analyze textbook examples of biotechnology use.
+3. **Virtual Lab (25 min):** Simulate gene insertion and record outcome data.
+4. **Discussion (12 min):** Compare evidence quality across scenarios.
+5. **Debrief (5 min):** Write one defensible evidence-based claim.
+
+## Critical Perspective
+
+- How do we distinguish persuasive language from strong evidence?
+- What additional data would increase confidence in a biotechnology recommendation?
+
+## Biblical Integration
+
+Scientific tools can be used for service and stewardship when guided by truth, responsibility, and respect for life.
+
+## Homework / Assignment
+
+- Complete debate outline using textbook evidence.
+- Finish Unit 4 review packet section on biotechnology interpretation.
+
+## Exit Ticket / Reflection
+
+Which biotechnology application had the strongest data support, and why?
+
+## Teacher Notes Only (not for students)
+
+- Keep scoring tied to scientific reasoning and content accuracy.
+- Use worldview framing as discussion guidance, not grading criteria.
 
 ## Navigation
 
-- [Unit 4 Overview]({{ "/lessons/unit4/" | relative_url }})
+- [← Back to Unit 4 Hub]({{ "/lessons/unit4/" | relative_url }})
+- [Go to Day 9 →]({{ "/lessons/unit4/day-09/" | relative_url }})
