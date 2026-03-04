@@ -37,6 +37,20 @@ Static Jekyll site for Dock Mennonite High School Biology. GitHub Pages builds t
 
 	`http://127.0.0.1:4000/biology/`
 
+## GitHub Pages Deployment
+
+- Deployment is automated with GitHub Actions using `.github/workflows/jekyll-pages.yml`.
+- On each push to `main` (for files under `website/`), GitHub builds the Jekyll site and deploys static output to Pages.
+- Build source: `website/`
+- Published artifact: `website/_site/`
+
+If deployment is not live yet, check repository settings:
+
+1. **Settings → Pages**
+2. **Source** should be set to **GitHub Actions**
+
+You can also trigger deployment manually from **Actions → Deploy Jekyll site to GitHub Pages → Run workflow**.
+
 ## Lesson Content Workflow
 
 - Edit daily lesson pages in `lessons/unit4/` and `lessons/unit5/`.
