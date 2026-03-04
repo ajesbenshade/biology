@@ -23,8 +23,23 @@ Welcome to Unit 4. This unit is focused on measurable mastery of National Geogra
 
 ## Assessment Weighting
 
-- **60% Summative:** tests and quizzes
-- **40% Formative:** homework, bellwork, class work, and labs
+- **60% Summative** (tests and quizzes)
+- **40% Formative** (homework, bellwork, class work, and labs)
+
+## Daily Lesson Structure
+
+Each Unit 4 day page now follows one standardized section order:
+
+- Objectives
+- Key Terms
+- Textbook Content
+- In-Class Activities / Minilabs
+- Critical Perspective
+- Biblical Integration
+- Homework / Assignment
+- Exit Ticket / Reflection
+- Teacher Notes Only (not for students)
+- Navigation
 
 ## Daily Schedule
 

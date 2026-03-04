@@ -31,6 +31,21 @@ In this unit we rigorously examine the evidence and mechanisms of evolutionary c
 - **60% Summative** (chapter tests, unit exam, Tying-It-All-Together project)
 - **40% Formative** (daily homework, bellwork, minilabs, discussions, reflections)
 
+## Daily Lesson Structure
+
+Each Unit 5 day page now follows one standardized section order:
+
+- Objectives
+- Key Terms
+- Textbook Content
+- In-Class Activities / Minilabs
+- Critical Perspective
+- Biblical Integration
+- Homework / Assignment
+- Exit Ticket / Reflection
+- Teacher Notes Only (not for students)
+- Navigation
+
 ## Daily Schedule
 
 
@@ -73,3 +88,4 @@ In this unit we rigorously examine the evidence and mechanisms of evolutionary c
 | 19 | 16.4 Reducing Human Impact on the Environment | [Go to Day 19 →]({{ "/lessons/unit5/day-19/" | relative_url }}) |
 | 20 | National Geographic Explorer: Çağan Şekercioğlu (Bird Populations in Changing Climate) + Looking at the Data: Ecological Footprints | [Go to Day 20 →]({{ "/lessons/unit5/day-20/" | relative_url }}) |
 | 21 | Chapter 16 Review + Tying It All Together: Tracking Tuskless Elephants + Unit Synthesis & Critical Reflection | [Go to Day 21 →]({{ "/lessons/unit5/day-21/" | relative_url }}) |
+{: .overflow-x-auto mb-6 }
