@@ -97,7 +97,7 @@ index.write_text('\n'.join(lines) + '\n', encoding='utf-8')
 
 for unit, title, total in [
     ('unit4', 'Unit 4: Genetics', 12),
-    ('unit5', 'Unit 5: Evolution and Changing Environments', 12),
+    ('unit5', 'Unit 5: Evolution and Changing Environments', 21),
 ]:
     p = out / unit / 'README.md'
     unit_lines = [f'# {title}', '']
