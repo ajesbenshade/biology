@@ -40,14 +40,14 @@ In this unit we rigorously examine the evidence and mechanisms of evolutionary c
 | 6 | Explorer Case Studies: Zebra Stripes + Green-Blooded Skinks | [Go to Day 6 →]({{ "/lessons/unit5/day-06/" | relative_url }}) |
 | 7 | Chapter 14 Review + Evidence Evaluation | [Go to Day 7 →]({{ "/lessons/unit5/day-07/" | relative_url }}) |
 
-### Chapter 15 — Evolution in Populations (Days 8–14)
+### Chapter 15 — The Theory of Evolution (Days 8–14)
 
 | Day | Focus | Link |
 |---|---|---|
-| 8 | Early Ideas, Modern Synthesis, and Darwin’s Finches | [Go to Day 8 →]({{ "/lessons/unit5/day-08/" | relative_url }}) |
-| 9 | Genetic Variation, Gene Pools, and Allele Frequency | [Go to Day 9 →]({{ "/lessons/unit5/day-09/" | relative_url }}) |
-| 10 | Types of Selection and Microevolution Modeling | [Go to Day 10 →]({{ "/lessons/unit5/day-10/" | relative_url }}) |
-| 11 | Hardy-Weinberg Equilibrium | [Go to Day 11 →]({{ "/lessons/unit5/day-11/" | relative_url }}) |
-| 12 | Gene Flow and Genetic Drift | [Go to Day 12 →]({{ "/lessons/unit5/day-12/" | relative_url }}) |
-| 13 | Sexual Selection and Behavioral Data | [Go to Day 13 →]({{ "/lessons/unit5/day-13/" | relative_url }}) |
-| 14 | Chapter 15 Review + Unit Synthesis | [Go to Day 14 →]({{ "/lessons/unit5/day-14/" | relative_url }}) |
+| 8 | Chapter Opener + Case Study: Don’t Let the Bedbugs Bite! | [Go to Day 8 →]({{ "/lessons/unit5/day-08/" | relative_url }}) |
+| 9 | 15.1 Developing the Theory of Evolution | [Go to Day 9 →]({{ "/lessons/unit5/day-09/" | relative_url }}) |
+| 10 | 15.2 Evolution in Populations + Minilab: Hawks and Mice | [Go to Day 10 →]({{ "/lessons/unit5/day-10/" | relative_url }}) |
+| 11 | 15.3 Other Mechanisms of Evolution | [Go to Day 11 →]({{ "/lessons/unit5/day-11/" | relative_url }}) |
+| 12 | National Geographic Explorer: Christopher C. Austin (Green Blood in Skinks) | [Go to Day 12 →]({{ "/lessons/unit5/day-12/" | relative_url }}) |
+| 13 | Looking at the Data: Tracking Evolution (Deer Mice) + Chapter 15 Review | [Go to Day 13 →]({{ "/lessons/unit5/day-13/" | relative_url }}) |
+| 14 | Tying It All Together: Don’t Let the Bedbugs Bite! + Unit Synthesis & Critical Reflection | [Go to Day 14 →]({{ "/lessons/unit5/day-14/" | relative_url }}) |
