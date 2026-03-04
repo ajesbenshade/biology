@@ -154,11 +154,15 @@ h3 {
 }
 
 /* responsive tables */
+/* Keep tables as native table display so table-layout works properly. Use a wrapper class for horizontal scrolling. */
+.overflow-x-auto {
+  overflow-x: auto;
+}
 main.container table {
   width: 100%;
   border-collapse: collapse;
-  display: block;
-  overflow-x: auto;
+  display: table;
+  max-width: 100%;
 }
 main.container table th,
 main.container table td {
