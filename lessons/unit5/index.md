@@ -33,7 +33,8 @@ In this unit we rigorously examine the evidence and mechanisms of evolutionary c
 
 ## Daily Schedule
 
-<div class="overflow-x-auto mb-6">
+<div markdown="1" class="overflow-x-auto mb-6">
+
 
 ### Chapter 14 — Evidence for Evolution (Days 1–7)
 
