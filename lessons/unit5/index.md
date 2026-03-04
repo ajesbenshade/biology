@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Unit 5 — Evolution
+description: Unit 5 overview for Evolution and Changing Environments with full daily schedule links.
 permalink: /lessons/unit5/
 ---
 

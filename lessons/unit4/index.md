@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Unit 4 — Genetics
+description: Unit 4 overview for Genetics with daily lesson links, skill targets, and student resources.
 permalink: /lessons/unit4/
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Syllabus & Calendar
+description: Course overview, grading policy, and calendar sequence for Biology Units 4 and 5.
 permalink: /syllabus/
 ---
 
@@ -9,7 +10,7 @@ permalink: /syllabus/
 ## Course Overview
 Welcome to Biology with Aaron Esbenshade! This course covers Units 4 (Genetics) and 5 (Evolution and Changing Environments) with a focus on academic excellence and a biblical creationist perspective.
 
-### Units Covered:
+## Units Covered
 - **Unit 4: Genetics**
   - Topics: DNA structure, inheritance, gene expression, and biotechnology.
   - Scripture Focus: Psalm 139:13-14, Genesis 1:21.
@@ -17,11 +18,11 @@ Welcome to Biology with Aaron Esbenshade! This course covers Units 4 (Genetics) 
   - Topics: Evidence for evolution, natural selection, speciation, and biodiversity.
   - Scripture Focus: Genesis 1:31, Job 12:7-10.
 
-### Grading Policy:
+## Grading Policy
 - Summative (tests, quizzes, problem sets, data analysis): 60%
 - Formative (homework, bellwork, class work, labs, claim-evaluation, Scripture-data synthesis): 40%
 
-### Calendar:
+## Calendar
 - **Week 1-4:** Unit 4 (Genetics)
 - **Week 5-8:** Unit 5 (Evolution)
 
