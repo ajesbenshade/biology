@@ -152,3 +152,16 @@ h3 {
     font-size: 0.92rem;
   }
 }
+
+/* responsive tables */
+main.container table {
+  width: 100%;
+  border-collapse: collapse;
+  display: block;
+  overflow-x: auto;
+}
+main.container table th,
+main.container table td {
+  padding: 0.5rem;
+  border: 1px solid var(--border);
+}
