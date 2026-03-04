@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Day 8: Genetic Engineering Applications & Ethics"
-permalink: /lessons/unit4/day-08/
+title: Day 8: Genetic Engineering Applications & Ethics
 ---
 
+<VSCode.Cell language="markdown">
 # Day 8: Genetic Engineering Applications & Ethics
 
 **Scripture Focus:** Proverbs 3:5-6 – Trust in the Lord with genetic technology decisions.
@@ -18,10 +18,3 @@ permalink: /lessons/unit4/day-08/
 
 **Classwork/Homework:**
 Debate outline and review packet.
-
-<div class="scripture-connection">
-<h3>Scripture Connection</h3>
-<p><strong>Proverbs 3:5-6 – Trust in the Lord with genetic technology decisions.</strong></p>
-<p>Connect today's scientific evidence to biblical truth with specific observations from class data, diagrams, or models.</p>
-<p><strong>Synthesis Question:</strong> What scientific result from today most clearly supports your understanding of this verse?</p>
-</div>

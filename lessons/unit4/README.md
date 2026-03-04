@@ -1,3 +1,8 @@
+---
+layout: default
+title: Unit 4: Genetics
+---
+
 # Unit 4: Genetics
 
 - [Day 1](day-01.md)

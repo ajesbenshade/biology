@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Day 10: Unit Review – Key Concepts and Phenomena Tie-In"
-permalink: /lessons/unit4/day-10/
+title: Day 10: Unit Review – Key Concepts and Phenomena Tie-In
 ---
 
+<VSCode.Cell language="markdown">
 # Day 10: Unit Review – Key Concepts and Phenomena Tie-In
 
 **Scripture Focus:** Genesis 1:31 – “God saw all that he had made, and it was very good.”
@@ -18,10 +18,3 @@ permalink: /lessons/unit4/day-10/
 
 **Classwork/Homework:**
 Complete study guide.
-
-<div class="scripture-connection">
-<h3>Scripture Connection</h3>
-<p><strong>Genesis 1:31 – “God saw all that he had made, and it was very good.”</strong></p>
-<p>Connect today's scientific evidence to biblical truth with specific observations from class data, diagrams, or models.</p>
-<p><strong>Synthesis Question:</strong> What scientific result from today most clearly supports your understanding of this verse?</p>
-</div>
