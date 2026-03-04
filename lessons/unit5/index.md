@@ -33,8 +33,6 @@ In this unit we rigorously examine the evidence and mechanisms of evolutionary c
 
 ## Daily Schedule
 
-<div markdown="1" class="overflow-x-auto mb-6">
-
 
 ### Chapter 14 — Evidence for Evolution (Days 1–7)
 
@@ -47,6 +45,7 @@ In this unit we rigorously examine the evidence and mechanisms of evolutionary c
 | 5 | Embryological, Anatomical, and Genetic Evidence | [Go to Day 5 →]({{ "/lessons/unit5/day-05/" | relative_url }}) |
 | 6 | Explorer Case Studies: Zebra Stripes + Green-Blooded Skinks | [Go to Day 6 →]({{ "/lessons/unit5/day-06/" | relative_url }}) |
 | 7 | Chapter 14 Review + Evidence Evaluation | [Go to Day 7 →]({{ "/lessons/unit5/day-07/" | relative_url }}) |
+{: .overflow-x-auto mb-6 }
 
 ### Chapter 15 — The Theory of Evolution (Days 8–14)
 
@@ -59,8 +58,9 @@ In this unit we rigorously examine the evidence and mechanisms of evolutionary c
 | 12 | National Geographic Explorer: Christopher C. Austin (Green Blood in Skinks) | [Go to Day 12 →]({{ "/lessons/unit5/day-12/" | relative_url }}) |
 | 13 | Looking at the Data: Tracking Evolution (Deer Mice) + Chapter 15 Review | [Go to Day 13 →]({{ "/lessons/unit5/day-13/" | relative_url }}) |
 | 14 | Tying It All Together: Don’t Let the Bedbugs Bite! + Unit Synthesis & Critical Reflection | [Go to Day 14 →]({{ "/lessons/unit5/day-14/" | relative_url }}) |
+{: .overflow-x-auto mb-6 }
 
-</div>
+
 
 ### Chapter 16 — Survival in Changing Environments (Days 15–21)
 
