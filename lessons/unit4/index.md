@@ -33,27 +33,27 @@ Welcome to Unit 4. This unit is focused on measurable mastery of National Geogra
 | Day | Focus | Link |
 |---|---|---|
 | 1 | Introduction to Genetics | [Go to Day 1 →]({{ "/lessons/unit4/day-01/" | relative_url }}) |
-| 2 | DNA Structure and Replication Basics | [Go to Day 2 →]({{ "/lessons/unit4/day2-dna-replication/" | relative_url }}) |
-| 3 | Transcription and Translation | [Go to Day 3 →]({{ "/lessons/unit4/day3-gene-expression/" | relative_url }}) |
-| 4 | Protein Synthesis and Review | [Go to Day 4 →]({{ "/lessons/unit4/day4-mendelian-inheritance/" | relative_url }}) |
+| 2 | DNA Structure and Replication Basics | [Go to Day 2 →]({{ "/lessons/unit4/day-02/" | relative_url }}) |
+| 3 | Transcription and Translation | [Go to Day 3 →]({{ "/lessons/unit4/day-03/" | relative_url }}) |
+| 4 | Protein Synthesis and Review | [Go to Day 4 →]({{ "/lessons/unit4/day-04/" | relative_url }}) |
 
 ### Chapter 12 — Genetic Variation and Heredity
 
 | Day | Focus | Link |
 |---|---|---|
-| 5 | Meiosis and Inheritance Patterns | [Go to Day 5 →]({{ "/lessons/unit4/day5-complex-inheritance/" | relative_url }}) |
-| 6 | Human Genetics and Pedigrees | [Go to Day 6 →]({{ "/lessons/unit4/day6-human-genetics-pedigrees/" | relative_url }}) |
-| 7 | Chapter 12 Review + Biotechnology Intro | [Go to Day 7 →]({{ "/lessons/unit4/day7-review-biotech/" | relative_url }}) |
-| 8 | Genetic Engineering Applications | [Go to Day 8 →]({{ "/lessons/unit4/day8-genetic-engineering/" | relative_url }}) |
+| 5 | Meiosis and Inheritance Patterns | [Go to Day 5 →]({{ "/lessons/unit4/day-05/" | relative_url }}) |
+| 6 | Human Genetics and Pedigrees | [Go to Day 6 →]({{ "/lessons/unit4/day-06/" | relative_url }}) |
+| 7 | Chapter 12 Review + Biotechnology Intro | [Go to Day 7 →]({{ "/lessons/unit4/day-07/" | relative_url }}) |
+| 8 | Genetic Engineering Applications | [Go to Day 8 →]({{ "/lessons/unit4/day-08/" | relative_url }}) |
 
 ### Chapter 13 — Genetic Technologies
 
 | Day | Focus | Link |
 |---|---|---|
-| 9 | Biotechnology Data Analysis | [Go to Day 9 →]({{ "/lessons/unit4/day9-biotech-data-analysis/" | relative_url }}) |
-| 10 | Lab Skills and Mixed Practice | [Go to Day 10 →]({{ "/lessons/unit4/day10-lab-skills-practice/" | relative_url }}) |
-| 11 | Review and Error Analysis | [Go to Day 11 →]({{ "/lessons/unit4/day11-review-error-analysis/" | relative_url }}) |
-| 12 | Unit Assessment and Wrap-Up | [Go to Day 12 →]({{ "/lessons/unit4/day12-unit-assessment-wrap-up/" | relative_url }}) |
+| 9 | Biotechnology Data Analysis | [Go to Day 9 →]({{ "/lessons/unit4/day-09/" | relative_url }}) |
+| 10 | Lab Skills and Mixed Practice | [Go to Day 10 →]({{ "/lessons/unit4/day-10/" | relative_url }}) |
+| 11 | Review and Error Analysis | [Go to Day 11 →]({{ "/lessons/unit4/day-11/" | relative_url }}) |
+| 12 | Unit Assessment and Wrap-Up | [Go to Day 12 →]({{ "/lessons/unit4/day-12/" | relative_url }}) |
 
 ## Student Resources
 

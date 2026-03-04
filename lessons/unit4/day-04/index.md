@@ -1,14 +1,63 @@
 ---
 layout: default
-title: Unit 4 Day 4
-description: Legacy Unit 4 day URL redirect to canonical topic page.
+title: "Day 4: Mendelian Inheritance"
+description: Unit 4 Day 4 lesson on monohybrid inheritance and chi-square checks.
 permalink: /lessons/unit4/day-04/
 ---
 
-# Unit 4 Day 4
+# Day 4: Mendelian Inheritance
 
-This lesson now lives at [Day 4: Mendelian Inheritance]({{ "/lessons/unit4/day4-mendelian-inheritance/" | relative_url }}).
+## Objectives
+
+- Solve monohybrid Punnett square problems accurately.
+- Distinguish genotype and phenotype in inheritance analysis.
+- Use chi-square reasoning to compare expected and observed ratios.
+
+## Key Terms
+
+- genotype
+- phenotype
+- dominant
+- recessive
+- chi-square
+
+## Textbook Content
+
+- Mendel’s experimental approach and inheritance vocabulary.
+- Predictive modeling with Punnett squares and ratio checks.
+
+## In-Class Activities / Minilabs
+
+1. **Bellwork (10 min):** Predict outcomes from a simple dominant/recessive cross.
+2. **Review (15 min):** Mendelian vocabulary and model assumptions.
+3. **Guided Practice (25 min):** Multi-problem Punnett square set.
+4. **Data Check (15 min):** Introduce chi-square setup and interpretation.
+5. **Debrief (5 min):** Compare model predictions with sample class data.
+
+## Critical Perspective
+
+- How do we separate strong model use from overconfident claims?
+- Which inheritance conclusions are directly supported by measured outcomes?
+
+## Biblical Integration
+
+Studying inheritance patterns develops precision, logic, and stewardship of knowledge. Students practice careful reasoning while honoring truth and evidence.
+
+## Homework / Assignment
+
+- Complete ten monohybrid practice problems.
+- Write one paragraph comparing genotype predictions to phenotype outcomes.
+
+## Exit Ticket / Reflection
+
+When observed ratios differ from expected ratios, what is your next scientific step?
+
+## Teacher Notes Only (not for students)
+
+- Advanced extension: Add incomplete dominance comparison problems.
+- Support for struggling learners: Provide a Punnett square setup template.
 
 ## Navigation
 
-- [Unit 4 Overview]({{ "/lessons/unit4/" | relative_url }})
+- [← Back to Unit 4 Hub]({{ "/lessons/unit4/" | relative_url }})
+- [Go to Day 5 →]({{ "/lessons/unit4/day-05/" | relative_url }})
