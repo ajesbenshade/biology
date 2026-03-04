@@ -26,7 +26,7 @@ permalink: /lessons/unit5/day-08/
 ![Bedbug close-up](../../../images/unit5/bedbug-opener.jpg)
 "Chapter 15 opener: Close-up of a bedbug (Cimex lectularius) — placeholder image path pending upload."
 
-## In-Class Activities
+## In-Class Activities / Minilabs
 1. **Phenomenon launch (10 min):** Analyze the bedbug opener image and predict why treatment failure occurs.
 2. **Case-study read (20 min):** Annotate claim-evidence-reasoning from the bedbug resistance narrative.
 3. **Population simulation (25 min):** Model resistance allele frequency increase across treatment rounds.

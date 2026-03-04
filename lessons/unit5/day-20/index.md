@@ -26,7 +26,7 @@ permalink: /lessons/unit5/day-20/
 ![Bird tracking fieldwork](../../../images/unit5/cagan-sekercioglu-birds.jpg)
 "National Geographic Explorer field methods: bird banding and radio tracking."
 
-## In-Class Activities
+## In-Class Activities / Minilabs
 1. **Explorer profile notes (15 min):** Identify methods, variables, and evidence type in field research.
 2. **Data-table analysis (25 min):** Organize footprint data and compute comparative values.
 3. **Argument construction (20 min):** Build a claim using both per-capita and total-impact evidence.
@@ -53,6 +53,10 @@ Verses: Romans 1:20; Micah 6:8.
 
 ## Exit Ticket / Reflection
 What is one claim from today’s data that is strong, and one claim that needs additional evidence?
+
+## Teacher Notes Only (not for students)
+- Encourage uncertainty-aware conclusions when datasets are limited.
+- Focus feedback on evidence traceability and interpretation limits.
 
 ## Navigation
 - [← Back to Unit 5 Hub]({{ "/lessons/unit5/" | relative_url }})

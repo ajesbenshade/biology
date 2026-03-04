@@ -26,7 +26,7 @@ permalink: /lessons/unit5/day-21/
 ![Tuskless elephant synthesis](../../../images/unit5/elephant-tuskless-tying.jpg)
 "Tying It All Together: modeling trait-frequency change in elephants."
 
-## In-Class Activities
+## In-Class Activities / Minilabs
 1. **Review quick-check (15 min):** Mixed key-concept items from Chapter 16.
 2. **Modeling task steps 1–2 (20 min):** Build and analyze trait-frequency and population comparison graphs.
 3. **Modeling task steps 3–4 (20 min):** Explain potential speciation/extinction outcomes and justify with evidence.
@@ -53,6 +53,10 @@ Verses: Colossians 1:16-17; Psalm 104:24.
 
 ## Exit Ticket / Reflection
 In 2–3 sentences, identify one Chapter 16 concept you understand deeply and one question you still want to investigate.
+
+## Teacher Notes Only (not for students)
+- Use final reflections to identify reteaching needs for evidence interpretation skills.
+- Keep synthesis scoring anchored to rubric criteria and data-supported reasoning.
 
 ## Navigation
 - [← Back to Unit 5 Hub]({{ "/lessons/unit5/" | relative_url }})

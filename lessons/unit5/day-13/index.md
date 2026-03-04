@@ -26,7 +26,7 @@ permalink: /lessons/unit5/day-13/
 ![Deer mice tracking](../../../images/unit5/deer-mice-tracking.jpg)
 "Looking at the Data: deer mice coat-color frequency tracking — placeholder image path pending upload."
 
-## In-Class Activities
+## In-Class Activities / Minilabs
 1. **Data table analysis (25 min):** Compute allele and genotype values from provided deer mouse dataset.
 2. **Hardy-Weinberg check (20 min):** Compare expected vs observed frequencies and interpret deviations.
 3. **Review stations (20 min):** Complete Chapter 15 key-concept prompts by mechanism/evidence type.

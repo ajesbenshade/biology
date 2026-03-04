@@ -23,7 +23,7 @@ permalink: /lessons/unit5/day-19/
 - Ecosystem restoration and pollution prevention are paired with biodiversity-maintenance goals.
 - Semantic Map strategy organizes problem-solution links for environmental decision-making.
 
-## In-Class Activities
+## In-Class Activities / Minilabs
 1. **Semantic map build (15 min):** Connect impact categories to specific reduction strategies.
 2. **School-practice audit (20 min):** Identify one campus practice that increases or decreases environmental impact.
 3. **Solution ranking (20 min):** Evaluate proposed interventions by feasibility and expected impact.
@@ -50,6 +50,10 @@ Verses: Psalm 24:1; Genesis 2:15.
 
 ## Exit Ticket / Reflection
 Name one high-impact practice for reducing human environmental impact and defend it in one sentence.
+
+## Teacher Notes Only (not for students)
+- Guide students to evaluate feasibility and evidence, not just preferences.
+- Maintain objective scoring tied to data interpretation and reasoning.
 
 ## Navigation
 - [← Back to Unit 5 Hub]({{ "/lessons/unit5/" | relative_url }})

@@ -26,7 +26,7 @@ permalink: /lessons/unit5/day-14/
 ![Bedbug synthesis task](../../../images/unit5/bedbug-tying.jpg)
 "Tying It All Together: bedbug resistance synthesis activity — placeholder image path pending upload."
 
-## In-Class Activities
+## In-Class Activities / Minilabs
 1. **Task launch (10 min):** Review performance task directions and evidence requirements.
 2. **Work time (35 min):** Complete steps 1–3 using chapter data and mechanism references.
 3. **Peer feedback (15 min):** Exchange work and check claim-evidence alignment.

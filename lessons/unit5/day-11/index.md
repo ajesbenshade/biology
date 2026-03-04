@@ -23,7 +23,7 @@ permalink: /lessons/unit5/day-11/
 - Population size and movement patterns strongly influence drift and gene flow outcomes.
 - Exact textbook excerpt placeholder: insert verbatim Explain prompt and semantic-map language from PDF.
 
-## In-Class Activities
+## In-Class Activities / Minilabs
 1. **Semantic map build (15 min):** Connect 15.3 terms with arrows and causal notes.
 2. **Scenario analysis (25 min):** Classify case cards as drift, flow, founder, bottleneck, or sexual selection.
 3. **Claim check (20 min):** Write one CER response for a mechanism case.

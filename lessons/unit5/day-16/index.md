@@ -23,7 +23,7 @@ permalink: /lessons/unit5/day-16/
 - Adaptive radiation describes diversification from a shared starting population into multiple ecological niches.
 - Pattern analysis questions ask students to identify factors that increase diversification likelihood.
 
-## In-Class Activities
+## In-Class Activities / Minilabs
 1. **Concept compare (15 min):** Venn diagram for allopatric vs sympatric speciation.
 2. **Adaptive-radiation card sort (20 min):** Match species changes to niche differences.
 3. **Identify prompt workshop (20 min):** Students answer the diversification-factors question with evidence.
@@ -50,6 +50,10 @@ Verses: Psalm 104:24; Romans 1:20.
 
 ## Exit Ticket / Reflection
 In one sentence, state one condition that makes diversification more likely and explain why.
+
+## Teacher Notes Only (not for students)
+- Prioritize evidence-based explanations over speculative claims.
+- Score for vocabulary precision, model accuracy, and reasoning clarity.
 
 ## Navigation
 - [← Back to Unit 5 Hub]({{ "/lessons/unit5/" | relative_url }})

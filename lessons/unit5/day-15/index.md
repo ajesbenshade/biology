@@ -26,7 +26,7 @@ permalink: /lessons/unit5/day-15/
 ![Tuskless elephants](../../../images/unit5/elephant-tuskless-opener.jpg)
 "Chapter 16 opener: tuskless-elephant case in Gorongosa National Park."
 
-## In-Class Activities
+## In-Class Activities / Minilabs
 1. **Phenomenon launch (10 min):** Students annotate the opener image and identify observable evidence.
 2. **Case-study data read (20 min):** Small groups summarize trait changes and possible selective pressures.
 3. **Map interpretation (15 min):** Students explain how location and human behavior affect population outcomes.
@@ -53,6 +53,10 @@ Verses: Colossians 1:16-17; Genesis 2:15.
 
 ## Exit Ticket / Reflection
 What is one data point from today that most strongly supports a change in trait frequency?
+
+## Teacher Notes Only (not for students)
+- Keep discussion focused on evidence quality, claim scope, and interpretation limits.
+- Evaluate student work on scientific reasoning and data use.
 
 ## Navigation
 - [← Back to Unit 5 Hub]({{ "/lessons/unit5/" | relative_url }})

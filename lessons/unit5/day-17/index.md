@@ -23,7 +23,7 @@ permalink: /lessons/unit5/day-17/
 - Vulnerability increases when populations are small, specialized, fragmented, or slow-reproducing.
 - Knowledge Rating Scale vocabulary strategy helps students self-assess term understanding before and after instruction.
 
-## In-Class Activities
+## In-Class Activities / Minilabs
 1. **Knowledge Rating Scale (10 min):** Students rate familiarity with 16.2 vocabulary.
 2. **Cause-impact matrix (20 min):** Link environmental pressures to extinction risk.
 3. **Case classification (20 min):** Categorize species scenarios as threatened/endangered and justify.
@@ -50,6 +50,10 @@ Verses: Genesis 2:15; Proverbs 12:10.
 
 ## Exit Ticket / Reflection
 What is one practical protection strategy that can reduce extinction risk for a vulnerable species?
+
+## Teacher Notes Only (not for students)
+- Emphasize distinction between observed causes and inferred projections.
+- Keep assessment criteria aligned to data interpretation and scientific vocabulary.
 
 ## Navigation
 - [← Back to Unit 5 Hub]({{ "/lessons/unit5/" | relative_url }})

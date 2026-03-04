@@ -26,7 +26,7 @@ permalink: /lessons/unit5/day-10/
 ![Hawks and mice minilab](../../../images/unit5/hawks-mice-minilab.jpg)
 "Hawks and Mice minilab setup — placeholder image path pending upload."
 
-## In-Class Activities
+## In-Class Activities / Minilabs
 1. **Frayer square setup (10 min):** Define key 15.2 terms with examples/non-examples.
 2. **Selection pattern drill (15 min):** Match scenarios to selection type.
 3. **Minilab execution (30 min):** Run Hawks and Mice procedure with data table collection.

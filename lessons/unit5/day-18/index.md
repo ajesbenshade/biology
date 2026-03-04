@@ -26,7 +26,7 @@ permalink: /lessons/unit5/day-18/
 ![Human impact minilab](../../../images/unit5/human-impact-minilab.jpg)
 "Modeling human-caused changes: beetle population simulation setup."
 
-## In-Class Activities
+## In-Class Activities / Minilabs
 1. **Identify prompt (10 min):** List daily human decisions that affect local ecosystems.
 2. **Minilab setup (10 min):** Assign materials and define starting beetle-population conditions.
 3. **Procedure rounds (25 min):** Simulate habitat changes and record population shifts.
@@ -53,6 +53,10 @@ Verses: Genesis 2:15; Micah 6:8.
 
 ## Exit Ticket / Reflection
 Which one human-caused factor in today’s model produced the largest population change, and why?
+
+## Teacher Notes Only (not for students)
+- Reinforce careful interpretation of anthropogenic impact datasets.
+- Grade responses for claim-evidence alignment and reasoning quality.
 
 ## Navigation
 - [← Back to Unit 5 Hub]({{ "/lessons/unit5/" | relative_url }})

@@ -26,7 +26,7 @@ permalink: /lessons/unit5/day-12/
 ![Green-blooded skink](../../../images/unit5/green-blood-austin-ch15.jpg)
 "National Geographic Explorer case: green-blooded skinks — placeholder image path pending upload."
 
-## In-Class Activities
+## In-Class Activities / Minilabs
 1. **Explorer read-through (15 min):** Annotate major findings and unresolved questions.
 2. **Hypothesis matrix (20 min):** Compare possible explanations and required evidence.
 3. **Evidence-quality discussion (20 min):** Identify strongest and weakest claim support.

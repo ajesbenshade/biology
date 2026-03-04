@@ -26,7 +26,7 @@ permalink: /lessons/unit5/day-09/
 ![Bedbug case study](../../../images/unit5/bedbug-case-study.jpg)
 "Case-study support image placeholder for 15.1 context and discussion."
 
-## In-Class Activities
+## In-Class Activities / Minilabs
 1. **Predict prompt warm-up (10 min):** Use the 15.1 prediction question as a claim starter.
 2. **Selection compare chart (20 min):** Contrast artificial vs natural selection with examples.
 3. **Word Wall build (20 min):** Define and use each 15.1 vocabulary term in context.
