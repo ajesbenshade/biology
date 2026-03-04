@@ -11,13 +11,3 @@ defaults:
       type: "pages"
     values:
       layout: "default"
-  - scope:
-      path: "lessons/unit4"
-      type: "pages"
-    values:
-      description: "Daily Unit 4 Biology lesson supporting rigorous genetics instruction through a biblical worldview lens at Dock Mennonite."
-  - scope:
-      path: "lessons/unit5"
-      type: "pages"
-    values:
-      description: "Daily Unit 5 Biology lesson on evolution and changing environments with scientific rigor and biblical worldview integration at Dock Mennonite."

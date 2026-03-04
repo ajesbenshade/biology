@@ -2,7 +2,6 @@
 layout: default
 title: Unit 5 — Evolution
 permalink: /lessons/unit5/
-description: Unit 5 overview for Evolution and Changing Environments with complete daily schedule and chapter progression for Dock Mennonite Biology.
 ---
 
 # Unit 5 — Evolution
@@ -35,8 +34,6 @@ In this unit we rigorously examine the evidence and mechanisms of evolutionary c
 
 ### Chapter 14 — Evidence for Evolution (Days 1–7)
 
-<div class="schedule-table-wrap" role="region" aria-label="Unit 5 Chapter 14 schedule" tabindex="0">
-
 | Day | Focus | Link |
 |---|---|---|
 | 1 | Sloth Case Study + Intro to Evidence | [Go to Day 1 →]({{ "/lessons/unit5/day-01/" | relative_url }}) |
@@ -47,11 +44,7 @@ In this unit we rigorously examine the evidence and mechanisms of evolutionary c
 | 6 | Explorer Case Studies: Zebra Stripes + Green-Blooded Skinks | [Go to Day 6 →]({{ "/lessons/unit5/day-06/" | relative_url }}) |
 | 7 | Chapter 14 Review + Evidence Evaluation | [Go to Day 7 →]({{ "/lessons/unit5/day-07/" | relative_url }}) |
 
-</div>
-
 ### Chapter 15 — The Theory of Evolution (Days 8–14)
-
-<div class="schedule-table-wrap" role="region" aria-label="Unit 5 Chapter 15 schedule" tabindex="0">
 
 | Day | Focus | Link |
 |---|---|---|
@@ -63,11 +56,7 @@ In this unit we rigorously examine the evidence and mechanisms of evolutionary c
 | 13 | Looking at the Data: Tracking Evolution (Deer Mice) + Chapter 15 Review | [Go to Day 13 →]({{ "/lessons/unit5/day-13/" | relative_url }}) |
 | 14 | Tying It All Together: Don’t Let the Bedbugs Bite! + Unit Synthesis & Critical Reflection | [Go to Day 14 →]({{ "/lessons/unit5/day-14/" | relative_url }}) |
 
-</div>
-
 ### Chapter 16 — Survival in Changing Environments (Days 15–21)
-
-<div class="schedule-table-wrap" role="region" aria-label="Unit 5 Chapter 16 schedule" tabindex="0">
 
 | Day | Focus | Link |
 |-----|-------|------|
@@ -78,5 +67,3 @@ In this unit we rigorously examine the evidence and mechanisms of evolutionary c
 | 19 | 16.4 Reducing Human Impact on the Environment | [Go to Day 19 →]({{ "/lessons/unit5/day-19/" | relative_url }}) |
 | 20 | National Geographic Explorer: Çağan Şekercioğlu (Bird Populations in Changing Climate) + Looking at the Data: Ecological Footprints | [Go to Day 20 →]({{ "/lessons/unit5/day-20/" | relative_url }}) |
 | 21 | Chapter 16 Review + Tying It All Together: Tracking Tuskless Elephants + Unit Synthesis & Critical Reflection | [Go to Day 21 →]({{ "/lessons/unit5/day-21/" | relative_url }}) |
-
-</div>
