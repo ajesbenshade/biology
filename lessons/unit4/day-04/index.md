@@ -66,3 +66,4 @@ When observed ratios differ from expected ratios, what is your next scientific s
 
 - [← Back to Unit 4 Hub]({{ "/lessons/unit4/" | relative_url }})
 - [Go to Day 5 →]({{ "/lessons/unit4/day-05/" | relative_url }})
+- [Teacher Guide (Day 4)]({{ "/resources/teacher-guides/unit4/day-04/" | relative_url }})

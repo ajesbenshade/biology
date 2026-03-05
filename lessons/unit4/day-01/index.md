@@ -66,3 +66,4 @@ What is one genetics claim from class that is directly supported by observed evi
 
 - [← Back to Unit 4 Hub]({{ "/lessons/unit4/" | relative_url }})
 - [Go to Day 2 →]({{ "/lessons/unit4/day-02/" | relative_url }})
+- [Teacher Guide (Day 1)]({{ "/resources/teacher-guides/unit4/day-01/" | relative_url }})

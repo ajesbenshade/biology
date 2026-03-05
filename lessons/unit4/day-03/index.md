@@ -69,3 +69,4 @@ Translate a short mRNA sequence and justify one codon choice.
 
 - [← Back to Unit 4 Hub]({{ "/lessons/unit4/" | relative_url }})
 - [Go to Day 4 →]({{ "/lessons/unit4/day-04/" | relative_url }})
+- [Teacher Guide (Day 3)]({{ "/resources/teacher-guides/unit4/day-03/" | relative_url }})

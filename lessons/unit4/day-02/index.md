@@ -69,3 +69,4 @@ Why does replication fidelity matter for inheritance across generations?
 
 - [← Back to Unit 4 Hub]({{ "/lessons/unit4/" | relative_url }})
 - [Go to Day 3 →]({{ "/lessons/unit4/day-03/" | relative_url }})
+- [Teacher Guide (Day 2)]({{ "/resources/teacher-guides/unit4/day-02/" | relative_url }})

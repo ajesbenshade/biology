@@ -21,5 +21,11 @@ Use this page to find student support materials and family communication documen
 - [Unit 4 Student View (Objective Targets)]({{ "/lessons/unit4/student-view/" | relative_url }})
 - [Unit 4 Worksheet Pack (Day 7–8)]({{ "/resources/unit4-day7-8-worksheet-pack/" | relative_url }})
 
+## Teacher Guides – Unit 4
+- [Teacher Guide (Day 1): Introduction to Genetics]({{ "/resources/teacher-guides/unit4/day-01/" | relative_url }})
+- [Teacher Guide (Day 2): DNA Structure and Replication]({{ "/resources/teacher-guides/unit4/day-02/" | relative_url }})
+- [Teacher Guide (Day 3): Gene Expression and Protein Synthesis]({{ "/resources/teacher-guides/unit4/day-03/" | relative_url }})
+- [Teacher Guide (Day 4): Mendelian Inheritance]({{ "/resources/teacher-guides/unit4/day-04/" | relative_url }})
+
 ## Family Communication
 - [Parent Letter]({{ "/resources/parent-letter/" | relative_url }})
