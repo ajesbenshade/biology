@@ -35,5 +35,11 @@ Use this page to find student support materials and family communication documen
 - [Teacher Guide (Day 11): Review and Error Analysis]({{ "/resources/teacher-guides/unit4/day-11/" | relative_url }})
 - [Teacher Guide (Day 12): Unit Assessment and Wrap-Up]({{ "/resources/teacher-guides/unit4/day-12/" | relative_url }})
 
+## Teacher Guides – Unit 5
+- [Teacher Guide (Day 1): Sloth Case Study and Evolutionary Evidence]({{ "/resources/teacher-guides/unit5/day-01/" | relative_url }})
+- [Teacher Guide (Day 2): Microevolution, Macroevolution, and Cladistics]({{ "/resources/teacher-guides/unit5/day-02/" | relative_url }})
+- [Teacher Guide (Day 3): Fossilization and Index Fossils]({{ "/resources/teacher-guides/unit5/day-03/" | relative_url }})
+- [Teacher Guide (Day 4): Radiometric Dating and Forensic Isotope Data]({{ "/resources/teacher-guides/unit5/day-04/" | relative_url }})
+
 ## Family Communication
 - [Parent Letter]({{ "/resources/parent-letter/" | relative_url }})

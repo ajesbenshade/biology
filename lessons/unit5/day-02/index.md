@@ -72,3 +72,4 @@ Write one sentence describing a data-based conclusion and one sentence describin
 
 - [← Back to Unit 5 Hub]({{ "/lessons/unit5/" | relative_url }})
 - [Go to Day 3 →]({{ "/lessons/unit5/day-03/" | relative_url }})
+- [Teacher Guide (Day 2)]({{ "/resources/teacher-guides/unit5/day-02/" | relative_url }})

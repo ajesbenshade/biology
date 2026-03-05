@@ -70,3 +70,4 @@ State one strength and one limitation of carbon-14 dating in one concise paragra
 
 - [← Back to Unit 5 Hub]({{ "/lessons/unit5/" | relative_url }})
 - [Go to Day 5 →]({{ "/lessons/unit5/day-05/" | relative_url }})
+- [Teacher Guide (Day 4)]({{ "/resources/teacher-guides/unit5/day-04/" | relative_url }})

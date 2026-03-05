@@ -77,4 +77,5 @@ What is one piece of evidence from today that is strong, and one claim that stil
 
 - [← Back to Unit 5 Hub]({{ "/lessons/unit5/" | relative_url }})
 - [Go to Day 2 →]({{ "/lessons/unit5/day-02/" | relative_url }})
+- [Teacher Guide (Day 1)]({{ "/resources/teacher-guides/unit5/day-01/" | relative_url }})
 

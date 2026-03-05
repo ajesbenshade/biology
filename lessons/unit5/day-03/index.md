@@ -72,3 +72,4 @@ Name one fossilization requirement and explain why missing that condition reduce
 
 - [← Back to Unit 5 Hub]({{ "/lessons/unit5/" | relative_url }})
 - [Go to Day 4 →]({{ "/lessons/unit5/day-04/" | relative_url }})
+- [Teacher Guide (Day 3)]({{ "/resources/teacher-guides/unit5/day-03/" | relative_url }})
