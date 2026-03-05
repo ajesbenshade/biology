@@ -44,6 +44,10 @@ Use this page to find student support materials and family communication documen
 - [Teacher Guide (Day 6): Explorer Case Studies: Zebra Stripes and Green-Blooded Skinks]({{ "/resources/teacher-guides/unit5/day-06/" | relative_url }})
 - [Teacher Guide (Day 7): Chapter 14 Review and Evidence Evaluation]({{ "/resources/teacher-guides/unit5/day-07/" | relative_url }})
 - [Teacher Guide (Day 8): Chapter 15 Opener and Bedbug Pesticide Resistance]({{ "/resources/teacher-guides/unit5/day-08/" | relative_url }})
+- [Teacher Guide (Day 9): 15.1 Developing the Theory of Evolution]({{ "/resources/teacher-guides/unit5/day-09/" | relative_url }})
+- [Teacher Guide (Day 10): 15.2 Evolution in Populations and Hawks & Mice Minilab]({{ "/resources/teacher-guides/unit5/day-10/" | relative_url }})
+- [Teacher Guide (Day 11): 15.3 Other Mechanisms of Evolution]({{ "/resources/teacher-guides/unit5/day-11/" | relative_url }})
+- [Teacher Guide (Day 12): NG Explorer – Christopher Austin and Green-Blooded Skinks]({{ "/resources/teacher-guides/unit5/day-12/" | relative_url }})
 
 ## Family Communication
 - [Parent Letter]({{ "/resources/parent-letter/" | relative_url }})

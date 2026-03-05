@@ -59,3 +59,4 @@ In one paragraph, explain one piece of evidence and one assumption tied to a 15.
 ## Navigation
 - [← Back to Unit 5 Hub]({{ "/lessons/unit5/" | relative_url }})
 - [Go to Day 10 →]({{ "/lessons/unit5/day-10/" | relative_url }})
+- [Teacher Guide (Day 9)]({{ "/resources/teacher-guides/unit5/day-09/" | relative_url }})

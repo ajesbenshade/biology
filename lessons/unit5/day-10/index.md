@@ -62,3 +62,4 @@ Which selection type best fit your lab data, and what evidence supports your con
 ## Navigation
 - [← Back to Unit 5 Hub]({{ "/lessons/unit5/" | relative_url }})
 - [Go to Day 11 →]({{ "/lessons/unit5/day-11/" | relative_url }})
+- [Teacher Guide (Day 10)]({{ "/resources/teacher-guides/unit5/day-10/" | relative_url }})

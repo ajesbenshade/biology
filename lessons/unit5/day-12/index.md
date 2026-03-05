@@ -59,3 +59,4 @@ What single piece of evidence from today most changed your understanding of this
 ## Navigation
 - [← Back to Unit 5 Hub]({{ "/lessons/unit5/" | relative_url }})
 - [Go to Day 13 →]({{ "/lessons/unit5/day-13/" | relative_url }})
+- [Teacher Guide (Day 12)]({{ "/resources/teacher-guides/unit5/day-12/" | relative_url }})

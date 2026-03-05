@@ -59,3 +59,4 @@ Name one 15.3 mechanism and explain one clear dataset signal for identifying it.
 ## Navigation
 - [← Back to Unit 5 Hub]({{ "/lessons/unit5/" | relative_url }})
 - [Go to Day 12 →]({{ "/lessons/unit5/day-12/" | relative_url }})
+- [Teacher Guide (Day 11)]({{ "/resources/teacher-guides/unit5/day-11/" | relative_url }})
