@@ -68,3 +68,4 @@ Which biotechnology application had the strongest data support, and why?
 
 - [← Back to Unit 4 Hub]({{ "/lessons/unit4/" | relative_url }})
 - [Go to Day 9 →]({{ "/lessons/unit4/day-09/" | relative_url }})
+- [Teacher Guide (Day 8)]({{ "/resources/teacher-guides/unit4/day-08/" | relative_url }})

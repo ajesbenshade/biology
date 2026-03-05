@@ -67,3 +67,4 @@ Which type of complex inheritance was easiest to identify, and why?
 
 - [← Back to Unit 4 Hub]({{ "/lessons/unit4/" | relative_url }})
 - [Go to Day 6 →]({{ "/lessons/unit4/day-06/" | relative_url }})
+- [Teacher Guide (Day 5)]({{ "/resources/teacher-guides/unit4/day-05/" | relative_url }})

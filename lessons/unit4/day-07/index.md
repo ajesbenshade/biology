@@ -66,3 +66,4 @@ Name one biotechnology tool and one type of data needed to evaluate its effectiv
 
 - [← Back to Unit 4 Hub]({{ "/lessons/unit4/" | relative_url }})
 - [Go to Day 8 →]({{ "/lessons/unit4/day-08/" | relative_url }})
+- [Teacher Guide (Day 7)]({{ "/resources/teacher-guides/unit4/day-07/" | relative_url }})

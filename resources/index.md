@@ -26,6 +26,10 @@ Use this page to find student support materials and family communication documen
 - [Teacher Guide (Day 2): DNA Structure and Replication]({{ "/resources/teacher-guides/unit4/day-02/" | relative_url }})
 - [Teacher Guide (Day 3): Gene Expression and Protein Synthesis]({{ "/resources/teacher-guides/unit4/day-03/" | relative_url }})
 - [Teacher Guide (Day 4): Mendelian Inheritance]({{ "/resources/teacher-guides/unit4/day-04/" | relative_url }})
+- [Teacher Guide (Day 5): Complex Inheritance Patterns]({{ "/resources/teacher-guides/unit4/day-05/" | relative_url }})
+- [Teacher Guide (Day 6): Human Genetics and Pedigrees]({{ "/resources/teacher-guides/unit4/day-06/" | relative_url }})
+- [Teacher Guide (Day 7): Chapter 12 Review and Biotechnology Introduction]({{ "/resources/teacher-guides/unit4/day-07/" | relative_url }})
+- [Teacher Guide (Day 8): Genetic Engineering Applications and Ethics]({{ "/resources/teacher-guides/unit4/day-08/" | relative_url }})
 
 ## Family Communication
 - [Parent Letter]({{ "/resources/parent-letter/" | relative_url }})
