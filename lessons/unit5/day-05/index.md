@@ -74,3 +74,4 @@ Choose one dataset from today and identify one observation, one inference, and o
 
 - [← Back to Unit 5 Hub]({{ "/lessons/unit5/" | relative_url }})
 - [Go to Day 6 →]({{ "/lessons/unit5/day-06/" | relative_url }})
+- [Teacher Guide (Day 5)]({{ "/resources/teacher-guides/unit5/day-05/" | relative_url }})

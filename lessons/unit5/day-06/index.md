@@ -70,3 +70,4 @@ Which case study better demonstrates strong experimental design, and why?
 
 - [← Back to Unit 5 Hub]({{ "/lessons/unit5/" | relative_url }})
 - [Go to Day 7 →]({{ "/lessons/unit5/day-07/" | relative_url }})
+- [Teacher Guide (Day 6)]({{ "/resources/teacher-guides/unit5/day-06/" | relative_url }})

@@ -62,3 +62,4 @@ What specific data from today most strongly supports that natural selection can 
 ## Navigation
 - [← Back to Unit 5 Hub]({{ "/lessons/unit5/" | relative_url }})
 - [Go to Day 9 →]({{ "/lessons/unit5/day-09/" | relative_url }})
+- [Teacher Guide (Day 8)]({{ "/resources/teacher-guides/unit5/day-08/" | relative_url }})

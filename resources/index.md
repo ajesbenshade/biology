@@ -40,6 +40,10 @@ Use this page to find student support materials and family communication documen
 - [Teacher Guide (Day 2): Microevolution, Macroevolution, and Cladistics]({{ "/resources/teacher-guides/unit5/day-02/" | relative_url }})
 - [Teacher Guide (Day 3): Fossilization and Index Fossils]({{ "/resources/teacher-guides/unit5/day-03/" | relative_url }})
 - [Teacher Guide (Day 4): Radiometric Dating and Forensic Isotope Data]({{ "/resources/teacher-guides/unit5/day-04/" | relative_url }})
+- [Teacher Guide (Day 5): Embryological, Anatomical, and Genetic Evidence]({{ "/resources/teacher-guides/unit5/day-05/" | relative_url }})
+- [Teacher Guide (Day 6): Explorer Case Studies: Zebra Stripes and Green-Blooded Skinks]({{ "/resources/teacher-guides/unit5/day-06/" | relative_url }})
+- [Teacher Guide (Day 7): Chapter 14 Review and Evidence Evaluation]({{ "/resources/teacher-guides/unit5/day-07/" | relative_url }})
+- [Teacher Guide (Day 8): Chapter 15 Opener and Bedbug Pesticide Resistance]({{ "/resources/teacher-guides/unit5/day-08/" | relative_url }})
 
 ## Family Communication
 - [Parent Letter]({{ "/resources/parent-letter/" | relative_url }})

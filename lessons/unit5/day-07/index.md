@@ -70,3 +70,4 @@ Identify one concept from Chapter 14 that is now clear and one that still needs 
 
 - [← Back to Unit 5 Hub]({{ "/lessons/unit5/" | relative_url }})
 - [Go to Day 8 →]({{ "/lessons/unit5/day-08/" | relative_url }})
+- [Teacher Guide (Day 7)]({{ "/resources/teacher-guides/unit5/day-07/" | relative_url }})
