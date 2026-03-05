@@ -68,3 +68,4 @@ What is one error pattern you corrected today, and what changed in your reasonin
 
 - [← Back to Unit 4 Hub]({{ "/lessons/unit4/" | relative_url }})
 - [Go to Day 12 →]({{ "/lessons/unit4/day-12/" | relative_url }})
+- [Teacher Guide (Day 11)]({{ "/resources/teacher-guides/unit4/day-11/" | relative_url }})

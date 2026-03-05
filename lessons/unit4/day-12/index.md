@@ -65,3 +65,4 @@ What is one Unit 4 concept you can now explain clearly with evidence?
 ## Navigation
 
 - [← Back to Unit 4 Hub]({{ "/lessons/unit4/" | relative_url }})
+- [Teacher Guide (Day 12)]({{ "/resources/teacher-guides/unit4/day-12/" | relative_url }})

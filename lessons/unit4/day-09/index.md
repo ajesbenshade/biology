@@ -69,3 +69,4 @@ What was your strongest evidence for your CER claim today?
 
 - [← Back to Unit 4 Hub]({{ "/lessons/unit4/" | relative_url }})
 - [Go to Day 10 →]({{ "/lessons/unit4/day-10/" | relative_url }})
+- [Teacher Guide (Day 9)]({{ "/resources/teacher-guides/unit4/day-09/" | relative_url }})

@@ -30,6 +30,10 @@ Use this page to find student support materials and family communication documen
 - [Teacher Guide (Day 6): Human Genetics and Pedigrees]({{ "/resources/teacher-guides/unit4/day-06/" | relative_url }})
 - [Teacher Guide (Day 7): Chapter 12 Review and Biotechnology Introduction]({{ "/resources/teacher-guides/unit4/day-07/" | relative_url }})
 - [Teacher Guide (Day 8): Genetic Engineering Applications and Ethics]({{ "/resources/teacher-guides/unit4/day-08/" | relative_url }})
+- [Teacher Guide (Day 9): Biotechnology Data Analysis]({{ "/resources/teacher-guides/unit4/day-09/" | relative_url }})
+- [Teacher Guide (Day 10): Lab Skills and Mixed Practice]({{ "/resources/teacher-guides/unit4/day-10/" | relative_url }})
+- [Teacher Guide (Day 11): Review and Error Analysis]({{ "/resources/teacher-guides/unit4/day-11/" | relative_url }})
+- [Teacher Guide (Day 12): Unit Assessment and Wrap-Up]({{ "/resources/teacher-guides/unit4/day-12/" | relative_url }})
 
 ## Family Communication
 - [Parent Letter]({{ "/resources/parent-letter/" | relative_url }})

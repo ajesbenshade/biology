@@ -66,3 +66,4 @@ Which skill area improved most for you today, and what evidence shows that?
 
 - [← Back to Unit 4 Hub]({{ "/lessons/unit4/" | relative_url }})
 - [Go to Day 11 →]({{ "/lessons/unit4/day-11/" | relative_url }})
+- [Teacher Guide (Day 10)]({{ "/resources/teacher-guides/unit4/day-10/" | relative_url }})
