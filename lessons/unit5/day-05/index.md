@@ -44,6 +44,7 @@ permalink: /lessons/unit5/day-05/
 - Which conclusions require extrapolation beyond the observed embryology images?
 - How can molecular similarity support both ancestry and design-based interpretations?
 - Why is careful classification important before drawing broad conclusions?
+- How can common-design and common-descent interpretations be compared fairly using the same molecular dataset?
 
 ## Biblical Integration
 
@@ -58,6 +59,7 @@ The repeated patterns in life can be studied scientifically and also appreciated
 
 - Complete structure-classification practice (12 items).
 - Write one CER paragraph using either embryology or molecular data.
+- Answer one vestigial-structure prompt and justify your interpretation with cited evidence.
 
 ## Exit Ticket / Reflection
 

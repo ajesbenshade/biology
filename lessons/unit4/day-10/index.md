@@ -31,7 +31,8 @@ permalink: /lessons/unit4/day-10/
 1. **Bellwork (8 min):** Complete one mixed-review problem with justification.
 2. **Practice Stations (40 min):** Codon decoding, inheritance probability, replication labeling, mutation classification.
 3. **Partner Error-Check (15 min):** Trade solutions and annotate corrections.
-4. **Wrap-Up (7 min):** One challenge problem synthesis.
+4. **Peer Teaching (7 min):** Students explain one station concept to a partner.
+5. **Wrap-Up (5 min):** One challenge problem synthesis.
 
 ## Critical Perspective
 
@@ -42,10 +43,15 @@ permalink: /lessons/unit4/day-10/
 
 Diligent scientific work reflects integrity, patience, and responsibility in learning.
 
+<div class="scripture-connection">
+<h3>Scripture Connection</h3>
+<p><strong>Genesis 1:31</strong> supports reflection on the goodness and coherence of creation during unit review.</p>
+</div>
+
 ## Homework / Assignment
 
-- Finish incomplete station tasks.
-- Submit corrected responses for any missed mixed-practice items.
+- Complete the Unit 4 study guide.
+- Finish incomplete station tasks and submit corrected responses for missed mixed-practice items.
 
 ## Exit Ticket / Reflection
 

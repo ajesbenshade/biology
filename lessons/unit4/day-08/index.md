@@ -38,15 +38,22 @@ permalink: /lessons/unit4/day-08/
 
 - How do we distinguish persuasive language from strong evidence?
 - What additional data would increase confidence in a biotechnology recommendation?
+- How should ethical concerns be discussed while keeping scientific claims evidence-based?
 
 ## Biblical Integration
 
 Scientific tools can be used for service and stewardship when guided by truth, responsibility, and respect for life.
 
+<div class="scripture-connection">
+<h3>Scripture Connection</h3>
+<p><strong>Proverbs 3:5-6</strong> encourages humility and wisdom when discussing high-impact genetic technologies.</p>
+</div>
+
 ## Homework / Assignment
 
 - Complete debate outline using textbook evidence.
 - Finish Unit 4 review packet section on biotechnology interpretation.
+- Include one paragraph evaluating GMO, CRISPR, or recombinant DNA with evidence and ethical reasoning.
 
 ## Exit Ticket / Reflection
 

@@ -12,6 +12,7 @@ permalink: /lessons/unit4/day-03/
 - Describe transcription from DNA to mRNA.
 - Describe translation from mRNA to protein.
 - Use codon-table evidence to explain protein synthesis outcomes.
+- Distinguish observed mutation effects from assumptions about long-range biological change.
 
 ## Key Terms
 
@@ -29,8 +30,8 @@ permalink: /lessons/unit4/day-03/
 ## In-Class Activities / Minilabs
 
 1. **Bellwork (10 min):** Explain how a cell uses DNA information to build proteins.
-2. **Mini-Lesson (20 min):** Central dogma instruction with guided examples.
-3. **Guided Practice (25 min):** Complete transcription and translation sequences.
+2. **Mini-Lesson (20 min):** Central dogma instruction with guided examples and short video support.
+3. **Guided Practice (25 min):** Complete transcription and translation sequences using a flowchart handout.
 4. **Codon Table Lab (10 min):** Decode short mRNA strands and compare outputs.
 5. **Debrief (5 min):** Share one common translation error and correction.
 
@@ -38,10 +39,16 @@ permalink: /lessons/unit4/day-03/
 
 - What data do we directly observe in gene expression studies?
 - Where do model assumptions appear in explanations of molecular processes?
+- How can students separate measurable molecular outcomes from broader speculative claims?
 
 ## Biblical Integration
 
 Biological information flow displays remarkable order and consistency. Students are encouraged to pursue truth through disciplined analysis of observed evidence.
+
+<div class="scripture-connection">
+<h3>Scripture Connection</h3>
+<p><strong>Job 38:4,36</strong> emphasizes God’s wisdom in creation’s details and supports careful analysis of genetic information flow.</p>
+</div>
 
 ## Homework / Assignment
 
@@ -56,6 +63,7 @@ Translate a short mRNA sequence and justify one codon choice.
 
 - Advanced extension: Analyze potential effects of one point mutation.
 - Support for struggling learners: Use scaffolded codon charts and step cards.
+- Keep language precise when discussing mutation as information change in real organisms.
 
 ## Navigation
 

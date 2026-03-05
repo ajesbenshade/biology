@@ -30,9 +30,9 @@ permalink: /lessons/unit4/day-04/
 
 1. **Bellwork (10 min):** Predict outcomes from a simple dominant/recessive cross.
 2. **Review (15 min):** Mendelian vocabulary and model assumptions.
-3. **Guided Practice (25 min):** Multi-problem Punnett square set.
+3. **Guided Practice (25 min):** Multi-problem Punnett square set with optional coin-flip simulation.
 4. **Data Check (15 min):** Introduce chi-square setup and interpretation.
-5. **Debrief (5 min):** Compare model predictions with sample class data.
+5. **Assessment Block (last 20 min):** Chapter 11 quiz.
 
 ## Critical Perspective
 
@@ -42,6 +42,11 @@ permalink: /lessons/unit4/day-04/
 ## Biblical Integration
 
 Studying inheritance patterns develops precision, logic, and stewardship of knowledge. Students practice careful reasoning while honoring truth and evidence.
+
+<div class="scripture-connection">
+<h3>Scripture Connection</h3>
+<p><strong>Genesis 1:21</strong> (“according to their kinds”) supports careful discussion of observable variation within populations.</p>
+</div>
 
 ## Homework / Assignment
 

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Day 1: Introduction to Genetics"
+description: Unit 4 Day 1 lesson introducing heredity, DNA, and foundational genetics vocabulary.
 permalink: /lessons/unit4/day-01/
 ---
 
@@ -29,8 +30,8 @@ permalink: /lessons/unit4/day-01/
 
 1. **Bellwork (10 min):** List three family traits you share and one unique trait, then propose one possible explanation for variation.
 2. **Phenomenon Discussion (15 min):** Analyze trait photos and classify observations versus interpretations.
-3. **Direct Instruction (20 min):** Guided notes on DNA, genes, and chromosomes with quick checks for understanding.
-4. **Collaborative Activity (20 min):** Teams build a concept map linking DNA → genes → proteins → traits.
+3. **Direct Instruction (20 min):** Guided notes on DNA, genes, and chromosomes with quick checks for understanding and Chapter 11 opener references.
+4. **Collaborative Activity (20 min):** Teams build a concept map linking DNA → genes → proteins → traits using a graphic organizer.
 5. **Debrief (5 min):** Share one strong evidence-based statement about inheritance.
 
 ## Critical Perspective
@@ -44,7 +45,7 @@ God’s creation is orderly and intelligible, which supports careful scientific 
 
 <div class="scripture-connection">
 <h3>Scripture Connection</h3>
-<p><strong>Psalm 139:13-14</strong> highlights the intentional design and value of human life.</p>
+<p><strong>Psalm 139:13-14</strong> highlights the intentional design and value of human life, supporting careful study of inherited traits with both rigor and humility.</p>
 </div>
 
 ## Homework / Assignment
@@ -59,7 +60,7 @@ What is one genetics claim from class that is directly supported by observed evi
 ## Teacher Notes Only (not for students)
 
 - Advanced extension: Research one genetic disorder and distinguish observed data from interpretation.
-- Support for struggling learners: Provide partially completed diagrams and sentence stems.
+- Support for struggling learners: Provide pre-filled diagrams and sentence stems.
 
 ## Navigation
 

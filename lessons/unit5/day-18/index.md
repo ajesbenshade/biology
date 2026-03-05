@@ -27,7 +27,7 @@ permalink: /lessons/unit5/day-18/
 "Modeling human-caused changes: beetle population simulation setup."
 
 ## In-Class Activities / Minilabs
-1. **Identify prompt (10 min):** List daily human decisions that affect local ecosystems.
+1. **Bellwork/Identify prompt (10 min):** List daily human decisions that affect local ecosystems and predict one climate-linked impact.
 2. **Minilab setup (10 min):** Assign materials and define starting beetle-population conditions.
 3. **Procedure rounds (25 min):** Simulate habitat changes and record population shifts.
 4. **Results/analysis (20 min):** Graph outcomes and explain which pressures changed survival patterns.

@@ -10,6 +10,7 @@ permalink: /lessons/unit5/day-10/
 - Explain how allele frequencies change in populations over time.
 - Distinguish stabilizing, directional, and disruptive selection.
 - Analyze minilab data to support claims about selection pressure.
+- Apply Hardy-Weinberg-style reasoning to simple allele-frequency problem sets.
 
 ## Key Terms
 - population genetics
@@ -31,6 +32,7 @@ permalink: /lessons/unit5/day-10/
 2. **Selection pattern drill (15 min):** Match scenarios to selection type.
 3. **Minilab execution (30 min):** Run Hawks and Mice procedure with data table collection.
 4. **Analysis & discussion (15 min):** Complete conclusion questions and compare group results.
+5. **Extension option:** Use beans/beads to model frequency shifts and compare to hawk-mice results.
 
 **Sample answers (placeholder):**
 - Directional selection shifts the population mean toward a favored trait.
@@ -48,6 +50,7 @@ God’s creation shows both complexity and order. Quantitative population data h
 ## Homework / Assignment
 - Complete minilab analysis and graph.
 - Answer Chapter 15.2 review questions and one reflection on model limits.
+- Complete allele-frequency worksheet (including one Hardy-Weinberg check problem).
 
 ## Exit Ticket / Reflection
 Which selection type best fit your lab data, and what evidence supports your conclusion?

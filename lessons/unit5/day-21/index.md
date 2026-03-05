@@ -31,6 +31,8 @@ permalink: /lessons/unit5/day-21/
 2. **Modeling task steps 1–2 (20 min):** Build and analyze trait-frequency and population comparison graphs.
 3. **Modeling task steps 3–4 (20 min):** Explain potential speciation/extinction outcomes and justify with evidence.
 4. **Unit reflection (15 min):** Write final synthesis on science, assumptions, and stewardship implications.
+5. **Review format option:** Use Jeopardy/stations for cumulative evidence-to-process review before final reflection.
+6. **Assessment debrief (optional):** Discuss strengths and gaps after a unit-style checkpoint.
 
 **Sample answers:**
 - Strong conclusions describe measured trait-frequency shifts under documented selective pressure.
@@ -47,6 +49,8 @@ Faith and science are not competitors: careful evidence evaluation and moral res
 
 Verses: Colossians 1:16-17; Psalm 104:24.
 
+Supplemental verse: Psalm 139:14.
+
 ## Homework / Assignment
 - Complete final Chapter 16 corrections and submit synthesis response.
 - Reflection prompt: How has your view of environmental stewardship changed after Unit 5?
@@ -57,6 +61,7 @@ In 2–3 sentences, identify one Chapter 16 concept you understand deeply and on
 ## Teacher Notes Only (not for students)
 - Use final reflections to identify reteaching needs for evidence interpretation skills.
 - Keep synthesis scoring anchored to rubric criteria and data-supported reasoning.
+- If used, keep any unit-test/debrief segment focused on standards mastery and reflective growth.
 
 ## Navigation
 - [← Back to Unit 5 Hub]({{ "/lessons/unit5/" | relative_url }})

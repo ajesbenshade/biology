@@ -31,6 +31,7 @@ permalink: /lessons/unit5/day-14/
 2. **Work time (35 min):** Complete steps 1–3 using chapter data and mechanism references.
 3. **Peer feedback (15 min):** Exchange work and check claim-evidence alignment.
 4. **Unit reflection (15 min):** Write final synthesis response using Chapter 15 planner categories.
+5. **Readiness support (optional):** Peer-teach one weak-area concept before final submission.
 
 **Sample answers (placeholder):**
 - Use exact sample and rubric-aligned language from Tying It All Together PDF once uploaded.
@@ -55,6 +56,7 @@ In 3–4 sentences, explain one mechanism from Unit 5 and how you evaluated its 
 ## Teacher Notes Only (not for students)
 - Add the final rubric link when the materials file is uploaded.
 - Replace placeholders with exact Day 14 PDF language before final publication.
+- Use peer-teaching time to target misconceptions from prior review packets.
 
 ## Navigation
 - [← Back to Unit 5 Hub]({{ "/lessons/unit5/" | relative_url }})

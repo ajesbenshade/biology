@@ -30,7 +30,7 @@ permalink: /lessons/unit4/day-05/
 
 1. **Bellwork (10 min):** Differentiate genotype and phenotype with one example.
 2. **Direct Instruction (20 min):** Notes and examples for complex inheritance types.
-3. **Simulation (25 min):** Blood-type inheritance modeling and analysis.
+3. **Simulation (25 min):** Blood-type inheritance modeling and analysis using blood-type simulation cards.
 4. **Comparison Task (10 min):** Classify outcomes as Mendelian or non-Mendelian.
 5. **Debrief (5 min):** Evidence check on pattern identification.
 
@@ -43,10 +43,16 @@ permalink: /lessons/unit4/day-05/
 
 Human biological diversity can be studied with rigor and respect. Students are called to analyze differences truthfully and compassionately.
 
+<div class="scripture-connection">
+<h3>Scripture Connection</h3>
+<p><strong>Psalm 104:24</strong> emphasizes God’s wisdom in creating biological complexity, including varied inheritance patterns.</p>
+</div>
+
 ## Homework / Assignment
 
 - Complete the complex inheritance analysis questions from the simulation.
 - Prepare one evidence-based claim comparing two inheritance patterns.
+- Add one blood-type family puzzle explanation using genotype evidence.
 
 ## Exit Ticket / Reflection
 

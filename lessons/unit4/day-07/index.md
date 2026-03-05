@@ -32,6 +32,7 @@ permalink: /lessons/unit4/day-07/
 2. **Review Stations (35 min):** Punnett squares, chi-square interpretation, meiosis vs. mitosis, and DNA replication checks.
 3. **Mini-Lesson (17 min):** PCR, gels, and CRISPR fundamentals with visual examples.
 4. **Discussion (10 min):** Evaluate one biotechnology scenario using scientific evidence.
+5. **Assessment:** Chapter 12 quiz.
 
 ## Critical Perspective
 
@@ -41,6 +42,11 @@ permalink: /lessons/unit4/day-07/
 ## Biblical Integration
 
 Students practice responsible stewardship of scientific knowledge by pairing evidence-based reasoning with humility and ethical reflection.
+
+<div class="scripture-connection">
+<h3>Scripture Connection</h3>
+<p><strong>Genesis 1:28</strong> frames dominion as stewardship and supports responsible use of biotechnology tools.</p>
+</div>
 
 ## Homework / Assignment
 

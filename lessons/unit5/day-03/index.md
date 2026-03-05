@@ -42,6 +42,7 @@ permalink: /lessons/unit5/day-03/
 - What assumptions are used when inferring large-scale history from incomplete fossil records?
 - How does an index fossil method help or limit certainty?
 - How should gaps in the record affect the strength of historical claims?
+- What alternative catastrophic-burial scenarios are discussed by some interpreters, and how should those claims be evidence-tested?
 
 ## Biblical Integration
 
@@ -56,6 +57,7 @@ The fossil record invites humility: it provides real historical clues but not ex
 
 - Complete fossilization flowchart and index fossil worksheet.
 - Answer short response: “Why do index fossils support relative dating rather than exact absolute dates?”
+- Add one paragraph comparing two interpretations of fossil order using specific evidence.
 
 ## Exit Ticket / Reflection
 

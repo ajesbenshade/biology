@@ -10,6 +10,7 @@ permalink: /lessons/unit5/day-15/
 - Describe how strong human-caused selection pressure can change trait frequencies in a population.
 - Interpret the Gorongosa elephant case study using evidence from maps, trait data, and historical context.
 - Distinguish direct observations from inferences about future speciation or extinction outcomes.
+- Compare measurable adaptation in populations with broader macro-historical claims.
 
 ## Key Terms
 - tusklessness
@@ -41,6 +42,7 @@ permalink: /lessons/unit5/day-15/
 - How might the same data be interpreted within both common-ancestry and common-design frameworks?
 - Which conclusions are direct observations, and which depend on extrapolation beyond the dataset?
 - What responsibilities do humans have when our choices become a strong selective force in creation?
+- How can this case help students distinguish adaptation within populations from claims about new kinds of organisms?
 
 ## Biblical Integration
 God entrusts humans with stewardship over creation; harmful human actions can disrupt ecosystems and populations. Careful science can help us understand consequences and make wiser choices.

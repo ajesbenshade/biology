@@ -12,6 +12,7 @@ permalink: /lessons/unit4/day-06/
 - Construct and interpret pedigree charts using standard symbols.
 - Distinguish autosomal and sex-linked inheritance clues.
 - Calculate inheritance probabilities from pedigree evidence.
+- Discuss genetic disorders with scientific care and compassion.
 
 ## Key Terms
 
@@ -43,10 +44,16 @@ permalink: /lessons/unit4/day-06/
 
 Genetics in families should be studied with care, compassion, and integrity. Scientific knowledge is most useful when paired with respect for human dignity.
 
+<div class="scripture-connection">
+<h3>Scripture Connection</h3>
+<p><strong>Acts 17:26</strong> emphasizes shared human ancestry and dignity; <strong>Romans 8:22</strong> can frame discussion of disease and brokenness with compassion.</p>
+</div>
+
 ## Homework / Assignment
 
 - Complete the pedigree analysis worksheet.
 - Write one short explanation of an inheritance pattern using pedigree evidence.
+- Add a brief research summary on one genetic disorder.
 
 ## Exit Ticket / Reflection
 

@@ -43,6 +43,7 @@ permalink: /lessons/unit5/day-02/
 - How can similarities be interpreted as either common ancestry or common design?
 - What evidence would strengthen one interpretation over the other?
 - How should scientists communicate uncertainty when presenting historical reconstructions?
+- Where should students clearly distinguish observed variation within populations from larger historical extrapolations?
 
 ## Biblical Integration
 
@@ -50,7 +51,7 @@ Science benefits from clear definitions and honest distinctions between what is 
 
 <div class="scripture-connection">
 <h3>Scripture Connection</h3>
-<p><strong>Colossians 1:16-17</strong> and <strong>Romans 1:20</strong> call us to see creation as both ordered and meaningful while we evaluate evidence carefully.</p>
+<p><strong>Colossians 1:16-17</strong>, <strong>Romans 1:20</strong>, and <strong>Genesis 1:21</strong> call us to evaluate evidence carefully while recognizing purposeful order in living systems.</p>
 </div>
 
 ## Homework / Assignment

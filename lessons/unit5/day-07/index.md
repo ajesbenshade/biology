@@ -30,6 +30,7 @@ permalink: /lessons/unit5/day-07/
 1. **Review Stations (35 min):** Five stations: fossils, structures, embryology, molecular data, isotope dating.
 2. **Error Analysis (20 min):** Correct flawed sample answers from a mock chapter review.
 3. **Quick Check (10 min):** 12-item mixed formative quiz.
+4. **Quiz Readiness (optional):** Short Chapter 14 checkpoint for targeted reteach grouping.
 
 **Sample answers:**
 - Carbon-14 is best for relatively recent once-living material, not very old igneous rocks.

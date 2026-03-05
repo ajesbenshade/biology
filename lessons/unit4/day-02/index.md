@@ -32,21 +32,29 @@ permalink: /lessons/unit4/day-02/
 2. **Vocabulary Review (10 min):** Rapid checks on Day 1 inheritance terms.
 3. **Model Build (25 min):** Construct and label a DNA model with paired bases and strand direction.
 4. **Replication Walk-Through (20 min):** Sequence enzyme actions in a guided replication simulation.
-5. **Debrief (5 min):** Identify one error source and one correction mechanism.
+5. **Mini-Lab Extension:** Strawberry DNA extraction to visualize genetic material.
+6. **Debrief (5 min):** Identify one error source and one correction mechanism.
 
 ## Critical Perspective
 
 - Which replication steps are directly observed versus model-based representations?
 - How do we evaluate claims about replication fidelity using evidence?
+- How should mutation frequency be discussed without overstating conclusions?
 
 ## Biblical Integration
 
 The reliability and order in biological information systems supports careful stewardship of scientific knowledge. Students practice truth-seeking through evidence, precision, and intellectual humility.
 
+<div class="scripture-connection">
+<h3>Scripture Connection</h3>
+<p><strong>Colossians 1:17</strong> points to sustaining order in creation, which frames replication fidelity as a meaningful scientific topic.</p>
+</div>
+
 ## Homework / Assignment
 
 - Complete a replication flowchart.
 - Answer five replication practice questions using correct enzyme vocabulary.
+- Reflection prompt: What would happen if replication were not accurate?
 
 ## Exit Ticket / Reflection
 

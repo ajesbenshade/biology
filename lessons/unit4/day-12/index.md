@@ -29,10 +29,10 @@ permalink: /lessons/unit4/day-12/
 ## In-Class Activities / Minilabs
 
 1. **Bellwork (5 min):** Quick readiness routine and assessment expectations.
-2. **Summative Assessment (45 min):** Unit 4 test/quiz.
-3. **Reflection (15 min):** Identify strongest skill and one area for growth.
-4. **Preview (10 min):** Unit 5 bridge and expectations.
-5. **Closure (5 min):** Goal statement for next unit.
+2. **Summative Assessment (60–90 min, schedule-dependent):** Unit 4 test/quiz.
+3. **Wrap-Up Discussion:** “How does genetics reveal God’s glory?”
+4. **Reflection (10 min):** Identify strongest skill and one area for growth.
+5. **Preview (5 min):** Unit 5 bridge and expectations.
 
 ## Critical Perspective
 
@@ -42,6 +42,11 @@ permalink: /lessons/unit4/day-12/
 ## Biblical Integration
 
 Responsible scholarship includes honest evaluation of progress and gratitude for growth in knowledge and discipline.
+
+<div class="scripture-connection">
+<h3>Scripture Connection</h3>
+<p><strong>Psalm 139:14</strong> can anchor final reflection on genetics as a study of intricately designed living systems.</p>
+</div>
 
 ## Homework / Assignment
 

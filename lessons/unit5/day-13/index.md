@@ -31,6 +31,7 @@ permalink: /lessons/unit5/day-13/
 2. **Hardy-Weinberg check (20 min):** Compare expected vs observed frequencies and interpret deviations.
 3. **Review stations (20 min):** Complete Chapter 15 key-concept prompts by mechanism/evidence type.
 4. **Answer correction (10 min):** Revise one weak response using evidence and precise vocabulary.
+5. **Game-format review option:** Jeopardy-style team review for key vocabulary and mechanism distinctions.
 
 **Sample answers (placeholder):**
 - Include exact printed sample answers from the PDF once imported.
@@ -48,6 +49,7 @@ Romans 1:20 points students toward careful observation of creation. Data analysi
 ## Homework / Assignment
 - Complete Chapter 15 review set.
 - Write one reflection comparing measured population change with broader interpretation claims.
+- Complete study-guide weak-area checklist in preparation for synthesis tasks.
 
 ## Exit Ticket / Reflection
 Identify one review question where evidence was strong and one where assumptions were significant.

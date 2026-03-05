@@ -28,6 +28,7 @@ permalink: /lessons/unit5/day-19/
 2. **School-practice audit (20 min):** Identify one campus practice that increases or decreases environmental impact.
 3. **Solution ranking (20 min):** Evaluate proposed interventions by feasibility and expected impact.
 4. **Short proposal (10 min):** Draft one evidence-based school/community action step.
+5. **Case extension:** Evaluate a wildlife-corridor scenario and justify expected biodiversity effects.
 
 **Sample answers:**
 - Biodiversity maintenance improves ecosystem stability and adaptive capacity under change.

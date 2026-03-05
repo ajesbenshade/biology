@@ -28,6 +28,7 @@ permalink: /lessons/unit5/day-16/
 2. **Adaptive-radiation card sort (20 min):** Match species changes to niche differences.
 3. **Identify prompt workshop (20 min):** Students answer the diversification-factors question with evidence.
 4. **Scenario analysis (15 min):** Classify speciation examples and justify with mechanism language.
+5. **Case-study extension (optional):** Analyze Galápagos finch diversification evidence using isolation and niche data.
 
 **Sample answers:**
 - Allopatric speciation typically involves physical separation and reduced gene flow.
@@ -43,6 +44,8 @@ permalink: /lessons/unit5/day-16/
 Studying biodiversity can deepen appreciation for the richness and order of life. Faith and science work together when we analyze evidence honestly and acknowledge both discovery and mystery.
 
 Verses: Psalm 104:24; Romans 1:20.
+
+Supplemental verse: Genesis 1:21.
 
 ## Homework / Assignment
 - Complete 16.1 guided questions and vocabulary practice.

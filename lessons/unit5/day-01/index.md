@@ -11,6 +11,7 @@ permalink: /lessons/unit5/day-01/
 - Describe how scientists investigate evolutionary questions using both historical and modern methods.
 - Explain why the pygmy three-toed sloth is used as a Chapter 14 case study.
 - Distinguish between data collection and interpretation in scientific explanations.
+- Distinguish measurable adaptation and micro-change within populations from broader macro-historical claims.
 
 ## Key Terms
 
@@ -35,6 +36,7 @@ permalink: /lessons/unit5/day-01/
 2. **Case Study Analysis (20 min):** Students annotate a short sloth evidence set (location, traits, genetic comparison summary).
 3. **Claim-Evidence-Reasoning (25 min):** Teams write one evolutionary interpretation and one common-design interpretation using the same evidence set.
 4. **Share and Compare (12 min):** Class compares which interpretation is most directly supported by observed data.
+5. **Cross-Case Connection (optional):** Compare sloth evidence with tuskless-elephant trait-frequency change as another adaptation case.
 
 **Sample answers:**
 - Strong evidence is measurable, repeatable, and clearly connected to the claim.
@@ -53,13 +55,14 @@ God’s creation is orderly and knowable, so scientific investigation is worthwh
 
 <div class="scripture-connection">
 <h3>Scripture Connection</h3>
-<p><strong>Colossians 1:16-17</strong> and <strong>Romans 1:20</strong> remind us that all things were created through Christ and that God’s qualities are seen in creation.</p>
+<p><strong>Colossians 1:16-17</strong>, <strong>Romans 1:20</strong>, and <strong>Genesis 1:31</strong> remind us that creation is purposeful, ordered, and worthy of careful study.</p>
 </div>
 
 ## Homework / Assignment
 
 - Read Chapter 14.1 and complete a two-column chart: “Observed Data” vs. “Interpretive Claim.”
 - Write one paragraph explaining the sloth case in your own words using evidence-based reasoning.
+- Add brief notes summarizing fossil, anatomical, embryological, molecular, and biogeographical evidence types.
 
 ## Exit Ticket / Reflection
 

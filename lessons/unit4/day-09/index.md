@@ -12,6 +12,7 @@ permalink: /lessons/unit4/day-09/
 - Interpret PCR output data accurately.
 - Analyze gel electrophoresis band patterns.
 - Write claim-evidence-reasoning responses from biotechnology datasets.
+- Discuss ethical considerations in biotechnology applications using evidence.
 
 ## Key Terms
 
@@ -33,6 +34,7 @@ permalink: /lessons/unit4/day-09/
 3. **Small-Group Set (25 min):** Interpret two biotechnology scenarios using provided data.
 4. **CER Writing (12 min):** Draft a concise claim-evidence-reasoning response.
 5. **Debrief (5 min):** Peer check one evidence statement for precision.
+6. **Extension Discussion (optional):** Conclude a structured debate on biotechnology benefits and limits.
 
 ## Critical Perspective
 
@@ -43,10 +45,16 @@ permalink: /lessons/unit4/day-09/
 
 Truthful scientific communication requires precision, honesty, and responsible interpretation of evidence.
 
+<div class="scripture-connection">
+<h3>Scripture Connection</h3>
+<p><strong>Proverbs 3:5-6</strong> can guide wise decision-making while evaluating modern biotechnology claims.</p>
+</div>
+
 ## Homework / Assignment
 
 - Correct missed data-interpretation items.
 - Complete one extension analysis problem.
+- Complete the Unit 4 review packet for the upcoming assessment.
 
 ## Exit Ticket / Reflection
 

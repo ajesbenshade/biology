@@ -10,6 +10,7 @@ permalink: /lessons/unit5/day-11/
 - Explain gene flow, genetic drift, and sexual selection.
 - Compare bottleneck and founder effects using evidence.
 - Use a semantic map to organize relationships among mechanisms.
+- Distinguish mutation, migration (gene flow), and drift as mechanisms of variation within populations.
 
 ## Key Terms
 - gene flow
@@ -37,9 +38,12 @@ permalink: /lessons/unit5/day-11/
 - How should students avoid overgeneralizing from one mechanism case to all evolution claims?
 - What assumptions are often hidden when interpreting population-mechanism data?
 - How can careful science keep mechanism evidence and worldview interpretation distinct?
+- Which mechanism claims are directly model-supported versus inferred from long-range scenarios?
 
 ## Biblical Integration
 Scripture encourages thoughtful discernment. Studying mechanisms of change can strengthen students’ ability to evaluate claims honestly while honoring God as Creator.
+
+Verses: Romans 8:22; Proverbs 2:6.
 
 ## Homework / Assignment
 - Complete 15.3 mechanism practice set.

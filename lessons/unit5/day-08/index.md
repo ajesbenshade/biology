@@ -31,6 +31,7 @@ permalink: /lessons/unit5/day-08/
 2. **Case-study read (20 min):** Annotate claim-evidence-reasoning from the bedbug resistance narrative.
 3. **Population simulation (25 min):** Model resistance allele frequency increase across treatment rounds.
 4. **Video notes (10 min):** Add guided notes for VIDEO 15-1 once source is imported.
+5. **Alternative model option:** Run a peppered-moth style selection simulation and compare outcome patterns.
 
 **Sample answers (placeholder):**
 - A mutation that increases survival under pesticide pressure becomes more common over generations.
@@ -44,6 +45,8 @@ permalink: /lessons/unit5/day-08/
 
 ## Biblical Integration
 Psalm 104:24 reminds us that God made creation with wisdom and order. As students analyze adaptation in populations, they can practice careful science while recognizing God’s sustaining design.
+
+Verses: Psalm 104:24; Job 12:7-10.
 
 ## Homework / Assignment
 - Complete Chapter 15 opener questions.

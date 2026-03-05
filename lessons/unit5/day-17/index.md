@@ -28,6 +28,7 @@ permalink: /lessons/unit5/day-17/
 2. **Cause-impact matrix (20 min):** Link environmental pressures to extinction risk.
 3. **Case classification (20 min):** Categorize species scenarios as threatened/endangered and justify.
 4. **Protection plan mini-design (15 min):** Propose one action for reducing decline risk.
+5. **Research extension:** Begin a short endangered-species profile with one evidence-based protection strategy.
 
 **Sample answers:**
 - Endangered status indicates immediate high risk of extinction in all or significant ranges.
@@ -47,6 +48,7 @@ Verses: Genesis 2:15; Proverbs 12:10.
 ## Homework / Assignment
 - Complete Section 16.2 review questions.
 - Reflection prompt: Choose one vulnerability factor and explain how prevention could reduce extinction risk.
+- Complete endangered-species summary with citation of one conservation dataset.
 
 ## Exit Ticket / Reflection
 What is one practical protection strategy that can reduce extinction risk for a vulnerable species?
