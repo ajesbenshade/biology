@@ -41,9 +41,10 @@ body {
 }
 
 .site-logo {
-  height: 160px; /* halved from 320px */
+  height: 72px; /* modest header size */
   width: auto;
   display: block;
+  max-width: 240px; /* avoid extremely wide logos */
 }
 
 .main-nav {
@@ -139,7 +140,7 @@ h3 {
   }
 
   .site-logo {
-    height: 128px; /* halved from 256px */
+    height: 56px; /* modest mobile size */
   }
 
   main.container {
