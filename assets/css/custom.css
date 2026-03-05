@@ -41,7 +41,7 @@ body {
 }
 
 .site-logo {
-  height: 56px;
+  height: 224px; /* 4× original */
   width: auto;
   display: block;
 }
@@ -139,7 +139,7 @@ h3 {
   }
 
   .site-logo {
-    height: 46px;
+    height: 184px; /* maintain 4× scaling for small screens */
   }
 
   main.container {
