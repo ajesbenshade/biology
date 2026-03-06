@@ -87,7 +87,7 @@ The most important interpretation categories are:
 
 **Follow-up:** 3–4 students share. Guide toward the distinction: data = what you measure; interpretation = what you conclude from it.
 
-**Grading:** 5 pts. Full credit for any answer that mentions measurability or testability plus a connection to claims.
+**Grading:** 1 pt. Award the point for any good-faith response that mentions measurability or testability plus a connection to claims.
 
 ---
 
@@ -190,19 +190,21 @@ Why weak: it names no specific evidence, jumps from difference to proof, and doe
 
 ---
 
-## Homework Grading Key
+## Homework
 
-| Assignment | Points | Key Criteria |
-|-----------|--------|-------------|
-| Read Ch. 14.1 + Observed vs. Interpretive chart | 10 pts | At least 5 distinct entries per column; accurate categorization |
-| Paragraph on sloth case in own words | 5 pts | Evidence-based language; no unqualified "this proves" statements; neutral wording |
+Homework is practice only. Check for completion and give feedback, but do not record points.
+
+| Assignment | Suggested completion look-fors |
+|-----------|-------------------------------|
+| Read Ch. 14.1 + Observed vs. Interpretive chart | At least 5 distinct entries per column; accurate categorization |
+| Paragraph on sloth case in own words | Evidence-based language; no unqualified "this proves" statements; neutral wording |
 
 **Strong paragraph example:**
 > "Scientists studying the pygmy three-toed sloth on Escudo de Veraguas island found that it is smaller and slower than mainland relatives, with closely similar genetics. These observations are consistent with both evolutionary divergence after island isolation and variation within a created kind. The genetic similarity is directly measured; claims about when or how the divergence occurred depend on additional assumptions about time and mechanism. Strong science requires being clear about which parts of an explanation are directly supported by data and which require additional assumptions."
 
-**Rubric:**
-- Data accuracy: 60%
-- Reasoning clarity and evidence-qualifying language: 40%
+**Suggested feedback focus:**
+- Data accuracy: Are the chart entries and paragraph details specific and scientifically accurate?
+- Reasoning clarity: Does the writing distinguish observation from interpretation and qualify claims carefully?
 
 ---
 
@@ -228,10 +230,8 @@ Why weak: it names no specific evidence, jumps from difference to proof, and doe
 
 | Component | Full Credit | Partial Credit | No Credit |
 |-----------|------------|----------------|-----------|
-| Bell Work (5 pts) | Measurability + claim connection mentioned | One element present | Blank |
+| Bell Work (1 pt) | Measurability + claim connection mentioned | One element present | Blank |
 | Exit ticket (5 pts) | One direct observation + one assumption named specifically | One correct | Blank |
-| Chart (10 pts) | 5+ entries per column, accurate | 3–4 per column | Incomplete |
-| Paragraph (5 pts) | Evidence-qualified language, both interpretations possible | One-sided, no qualification | Off-topic |
 
 ---
 

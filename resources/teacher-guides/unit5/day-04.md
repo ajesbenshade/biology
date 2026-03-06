@@ -62,7 +62,7 @@ These verses set the standard for today: careful listening to what the data actu
 
 **Model answer:** "A half-life is the amount of time it takes for exactly half of a radioactive parent isotope to decay into the stable daughter isotope. After one half-life, 50% remains. After two half-lives, 25% remains. After three, 12.5%, and so on."
 
-**Grading:** 5 pts. Full credit for: time-based definition + the 50%-per-period concept. Deduct 2 pts if student confuses half-life with full decay time.
+**Grading:** 1 pt. Award the point for a time-based definition that includes the 50%-per-period concept.
 
 ---
 
@@ -147,12 +147,14 @@ Students use their annotated graphs to answer questions.
 
 ---
 
-## Homework Grading Key
+## Homework
 
-| Assignment | Points | Key Criteria |
-|-----------|--------|-------------|
-| Radiometric graph packet (annotated) | 5 pts | Both graphs annotated: half-life markers, bomb-pulse peak labeled, detection limit noted |
-| Half-life calculation problems | 5 pts | Four problems, correct setup shown, units included |
+Homework is practice only. Check for completion and give feedback, but do not record points.
+
+| Assignment | Suggested completion look-fors |
+|-----------|-------------------------------|
+| Radiometric graph packet (annotated) | Both graphs annotated: half-life markers, bomb-pulse peak labeled, detection limit noted |
+| Half-life calculation problems | Four problems, correct setup shown, units included |
 
 **Half-life problem answer key:**
 
@@ -193,10 +195,8 @@ Students use their annotated graphs to answer questions.
 
 | Component | Full Credit | Partial Credit | No Credit |
 |-----------|------------|----------------|-----------|
-| Bell Work (5 pts) | Time-based definition + 50%/period concept | One element only | Blank |
+| Bell Work (1 pt) | Time-based definition + 50%/period concept | One element only | Blank |
 | Exit ticket (5 pts) | One specific strength + one specific limitation, explained | One element present | Blank |
-| Graph packet (5 pts) | Both graphs annotated; all key features labeled | One graph complete | Unannotated |
-| Problems (5 pts) | All 4 correct with work shown | 2–3 correct with work | No work shown |
 
 ---
 

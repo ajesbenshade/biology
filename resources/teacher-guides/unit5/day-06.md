@@ -75,7 +75,7 @@ Job 12:7 is an invitation to serious study of living things as a way of understa
 | Good | "It is testable and can be proven wrong (falsifiable). It makes specific predictions." |
 | Strong | "A strong hypothesis is testable with a controlled experiment, falsifiable (specifies what would disprove it), makes specific measurable predictions, and is grounded in prior evidence. A correlation study begins testing it; a controlled experiment with isolated variables provides stronger evidence." |
 
-**Grading:** 5 pts. Full credit for: testable + falsifiable + evidence-grounded. Partial credit (3 pts) for testable only.
+**Grading:** 1 pt. Award the point for identifying that a strong hypothesis is testable, falsifiable, and grounded in evidence.
 
 ---
 
@@ -180,16 +180,18 @@ Discussion goal: Students recognize that convergence is genuinely surprising und
 
 ---
 
-## Homework Grading Key
+## Homework
 
-| Assignment | Points | Key Criteria |
-|-----------|--------|-------------|
-| One-page comparison (evidence tables for both cases) | 10 pts | Both hypothesis matrices complete; quality scores present with justifications; comparison paragraph identifies which evidence type was stronger and why |
-| 5 short responses on hypothesis quality | 10 pts | Each response connects evidence quality to specific methodological feature (control, correlation, direct vs. indirect measurement) |
+Homework is practice only. Check for completion and give feedback, but do not record points.
 
-**Rubric for comparison:**
-- Data use (60%): Specific data points from case summaries cited; quality scores justified with methodological reasoning.
-- Comparison depth (40%): Explicitly identifies what distinguishes high-quality evidence from low-quality; names at least one additional test that would strengthen a weaker hypothesis.
+| Assignment | Suggested completion look-fors |
+|-----------|-------------------------------|
+| One-page comparison (evidence tables for both cases) | Both hypothesis matrices complete; quality scores present with justifications; comparison paragraph identifies which evidence type was stronger and why |
+| 5 short responses on hypothesis quality | Each response connects evidence quality to specific methodological feature (control, correlation, direct vs. indirect measurement) |
+
+**Suggested feedback focus:**
+- Data use: Specific data points from case summaries cited; quality scores justified with methodological reasoning.
+- Comparison depth: Explicitly identifies what distinguishes high-quality evidence from low-quality; names at least one additional test that would strengthen a weaker hypothesis.
 
 **Strong comparison paragraph example:**
 > "Both case studies illustrated the difference between correlational and experimental evidence. In the zebra case, the Larison geographic correlation had a quality of 3 because confounding variables (latitude, temperature) also correlate with both stripe density and fly pressure. The Caro experiment scored 5 because it isolated stripes as the single variable. In the skink case, the in vitro parasite assay scored 4 because it directly tested a proposed mechanism — but needs replication, and an in vivo test would be needed to confirm the effect in living animals. In both cases, the strongest evidence was the result that most directly tested the specific claim with isolated variables and direct measurement."
@@ -218,10 +220,8 @@ Discussion goal: Students recognize that convergence is genuinely surprising und
 
 | Component | Full Credit | Partial Credit | No Credit |
 |-----------|------------|----------------|-----------|
-| Bell Work (5 pts) | Testable + falsifiable + evidence-grounded | One or two elements | Blank |
+| Bell Work (1 pt) | Testable + falsifiable + evidence-grounded | One or two elements | Blank |
 | Exit ticket (5 pts) | Evidence named + score justified + additional test specified | Score without justification | Blank |
-| Comparison (10 pts) | Both matrices complete; quality scores justified; comparison explicit | One matrix complete | Incomplete |
-| Short responses (10 pts) | Each connects quality to specific methodological feature | Most correct | Off-topic |
 
 ---
 

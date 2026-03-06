@@ -119,7 +119,7 @@ Root
 
 **Prompt:** Show one evidence card. Ask students to identify which of the five categories it belongs to and explain why.
 
-**Grading:** 5 pts for correct category + one-sentence justification. Award full credit for any well-reasoned categorization with justification.
+**Grading:** 1 pt for correct category + one-sentence justification. Award the point for any well-reasoned categorization with justification.
 
 ---
 
@@ -175,12 +175,14 @@ Whole-class debrief: Which conclusions are most direct? Which are most assumptiv
 
 ---
 
-## Homework Grading Key
+## Homework
 
-| Assignment | Points | Key Criteria |
-|-----------|--------|-------------|
-| Micro vs. macro comparison chart | 5 pts | Definitions accurate; at least 2 examples per column; examples correctly categorized |
-| Cladogram interpretation questions 1–6 | 5 pts | Questions requiring (O)/(I) distinction answered with correct labeling |
+Homework is practice only. Check for completion and give feedback, but do not record points.
+
+| Assignment | Suggested completion look-fors |
+|-----------|-------------------------------|
+| Micro vs. macro comparison chart | Definitions accurate; at least 2 examples per column; examples correctly categorized |
+| Cladogram interpretation questions 1–6 | Questions requiring (O)/(I) distinction answered with correct labeling |
 
 **Strong comparison chart example:**
 
@@ -215,10 +217,8 @@ Whole-class debrief: Which conclusions are most direct? Which are most assumptiv
 
 | Component | Full Credit | Partial Credit | No Credit |
 |-----------|------------|----------------|-----------|
-| Bell Work (5 pts) | Category correct + justification | Category correct, no justification | Blank |
+| Bell Work (1 pt) | Category correct + justification | Category correct, no justification | Blank |
 | Exit ticket (5 pts) | One (O) + one (I), each specific | One correct | Blank |
-| Comparison chart (5 pts) | Definitions accurate; 2+ examples each | One element missing | Off-topic |
-| Cladogram questions (5 pts) | (O)/(I) distinction applied consistently | Most correct | Missing |
 
 ---
 

@@ -69,7 +69,7 @@ Say:
 | Good | "By choosing to breed wolves with calmer, more submissive behavior, humans selected for docility — and over generations, those traits became dominant, producing domesticated dogs." |
 | Strong | "Artificial selection: humans chose which individuals to breed based on desired traits (temperament, size, coat). Only selected individuals reproduced, so their alleles increased in frequency. The analogy to natural selection is: the environment acts as the selecting agent instead of humans — but the mechanism (differential reproduction based on heritable variation) is the same." |
 
-**Grading:** 5 pts. Full credit for: connection to selection concept + at least one specific trait. Deduct 2 pts for "they changed" without a selection mechanism.
+**Grading:** 1 pt. Award the point for connecting artificial selection to selection plus at least one specific trait.
 
 ---
 
@@ -172,12 +172,14 @@ Students write definitions + examples for all six terms on index cards. Post com
 
 ---
 
-## Homework Grading Key
+## Homework
 
-| Assignment | Points | Key Criteria |
-|-----------|--------|-------------|
-| 15.1 guided notes + vocabulary review | 10 pts | All six terms defined accurately; guided note blanks complete; at least one example per term |
-| Reflection: one strength and one limitation of the analogy evidence | 5 pts | Strength: shows selection can change populations rapidly; Limitation: directed analogy ≠ demonstration that undirected process produces same results; names the specific gap |
+Homework is practice only. Check for completion and give feedback, but do not record points.
+
+| Assignment | Suggested completion look-fors |
+|-----------|-------------------------------|
+| 15.1 guided notes + vocabulary review | All six terms defined accurately; guided note blanks complete; at least one example per term |
+| Reflection: one strength and one limitation of the analogy evidence | Strength: shows selection can change populations rapidly; Limitation: directed analogy ≠ demonstration that undirected process produces same results; names the specific gap |
 
 **Strong reflection example:**
 > "Strength: The artificial selection analogy is genuinely powerful evidence that selection can produce dramatic variation from a common ancestral population in a short time — dog breeds from wolves, corn from teosinte, pigeons with elaborate traits. This shows the mechanism of selection is real and effective when applied with intensity. Limitation: The analogy involves a *directing agent* — a human making intentional choices. Natural selection has no director. Whether an undirected process achieves the same outcomes over longer timescales is an extrapolation, not a demonstration. The analogy shows it's *plausible*; it does not show it *happened*. That distinction matters for evaluating the strength of the evidence."
@@ -207,10 +209,8 @@ Students write definitions + examples for all six terms on index cards. Post com
 
 | Component | Full Credit | Partial Credit | No Credit |
 |-----------|------------|----------------|-----------|
-| Bell Work (5 pts) | Selection mechanism + specific trait | One element only | Blank |
+| Bell Work (1 pt) | Selection mechanism + specific trait | One element only | Blank |
 | Exit ticket (5 pts) | Evidence named + assumption named + distinction clear | One element present | Blank |
-| Guided notes (10 pts) | All terms defined; all blanks complete; examples present | 6–8 terms/blanks | Incomplete |
-| Reflection (5 pts) | Strength + limitation; gap between analogy and demonstration named | One element | Off-topic |
 
 ---
 

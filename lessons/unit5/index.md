@@ -29,7 +29,7 @@ In this unit we rigorously examine the evidence and mechanisms of evolutionary c
 ## Assessment Weighting
 
 - **60% Summative** (chapter tests, unit exam, Tying-It-All-Together project)
-- **40% Formative** (daily homework, bellwork, minilabs, discussions, reflections)
+- **40% Formative** (1-point bellwork checks, in-class practice, minilabs, discussions, reflections)
 
 ## Daily Lesson Structure
 

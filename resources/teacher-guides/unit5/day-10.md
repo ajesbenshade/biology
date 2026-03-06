@@ -92,7 +92,7 @@ Choose your variant based on materials and what selection type you want to demon
 - b alleles: 5 × 2 (from bb) + 15 × 1 (from Bb) = 10 + 15 = 25.
 - Frequency of b = 25/100 = **0.25 (25%).**
 
-**Grading:** 5 pts. Full credit for proportion-based definition (not just "how common"). Calculation: +2 bonus points if offered.
+**Grading:** 1 pt. Award the point for a proportion-based definition; treat the optional calculation as practice feedback, not extra credit.
 
 ---
 
@@ -199,21 +199,23 @@ Say:
 
 ---
 
-## Homework Grading Key
+## Homework
 
-| Assignment | Points | Key Criteria |
-|-----------|--------|-------------|
-| Minilab graph + analysis questions | 10 pts | Graph accurate (labeled axes, correct trends, legend); all 4 analysis questions answered; question 4 names at least 2 simulation limitations |
-| 15.2 review + reflection on model limits | 5 pts | Reflection identifies at least one thing the simulation cannot model and explains why that limits what we can conclude from simulation results alone |
+Homework is practice only. Check for completion and give feedback, but do not record points.
+
+| Assignment | Suggested completion look-fors |
+|-----------|-------------------------------|
+| Minilab graph + analysis questions | Graph accurate (labeled axes, correct trends, legend); all 4 analysis questions answered; question 4 names at least 2 simulation limitations |
+| 15.2 review + reflection on model limits | Reflection identifies at least one thing the simulation cannot model and explains why that limits what we can conclude from simulation results alone |
 
 **Strong reflection example:**
 > "The Hawks and Mice simulation clearly shows directional selection — the camouflaged color increases frequency under predation pressure. One significant limitation is that the model has no mutation. In real populations, new alleles can arise and add to the variation available for selection to act on. The simulation only shows selection acting on pre-existing variation — it cannot model how new variation arises. This matters because one of the open questions in evolutionary biology is whether natural selection acting on new mutations (plus other mechanisms) can produce genuinely novel structures — not just shift frequencies of existing alleles. The simulation does not address that question, which is why conclusions from it should be limited to 'selection changes allele frequencies' rather than 'selection can produce unlimited morphological change.'"
 
-**Minilab graph rubric:**
-- Both axes labeled with units (10%): generation number, color frequency or count.
-- Correct trends shown (40%): Color A increasing, Color B decreasing, Color C stable or slightly decreasing.
-- Legend present (10%): three lines distinguished.
-- Analysis questions answered fully (40%): selection type named; one real-world example; two limitations.
+**Suggested feedback focus:**
+- Both axes labeled with units: generation number, color frequency or count.
+- Correct trends shown: Color A increasing, Color B decreasing, Color C stable or slightly decreasing.
+- Legend present: three lines distinguished.
+- Analysis questions answered fully: selection type named; one real-world example; two limitations.
 
 ---
 
@@ -240,11 +242,8 @@ Say:
 
 | Component | Full Credit | Partial Credit | No Credit |
 |-----------|------------|----------------|-----------|
-| Bell Work (5 pts) | Proportion-based definition; correct calculation | Definition only without calculation | Blank |
+| Bell Work (1 pt) | Proportion-based definition; correct calculation | Definition only without calculation | Blank |
 | Exit ticket (5 pts) | Type + graph shape + real-world example | Two of three | Blank |
-| Minilab graph (5 pts) | Axes labeled; trends correct; legend | One element missing | Incomplete |
-| Analysis questions (5 pts) | All 4 answered; 2+ limitations named | 2–3 answered | Off-topic |
-| Reflection (5 pts) | Limitation + implication for what we can conclude | Limitation named without implication | Off-topic |
 
 ---
 

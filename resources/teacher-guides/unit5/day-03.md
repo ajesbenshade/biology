@@ -59,7 +59,7 @@ Fossils are one of the most direct physical records of past life. They deserve c
 - Anoxic (low-oxygen) environment — slows bacterial decomposition.
 - Fine-grained sediment — preserves detail better than coarse sediment.
 
-**Grading:** 5 pts for any one condition with a brief explanation of why it helps. Deduct 2 pts if condition is named without explanation.
+**Grading:** 1 pt for any one condition with a brief explanation of why it helps.
 
 ---
 
@@ -130,14 +130,16 @@ Say:
 
 ---
 
-## Homework Grading Key
+## Homework
 
-| Assignment | Points | Key Criteria |
-|-----------|--------|-------------|
-| Fossilization flowchart | 4 pts | Correct sequence order; all major steps present |
-| Index fossil worksheet | 4 pts | Correlations drawn accurately; confidence ratings present |
-| Short response: why relative, not absolute? | 2 pts | Explains that index fossils establish sequence (earlier/later) not calendar date |
-| Comparison paragraph: gradual vs. catastrophic burial | 5 pts (bonus or required, your call) | Both models described; evidence cited for each; conclusion appropriately qualified |
+Homework is practice only. Check for completion and give feedback, but do not record points.
+
+| Assignment | Suggested completion look-fors |
+|-----------|-------------------------------|
+| Fossilization flowchart | Correct sequence order; all major steps present |
+| Index fossil worksheet | Correlations drawn accurately; confidence ratings present |
+| Short response: why relative, not absolute? | Explains that index fossils establish sequence (earlier/later) not calendar date |
+| Comparison paragraph: gradual vs. catastrophic burial | Both models described; evidence cited for each; conclusion appropriately qualified |
 
 **Strong short response example:**
 > "Index fossils tell us which layers are relatively older or younger—if Species X appears below Species Y in every column we examine, we conclude the Species X layers are older. But this comparison only tells us sequence, not how many years passed between layers. For an absolute date (e.g., '300 million years old'), additional methods like radiometric dating are needed, which carry their own assumptions."
@@ -169,11 +171,8 @@ Say:
 
 | Component | Full Credit | Partial Credit | No Credit |
 |-----------|------------|----------------|-----------|
-| Bell Work (5 pts) | Condition + mechanism explanation | Condition only | Blank |
+| Bell Work (1 pt) | Condition + mechanism explanation | Condition only | Blank |
 | Exit ticket (5 pts) | Condition + mechanistic why | Condition only | Blank |
-| Flowchart (4 pts) | Correct order, all steps | 1–2 steps out of order | Missing |
-| Worksheet (4 pts) | Correlations correct; confidence rated | Correlations correct; no ratings | Incomplete |
-| Short response (2 pts) | Sequence vs. calendar distinction clear | Partial explanation | Off-topic |
 
 ---
 

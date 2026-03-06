@@ -20,7 +20,9 @@ Welcome to Biology with Aaron Esbenshade! This course covers Units 4 (Genetics) 
 
 ## Grading Policy
 - Summative (tests, quizzes, problem sets, data analysis): 60%
-- Formative (homework, bellwork, class work, labs, claim-evaluation, Scripture-data synthesis): 40%
+- Formative (bellwork checks, class work, labs, claim-evaluation, Scripture-data synthesis, and other in-class practice): 40%
+
+Practice assignments may still be assigned regularly for reinforcement and readiness even when they are not recorded for points.
 
 ## Calendar
 - **Week 1-4:** Unit 4 (Genetics)

@@ -77,7 +77,7 @@ This is an open prediction — accept any scientifically plausible idea. The goa
 - Thermoregulation
 - Response to specific diet component
 
-**Grading:** 5 pts for any prediction with one sentence of reasoning. Full credit does not require the "correct" hypothesis — the habit of predicting before reading is the goal.
+**Grading:** 1 pt for any prediction with one sentence of reasoning. Full credit does not require the "correct" hypothesis — the habit of predicting before reading is the goal.
 
 ---
 
@@ -182,12 +182,14 @@ Students write a short response (one paragraph): one claim that is well-supporte
 
 ---
 
-## Homework Grading Key
+## Homework
 
-| Assignment | Points | Key Criteria |
-|-----------|--------|-------------|
-| Guided questions on Austin's case study | 10 pts | Answers accurately cite data from case handout; observation/inference distinction maintained; at least one "still needed" test named |
-| Paragraph on supported vs. unsupported claims | 5 pts | One specific supported claim with 2+ evidence types; one specific unsupported/open claim with explanation of type of evidence missing |
+Homework is practice only. Check for completion and give feedback, but do not record points.
+
+| Assignment | Suggested completion look-fors |
+|-----------|-------------------------------|
+| Guided questions on Austin's case study | Answers accurately cite data from case handout; observation/inference distinction maintained; at least one "still needed" test named |
+| Paragraph on supported vs. unsupported claims | One specific supported claim with 2+ evidence types; one specific unsupported/open claim with explanation of type of evidence missing |
 
 **Guided question answer expectations:**
 
@@ -197,9 +199,9 @@ Students write a short response (one paragraph): one claim that is well-supporte
 *Q: What is the specific evidence quality weakness in the current case for malaria protection?*
 > "The mechanistic evidence (in vitro inhibition) is laboratory-based, not field-based. In vitro conditions differ from in vivo — biliverdin concentration in the blood may behave differently against parasites in a living organism. Additionally, geographic overlap is correlation — other variables (diet, habitat type, co-occurring species) also correlate with both green-bloodedness and malaria prevalence. Without a controlled field study comparing infection rates in green vs. non-green skinks in the same environment, the causal claim (green blood protects against malaria) remains an inference."
 
-**Rubric for paragraph:**
-- Evidence specificity (70%): Names specific evidence types (phylogenetic analysis, in vitro data, geographic correlation) rather than vague "Austin found things."
-- Intellectual caution (30%): Avoids "proves"; uses "supports," "is consistent with," "suggests"; names open question explicitly.
+**Suggested feedback focus:**
+- Evidence specificity: Names specific evidence types (phylogenetic analysis, in vitro data, geographic correlation) rather than vague "Austin found things."
+- Intellectual caution: Avoids "proves"; uses "supports," "is consistent with," "suggests"; names open question explicitly.
 
 ---
 
@@ -226,10 +228,8 @@ Students write a short response (one paragraph): one claim that is well-supporte
 
 | Component | Full Credit | Partial Credit | No Credit |
 |-----------|------------|----------------|-----------|
-| Bell Work (5 pts) | Any prediction with one-sentence reasoning | Prediction without reasoning | Blank |
+| Bell Work (1 pt) | Any prediction with one-sentence reasoning | Prediction without reasoning | Blank |
 | Exit ticket (5 pts) | Supported claim + specific evidence type + open question | One element present | Blank |
-| Guided questions (10 pts) | All answers cite specific evidence; O/I distinction maintained; next test named | Most correct; some vagueness | Off-topic |
-| Synthesis paragraph (5 pts) | 2+ evidence types cited; open question with type of evidence needed | One evidence type; vague open question | Off-topic |
 
 ---
 

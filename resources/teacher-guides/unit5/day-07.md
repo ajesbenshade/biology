@@ -73,7 +73,7 @@ Connect to 1 Corinthians: good science communication is clear, not confused. Tod
 *Option C:* "What is one limitation of index fossil dating?"
 - Index fossils give relative age (sequence) only, not absolute dates (calendar years). For absolute age, radiometric dating methods are required. Additionally, index fossils depend on knowing the time range of the index species — which itself is inferred from stratigraphy.
 
-**Grading:** 5 pts. Full credit for accurate answer. Use student responses to identify which station(s) most need the error analysis focus.
+**Grading:** 1 pt. Award the point for an accurate answer. Use student responses to identify which station(s) most need the error analysis focus.
 
 ---
 
@@ -216,16 +216,18 @@ Distribute 12-item quick-check. Students work individually. You can collect for 
 
 ---
 
-## Homework Grading Key
+## Homework
 
-| Assignment | Points | Key Criteria |
-|-----------|--------|-------------|
-| Review packet (completed corrections from all 5 stations) | 10 pts | All 5 station flawed answers corrected; corrections include both the scientific inaccuracy and the observation/inference distinction |
-| Study guide preparation (completion) | Completion credit | All sections filled in; gaps identified and flagged for review |
+Homework is practice only. Check for completion and give feedback, but do not record points.
 
-**Review packet grading rubric:**
-- Scientific accuracy of correction (60%): The corrected version is factually correct and avoids overclaiming.
-- Evidence quality naming (40%): The correction explicitly distinguishes what is directly measured from what is inferred.
+| Assignment | Suggested completion look-fors |
+|-----------|-------------------------------|
+| Review packet (completed corrections from all 5 stations) | All 5 station flawed answers corrected; corrections include both the scientific inaccuracy and the observation/inference distinction |
+| Study guide preparation | All sections filled in; gaps identified and flagged for review |
+
+**Suggested feedback focus:**
+- Scientific accuracy of correction: The corrected version is factually correct and avoids overclaiming.
+- Evidence quality naming: The correction explicitly distinguishes what is directly measured from what is inferred.
 
 ---
 
@@ -252,9 +254,8 @@ Distribute 12-item quick-check. Students work individually. You can collect for 
 
 | Component | Full Credit | Partial Credit | No Credit |
 |-----------|------------|----------------|-----------|
-| Bell Work (5 pts) | Accurate answer with specific detail | General correct direction | Blank |
+| Bell Work (1 pt) | Accurate answer with specific detail | General correct direction | Blank |
 | Exit ticket (5 pts) | Original imprecision + accurate correction + explanation | Two of three elements | Blank |
-| Review packet (10 pts) | All 5 stations corrected; observation/inference distinction in each | 3–4 stations corrected | Incomplete |
 | Quiz (formative) | Used for grouping — not penalized | — | — |
 
 ---

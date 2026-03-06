@@ -57,6 +57,7 @@ God’s creation is orderly and knowable, so scientific investigation is worthwh
 
 ## Homework / Assignment
 
+- Homework is assigned for practice and reinforcement and is not entered as a graded assignment.
 - Read Chapter 14.1 and complete a two-column chart: “Observed Data” vs. “Interpretive Claim.”
 - Write one paragraph explaining the sloth case in your own words using evidence-based reasoning.
 - Add brief notes summarizing fossil, anatomical, embryological, molecular, and biogeographical evidence types.

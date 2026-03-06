@@ -72,7 +72,7 @@ Psalm 104:24 frames the bedbug alongside every other creature as evidence of God
 
 **Important biology to watch for:** Students often say "the bugs adapted" as if individual bugs changed during their lifetime. Correct this immediately — evolution acts on populations over generations, not on individuals during their lifetimes. The bug either has the resistance allele or doesn't. Selection determines which bugs reproduce.
 
-**Grading:** 5 pts. Full credit for: population-level explanation (not individual adaptation) + allele frequency shift + differential survival or reproduction. Deduct 2 pts for "bugs became resistant" (implies individual change).
+**Grading:** 1 pt. Award the point for a population-level explanation that includes allele frequency shift and differential survival or reproduction.
 
 ---
 
@@ -189,21 +189,23 @@ Close:
 
 ---
 
-## Homework Grading Key
+## Homework
 
-| Assignment | Points | Key Criteria |
-|-----------|--------|-------------|
-| Chapter 15 opening questions (textbook) | 10 pts | Accurate biological mechanisms; correct use of allele frequency terminology; no individual-adaptation errors |
-| Reflection short responses (observation vs. assumption) | 5 pts | Each response correctly identifies the observed component and the assumed/inferred component of the claim; no conflation |
+Homework is practice only. Check for completion and give feedback, but do not record points.
+
+| Assignment | Suggested completion look-fors |
+|-----------|-------------------------------|
+| Chapter 15 opening questions (textbook) | Accurate biological mechanisms; correct use of allele frequency terminology; no individual-adaptation errors |
+| Reflection short responses (observation vs. assumption) | Each response correctly identifies the observed component and the assumed/inferred component of the claim; no conflation |
 
 **Strong reflection response example:**
 
 *Question:* "Is pesticide resistance evidence that populations evolve?"
 > "Yes — with precision. 'Evolve' means 'change in allele frequencies over time.' In that precise sense, pesticide resistance is direct evidence: the kdr allele frequency measurably increased over documented generations under DDT selection. This is observed. What requires additional assumption is the further claim that the same mechanism, given enough time, produces radically different body plans. The bedbug case supports the first claim directly; the second requires additional evidence about mechanisms that produce new genetic information and new developmental pathways — evidence not present in this case."
 
-**Reflection grading rubric:**
-- Observation specificity (50%): Names specific measured data (allele frequency, kdr mutation, sequencing evidence)
-- Assumption identification (50%): Names what is assumed beyond the observation and explains why it requires additional evidence
+**Suggested feedback focus:**
+- Observation specificity: Names specific measured data (allele frequency, kdr mutation, sequencing evidence)
+- Assumption identification: Names what is assumed beyond the observation and explains why it requires additional evidence
 
 ---
 
@@ -230,10 +232,8 @@ Close:
 
 | Component | Full Credit | Partial Credit | No Credit |
 |-----------|------------|----------------|-----------|
-| Bell Work (5 pts) | Population-level explanation; allele frequency; differential survival | Individual-level explanation ("bugs adapted") + partial accuracy | Blank |
+| Bell Work (1 pt) | Population-level explanation; allele frequency; differential survival | Individual-level explanation ("bugs adapted") + partial accuracy | Blank |
 | Exit ticket (5 pts) | One specific observation (kdr allele) + one specific extrapolation with explanation | One element present | Blank |
-| Opening questions (10 pts) | Accurate mechanisms; allele terminology; no individual-adaptation errors | Most correct; minor terminology errors | Off-topic |
-| Reflection responses (5 pts) | Observed + assumed clearly separated; specific data named | One component present | Off-topic |
 
 ---
 

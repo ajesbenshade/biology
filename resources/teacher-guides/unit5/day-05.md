@@ -89,7 +89,7 @@ These patterns are genuinely striking and worth studying seriously. They do reve
 | Good | "Structures that share the same underlying framework even if they serve different functions — e.g., the pentadactyl limb in vertebrates." |
 | Strong | "Homologous structures share the same skeletal or biochemical plan — wing of a bat, arm of a human, flipper of a whale — all built on the same humerus-radius-ulna bones. The evidence is the observable structural similarity; whether that similarity reflects common ancestry or common design is an interpretive step." |
 
-**Grading:** 5 pts. Full credit for definition + one accurate example. Deduct 2 pts for examples that are actually analogous (e.g., bird wing and butterfly wing — these share function, not structure).
+**Grading:** 1 pt. Award the point for a definition plus one accurate example.
 
 ---
 
@@ -210,13 +210,15 @@ Say:
 
 ---
 
-## Homework Grading Key
+## Homework
 
-| Assignment | Points | Key Criteria |
-|-----------|--------|-------------|
-| Structure practice worksheet (12 items) | 10 pts | Accurate H/A/V classification + one justification sentence per item |
-| CER paragraph (embryology or molecular) | 5 pts | Clear claim; specifically cited evidence from today's data; logical reasoning step that names an assumption |
-| Vestigial structures short response | 5 pts | Evidence-based interpretation; does not claim "useless" without data; mentions known function where applicable |
+Homework is practice only. Check for completion and give feedback, but do not record points.
+
+| Assignment | Suggested completion look-fors |
+|-----------|-------------------------------|
+| Structure practice worksheet (12 items) | Accurate H/A/V classification + one justification sentence per item |
+| CER paragraph (embryology or molecular) | Clear claim; specifically cited evidence from today's data; logical reasoning step that names an assumption |
+| Vestigial structures short response | Evidence-based interpretation; does not claim "useless" without data; mentions known function where applicable |
 
 **Strong CER paragraph example (molecular):**
 > "Claim: High molecular similarity between human and chimpanzee cytochrome c proteins is consistent with close evolutionary relationship. Evidence: Sequencing of the cytochrome c protein shows 99% amino acid identity between humans and chimpanzees, compared to 88% with dogs and 73% with chickens. Reasoning: If organisms share a recent common ancestor, proteins essential to basic cellular function would be expected to show high sequence conservation because mutations in functionally critical proteins are typically lethal. However, this reasoning requires the assumption that sequence similarity primarily reflects ancestry rather than functional constraint — and a common-design interpretation predicts equally high conservation if the same Creator used the same functional protein in closely related organisms. The data alone does not distinguish these two explanations; additional evidence about the mechanism of similarity would be required."
@@ -224,10 +226,10 @@ Say:
 **Strong vestigial response example:**
 > "The human appendix is often cited as a vestigial organ because it appears reduced in size and cecal function compared to the large cecum seen in herbivores like rabbits. However, research has identified a role for the human appendix in maintaining gut flora populations — acting as a reservoir that can repopulate the gut after illness. Calling it 'useless' overstates what the data shows. A more accurate claim is: 'The appendix appears to have reduced cecal function compared to related structures in herbivores, though it retains an immune-related role.' This is an important distinction because scientific integrity requires that our claims match our evidence."
 
-**Vestigial rubric:**
-- Evidence citation (50%): Specific documented function named (immune role, muscle attachment, etc.)
-- Reasoning (30%): Clear connection between evidence and conclusion
-- Intellectual precision (20%): Avoids "useless" overclaim; states what data shows and what it doesn't
+**Suggested feedback focus:**
+- Evidence citation: Specific documented function named (immune role, muscle attachment, etc.)
+- Reasoning: Clear connection between evidence and conclusion
+- Intellectual precision: Avoids "useless" overclaim; states what data shows and what it doesn't
 
 ---
 
@@ -254,11 +256,8 @@ Say:
 
 | Component | Full Credit | Partial Credit | No Credit |
 |-----------|------------|----------------|-----------|
-| Bell Work (5 pts) | Accurate definition + correct example | Definition or example only | Blank |
+| Bell Work (1 pt) | Accurate definition + correct example | Definition or example only | Blank |
 | Exit ticket (5 pts) | Observation + inference + unresolved question, each specific | Two of three correct | Blank |
-| Structure worksheet (10 pts) | All 12 classified correctly with justification | 8–11 correct | Fewer than 8 |
-| CER paragraph (5 pts) | Claim, evidence, reasoning all present; assumption named | Missing one element | Off-topic |
-| Vestigial response (5 pts) | Function cited; no "useless" overclaim; evidence → conclusion | Function mentioned but not cited | Off-topic |
 
 ---
 

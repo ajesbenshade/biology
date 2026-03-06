@@ -76,7 +76,7 @@ Say:
 | Good | "Gene flow — when individuals move between populations and bring new alleles with them." |
 | Strong | "Genetic drift — random changes in allele frequency that are most pronounced in small populations. Unlike natural selection, drift is not tied to fitness — an allele can become common or disappear purely by chance." |
 
-**Grading:** 5 pts. Full credit for naming a mechanism with a brief accurate description. Deduct 2 pts for naming "mutation" alone (mutation introduces variation but is not itself a mechanism of frequency change in the way the others are — though it can be accepted if student explains it adds new alleles).
+**Grading:** 1 pt. Award the point for naming a mechanism with a brief accurate description.
 
 ---
 
@@ -176,12 +176,14 @@ Students write one CER applying one mechanism from today to an original claim.
 
 ---
 
-## Homework Grading Key
+## Homework
 
-| Assignment | Points | Key Criteria |
-|-----------|--------|-------------|
-| 15.3 practice set | 10 pts | Mechanism classification accurate; bottleneck vs. founder distinguished; sexual selection intrasexual vs. intersexual distinguished; gene flow direction effects explained |
-| Reflection comparing drift and natural selection | 5 pts | Names the key difference (random vs. directed by fitness); names population size as a factor in drift strength; does not conflate the two |
+Homework is practice only. Check for completion and give feedback, but do not record points.
+
+| Assignment | Suggested completion look-fors |
+|-----------|-------------------------------|
+| 15.3 practice set | Mechanism classification accurate; bottleneck vs. founder distinguished; sexual selection intrasexual vs. intersexual distinguished; gene flow direction effects explained |
+| Reflection comparing drift and natural selection | Names the key difference (random vs. directed by fitness); names population size as a factor in drift strength; does not conflate the two |
 
 **Strong reflection example:**
 > "Genetic drift and natural selection are both mechanisms of allele frequency change, but they differ fundamentally in cause and direction. Natural selection is directed — the environment consistently favors certain heritable traits, so allele frequencies change in a predictable direction tied to fitness. Genetic drift is random — allele frequencies change by chance, with no connection to whether the allele is adaptive. In a large population, drift's effects are small because random deviations average out. In a small population, drift can be powerful — a single random event can fix or eliminate an allele entirely. This is why the two mechanisms can conflict: an adaptive allele can be lost by drift in a small population, and a neutral or even harmful allele can become universal by drift in a bottleneck. Selection and drift are not alternatives — they operate simultaneously, with drift dominating in small populations and selection dominating in large ones."
@@ -211,11 +213,8 @@ Students write one CER applying one mechanism from today to an original claim.
 
 | Component | Full Credit | Partial Credit | No Credit |
 |-----------|------------|----------------|-----------|
-| Bell Work (5 pts) | Mechanism named + accurate description | Name only | Blank |
+| Bell Work (1 pt) | Mechanism named + accurate description | Name only | Blank |
 | Exit ticket (5 pts) | Both as drift + shared consequence + distinguishing cause | Two of three | Blank |
-| Scenario classifications (10 pts) | All 8 correct with justification | 5–7 correct | Incomplete |
-| CER (5 pts) | Claim + specific evidence + reasoning with mechanism named | Missing one element | Off-topic |
-| Reflection (5 pts) | Directed vs. random + population size named + no conflation | One element | Off-topic |
 
 ---
 
