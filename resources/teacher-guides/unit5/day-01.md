@@ -32,7 +32,22 @@ This is the tone to hold throughout Unit 5: rigorous, curious, academically care
 - Use the pygmy three-toed sloth case to practice separating data (observations) from interpretations (inferences).
 - Build CER (Claim-Evidence-Reasoning) skill using real biological data.
 
-**Background for you:** The pygmy three-toed sloth (*Bradypus pygmaeus*) lives on Escudo de Veraguas, a small island off Panama. It is smaller than mainland relatives, has a slower metabolism, and shows some genetic differences. Mainstream evolutionary biology interprets this as microevolutionary divergence from mainland ancestors after island isolation. A common-design interpretation would note that the same data—size difference, island isolation, some genetic variation—fits a model in which a created kind diversified within its established genetic range. The key teaching point is that *the same data supports both interpretations*; what differs is the background assumption about origins. Do not present this as "evolution is wrong"—present it as "let's evaluate what the data actually shows."
+## Background for the Teacher
+
+The pygmy three-toed sloth (*Bradypus pygmaeus*) lives on Escudo de Veraguas, a small island off Panama. It is smaller than mainland relatives, has a slower metabolism, and shows some genetic differences. Mainstream evolutionary biology interprets this as microevolutionary divergence from mainland ancestors after island isolation. A common-design interpretation would note that the same data—size difference, island isolation, and some genetic variation—fits a model in which a created kind diversified within its established genetic range.
+
+The key teaching point is that *the same data may be used in more than one interpretive framework*; what differs is the background assumption about origins and mechanism. Do not present this as “evolution is wrong.” Present it as: “Let’s evaluate what the data actually shows, what it supports strongly, and what still depends on assumptions.”
+
+For classroom use, the most important direct evidence categories are:
+- island-only geographic distribution
+- smaller average body size than mainland comparison populations
+- slower metabolism or activity pattern
+- close genetic similarity to mainland three-toed sloths
+
+The most important interpretation categories are:
+- how long isolation has occurred
+- what mechanism best explains the differences
+- whether similarity is best framed as common ancestry or common design
 
 ---
 
@@ -46,9 +61,17 @@ This is the tone to hold throughout Unit 5: rigorous, curious, academically care
 
 ## Materials & Preparation
 
-- Printed sloth case packet: island map showing Escudo de Veraguas off Panama, pygmy sloth traits (smaller body size, slower metabolism, limited genetic variation from mainland), brief genetic comparison summary. Source from textbook Ch. 14 opener or prepare a one-page summary.
+- Printed sloth case packet: island map showing Escudo de Veraguas off Panama, pygmy sloth traits (smaller body size, slower metabolism, limited genetic variation from mainland), and a short genetic comparison summary.
+- Minimum teacher-ready packet summary if no textbook handout is available:
+	- Pygmy three-toed sloths live only on Escudo de Veraguas.
+	- They are measurably smaller than nearby mainland three-toed sloths.
+	- They show physiological differences such as slower metabolism.
+	- DNA comparisons show close similarity to mainland relatives.
+	- The island is treated in most textbook discussions as geologically recent, but that age estimate comes from geological modeling rather than direct observation.
 - CER template handouts (three columns: Claim | Evidence | Reasoning; leave room for two separate CERs).
 - Bibles or printed Colossians 1:16-17 and Romans 1:20.
+
+**Teacher note:** If you have exact values in your packet or textbook, students should cite them. If you do not have exact numeric values, require students to cite the evidence category precisely (for example, “restricted island range” or “close genetic similarity”), not vaguely.
 
 ---
 
@@ -92,11 +115,11 @@ Distribute or display the sloth case packet. Walk through the key facts:
 Say:
 > "Notice how I labeled these. Some are things someone measured directly—body mass, DNA sequences. Others depend on models—the age estimate of the island uses geological assumptions. Our first job is always to sort: which column does this data belong in?"
 
-### 3. Case Annotation + CER Teams (45 min)
+### 3. Case Annotation + CER Teams (40 min)
 
 **Step 1 (10 min):** Students annotate the case packet, labeling each piece of evidence as "Directly Observed" or "Model-Dependent Inference."
 
-**Step 2 (35 min):** Teams write two CERs from the same evidence set.
+**Step 2 (30 min):** Teams write two CERs from the same evidence set.
 
 **CER 1 — Evolutionary interpretation:**
 - **Claim:** "The pygmy sloth evolved from mainland three-toed sloths after island isolation."
@@ -109,7 +132,7 @@ Say:
 - **Reasoning:** "Genetic similarity is equally consistent with a shared Creator using a common design blueprint. Size variation and metabolic differences are within the range of trait variation observed within populations. Isolation accounts for why the variants are geographically concentrated. No new genetic information requiring a new mechanism is documented; existing variation has been expressed."
 
 Say while circulating:
-> "Make sure your evidence lines are using actual data points from the packet—not just 'the sloth is different.' If your data packet gives a percentage, use it. If it gives a location, name it. Evidence is specific."
+> "Make sure your evidence lines are using actual data points from the packet—not just 'the sloth is different.' If your packet gives a percentage or comparison, use it. If it gives only a category of evidence, cite that category precisely. Evidence is specific."
 
 **Scaffolding for struggling students:**
 - Sentence stem: "My claim is ___. The evidence that supports this is ___. This supports my claim because ___."
@@ -131,11 +154,37 @@ Say:
 
 ---
 
+## Assessment Calibration
+
+Use these examples to help newer teachers distinguish strong and weak Day 01 responses.
+
+**Strong response traits:**
+- names a specific observed data point
+- separates evidence from interpretation clearly
+- avoids “this proves” language when the claim is broader than the evidence
+- uses neutral, evidence-based wording
+
+**Weak response traits:**
+- speaks vaguely (“the sloth is different”)
+- confuses observation with explanation
+- overstates one line of evidence as total proof
+- ignores the role of assumptions in historical reconstruction
+
+**Strong short answer example:**
+> “One directly observed piece of evidence is that the pygmy sloth lives only on Escudo de Veraguas and differs in size from mainland relatives. A broader claim is that these differences must have arisen through a particular long-term evolutionary pathway; that conclusion requires assumptions about timing, mechanism, and how similarity should be interpreted.”
+
+**Weak short answer example:**
+> “The sloth proves evolution because it is different from other sloths.”
+
+Why weak: it names no specific evidence, jumps from difference to proof, and does not distinguish observation from interpretation.
+
+---
+
 ## Exit Ticket Answer Key
 
 **Question:** One piece of strong observed evidence + one assumption-dependent claim from today.
 
-**Model answer:** "Strong evidence: the pygmy sloth is measurably smaller than mainland relatives (directly observed body mass comparison). Assumption-dependent: 'the island is X million years old'—this relies on geological dating models, not direct observation."
+**Model answer:** "Strong evidence: the pygmy sloth is measurably smaller than mainland relatives (directly observed body-mass comparison). Assumption-dependent: a claim about exactly how long the island has been isolated or exactly when divergence occurred—those depend on geological and historical models, not direct observation of the past."
 
 **Grading:** 5 pts. Full credit for one specific data point labeled correctly + one inference/assumption identified. Deduct 2 pts for vague answers.
 

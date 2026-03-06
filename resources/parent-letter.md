@@ -16,5 +16,5 @@ Welcome to Biology with Aaron Esbenshade. This course is designed to provide stu
 Our goal is to inspire students to marvel at God’s intricate design while meeting academic standards. Please feel free to reach out with any questions.
 
 Blessings,
-[Your Name]
-[Your Email Address]
+Aaron Esbenshade
+Aesbenshade@dock.org
