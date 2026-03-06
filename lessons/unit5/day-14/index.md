@@ -7,57 +7,62 @@ permalink: /lessons/unit5/day-14/
 # Day 14: Tying It All Together — Don’t Let the Bedbugs Bite! + Unit Synthesis & Critical Reflection
 
 ## Objectives
-- Complete the Tying It All Together performance task using evidence from Chapter 15.
-- Integrate multiple mechanisms of evolution into a coherent scientific explanation.
-- Reflect critically on interpretation assumptions while maintaining academic rigor.
+- Complete a synthesis task using evidence from the bedbug case and Chapter 15 mechanisms.
+- Integrate claim, evidence, and mechanism into one coherent explanation.
+- Reflect on what the bedbug case strongly supports and what it cannot establish by itself.
+- Prepare for the transition from Chapter 15 mechanism work into Chapter 16 population outcomes and stewardship questions.
 
 ## Key Terms
 - synthesis
 - mechanism integration
 - performance task
-- human impact
+- evidence-based explanation
 - critical reflection
 
 ## Textbook Content
-- Tying It All Together revisits the bedbug case through evidence synthesis and application.
-- Chapter 15 planner supports 3D learning connections for practices, concepts, and core ideas.
-- Exact textbook excerpt placeholder: insert full activity steps 1–3 and rubric language from PDF.
+- The Tying It All Together task revisits bedbug resistance as a case that pulls together mutation, selection, and population change.
+- Students use Chapter 15 ideas to write a full explanation rather than isolated answers.
+- Reflection emphasizes the distinction between strong case-specific evidence and larger interpretive claims.
 
 ![Bedbug synthesis task](../../../images/unit5/bedbug-tying.jpg)
-"Tying It All Together: bedbug resistance synthesis activity — placeholder image path pending upload."
+"Synthesis task: using Chapter 15 evidence to explain resistance clearly and carefully."
 
 ## In-Class Activities / Minilabs
-1. **Task launch (10 min):** Review performance task directions and evidence requirements.
-2. **Work time (35 min):** Complete steps 1–3 using chapter data and mechanism references.
-3. **Peer feedback (15 min):** Exchange work and check claim-evidence alignment.
-4. **Unit reflection (15 min):** Write final synthesis response using Chapter 15 planner categories.
-5. **Readiness support (optional):** Peer-teach one weak-area concept before final submission.
+1. **Task launch (10 min):** Review the synthesis prompt, evidence expectations, and scoring focus.
+2. **Independent work (35 min):** Complete the bedbug performance task using claim, evidence, and mechanism reasoning.
+3. **Peer feedback (15 min):** Check whether claims, evidence, and explanation align.
+4. **Unit reflection (10 min):** Write a short response on what the case supports strongly and what still requires additional evidence.
 
-**Sample answers (placeholder):**
-- Use exact sample and rubric-aligned language from Tying It All Together PDF once uploaded.
-- Current placeholder rubric note: replace with final rubric link in materials folder.
+**Sample answers:**
+- Bedbug resistance is a strong example of population-level change under selection pressure.
+- The case supports measurable microevolutionary change, but broader macro-historical claims require additional lines of evidence.
 
 ## Critical Perspective
-- What elements of your final explanation are directly evidence-supported versus inferential?
-- How does the bedbug case clarify the distinction between microevolution and macroevolution claims?
-- Where do methodological assumptions shape interpretation in long-range evolutionary narratives?
-- How can students maintain scientific rigor and faith-informed discernment together?
+- Which parts of your explanation are directly supported by observed data?
+- What makes a mechanism explanation stronger than a vague summary?
+- Why should a strong scientific conclusion also acknowledge limits?
+- How can students combine rigor and humility in scientific writing?
 
 ## Biblical Integration
-Colossians 1:16–17 reminds us that all things hold together in Christ. As students synthesize scientific evidence, they can pursue truth with humility, gratitude, and responsible stewardship.
+Synthesis is an act of careful stewardship. Students can bring evidence together with clarity and restraint, honoring God by refusing both exaggeration and carelessness.
+
+<div class="scripture-connection">
+<h3>Scripture Connection</h3>
+<p><strong>Colossians 1:16-17</strong> reminds us that all things hold together in Christ. As students synthesize evidence, they can pursue coherence, truthfulness, and humility.</p>
+</div>
 
 ## Homework / Assignment
-- Finalize Tying It All Together submission.
-- Complete Unit 5 critical reflection paragraph and submit with evidence citations.
+- Finalize the Tying It All Together submission.
+- Complete a Unit 5 critical-reflection paragraph with evidence citations.
 
 ## Exit Ticket / Reflection
 In 3–4 sentences, explain one mechanism from Unit 5 and how you evaluated its broader interpretation.
 
 ## Teacher Notes Only (not for students)
-- Add the final rubric link when the materials file is uploaded.
-- Replace placeholders with exact Day 14 PDF language before final publication.
-- Use peer-teaching time to target misconceptions from prior review packets.
+- Keep scoring centered on evidence use, mechanism accuracy, and claim precision.
+- Use peer feedback to target confusion before moving into Chapter 16.
 
 ## Navigation
 - [← Back to Unit 5 Hub]({{ "/lessons/unit5/" | relative_url }})
+- [Go to Day 15 →]({{ "/lessons/unit5/day-15/" | relative_url }})
 - [Teacher Guide (Day 14)]({{ "/resources/teacher-guides/unit5/day-14/" | relative_url }})

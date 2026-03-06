@@ -8,8 +8,9 @@ permalink: /lessons/unit5/day-09/
 
 ## Objectives
 - Compare artificial selection and natural selection.
-- Summarize key ideas that shaped development of evolutionary theory.
-- Distinguish between scientific evidence, theory construction, and philosophical assumptions.
+- Summarize how Lamarck, Darwin, and Wallace contributed to the development of evolutionary theory.
+- Distinguish observed evidence from the interpretive framework built around that evidence.
+- Explain why analogy-based reasoning can be helpful without being identical to proof.
 
 ## Key Terms
 - theory
@@ -19,42 +20,48 @@ permalink: /lessons/unit5/day-09/
 - inheritance
 
 ## Textbook Content
-- Section 15.1 introduces historical and scientific context for developing evolutionary theory.
-- Artificial selection examples provide observable analogies for selection processes.
-- Exact textbook excerpt placeholder: insert verbatim objective bullets, Word Wall terms, and Predict prompt from PDF.
+- Section 15.1 traces how evolutionary theory developed through observation, comparison, and explanation.
+- Artificial selection provides a directly observable analogy for how selection can shape populations over time.
+- Historical figures such as Lamarck, Darwin, and Wallace help students see the difference between scientific observations and proposed mechanisms.
 
-![Bedbug case study](../../../images/unit5/bedbug-case-study.jpg)
-"Case-study support image placeholder for 15.1 context and discussion."
+![Selection and theory development](../../../images/unit5/bedbug-case-study.jpg)
+"Historical and scientific context for developing evolutionary theory."
 
 ## In-Class Activities / Minilabs
-1. **Predict prompt warm-up (10 min):** Use the 15.1 prediction question as a claim starter.
-2. **Selection compare chart (20 min):** Contrast artificial vs natural selection with examples.
-3. **Word Wall build (20 min):** Define and use each 15.1 vocabulary term in context.
-4. **Evidence sorting (15 min):** Separate direct observations from interpretive statements.
+1. **Predict prompt warm-up (10 min):** Respond to a question about how humans may have influenced wolf traits over time.
+2. **Selection comparison chart (20 min):** Contrast artificial and natural selection using agent, speed, and examples.
+3. **Historical timeline (15 min):** Organize Lamarck, Darwin, and Wallace by idea and contribution.
+4. **Evidence sort (20 min):** Separate direct observations from interpretive inferences.
 
-**Sample answers (placeholder):**
-- Artificial selection is intentional human choice; natural selection is differential reproductive success in context.
-- A scientific theory organizes evidence and generates testable explanations.
+**Sample answers:**
+- Artificial selection involves intentional human choice; natural selection involves differential survival and reproduction in an environment.
+- A scientific theory is a well-supported explanatory framework, not a mere guess.
 
 ## Critical Perspective
-- Which parts of 15.1 are directly evidence-based versus model-based interpretation?
-- How should students evaluate the jump from observed selection to broader historical narratives?
-- What role do worldview assumptions play in how evidence is framed?
-- How can common-design and common-ancestry interpretations be compared fairly?
+- Which parts of Section 15.1 are based on direct observation, and which involve interpretation?
+- How does artificial selection function as an analogy for natural selection?
+- What is gained when students separate evidence from worldview assumptions?
+- Why is careful wording important when discussing theory and historical explanation?
 
 ## Biblical Integration
-Romans 1:20 teaches that creation reveals God’s power and wisdom. Students can study theory development with intellectual honesty and gratitude for an orderly world.
+An orderly world can be studied honestly because it was made by God. Students can trace the history of theory development while practicing humility about what evidence shows directly and what requires further interpretation.
+
+<div class="scripture-connection">
+<h3>Scripture Connection</h3>
+<p><strong>Romans 1:20</strong> reminds us that creation reveals God’s power and wisdom. Careful study of theory development can deepen both scientific precision and gratitude for an orderly world.</p>
+</div>
 
 ## Homework / Assignment
 - Complete 15.1 guided notes and vocabulary review.
-- Respond to reflection: “What is one strength and one limitation of analogy-based evidence?”
+- Write one reflection: What is one strength and one limitation of analogy-based evidence?
+- Finish the evidence-sort chart if incomplete.
 
 ## Exit Ticket / Reflection
-In one paragraph, explain one piece of evidence and one assumption tied to a 15.1 claim.
+In one paragraph, explain one piece of evidence from 15.1 and one assumption tied to a broader claim built from that evidence.
 
 ## Teacher Notes Only (not for students)
-- Replace placeholders with exact PDF objectives and prompts when uploaded.
-- Reinforce academic tone and precise claim language.
+- Keep students from treating “theory” as equivalent to “guess.”
+- Emphasize that analogy can strengthen plausibility without ending all interpretive questions.
 
 ## Navigation
 - [← Back to Unit 5 Hub]({{ "/lessons/unit5/" | relative_url }})

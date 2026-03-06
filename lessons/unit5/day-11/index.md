@@ -9,8 +9,8 @@ permalink: /lessons/unit5/day-11/
 ## Objectives
 - Explain gene flow, genetic drift, and sexual selection.
 - Compare bottleneck and founder effects using evidence.
-- Use a semantic map to organize relationships among mechanisms.
-- Distinguish mutation, migration (gene flow), and drift as mechanisms of variation within populations.
+- Use a semantic map to organize how different mechanisms affect allele frequencies.
+- Distinguish random mechanisms from directional ones.
 
 ## Key Terms
 - gene flow
@@ -20,41 +20,43 @@ permalink: /lessons/unit5/day-11/
 - sexual selection
 
 ## Textbook Content
-- Section 15.3 introduces mechanisms other than natural selection that shift allele frequencies.
-- Population size and movement patterns strongly influence drift and gene flow outcomes.
-- Exact textbook excerpt placeholder: insert verbatim Explain prompt and semantic-map language from PDF.
+- Section 15.3 expands beyond natural selection to show additional ways populations can change.
+- Population size, migration, and mating patterns shape the strength and direction of different mechanisms.
+- Students should see that not all evolutionary change is driven by the same process.
 
 ## In-Class Activities / Minilabs
-1. **Semantic map build (15 min):** Connect 15.3 terms with arrows and causal notes.
-2. **Scenario analysis (25 min):** Classify case cards as drift, flow, founder, bottleneck, or sexual selection.
-3. **Claim check (20 min):** Write one CER response for a mechanism case.
+1. **Semantic map build (15 min):** Connect major mechanisms to the central idea of allele-frequency change.
+2. **Scenario analysis (25 min):** Classify examples as drift, flow, founder effect, bottleneck effect, or sexual selection.
+3. **CER practice (20 min):** Write a short evidence-based explanation for one mechanism case.
 
-**Sample answers (placeholder):**
-- Gene flow moves alleles between populations and often increases similarity.
-- Drift effects are strongest in smaller populations due to random sampling.
+**Sample answers:**
+- Gene flow moves alleles between populations and often increases similarity between them.
+- Genetic drift is strongest in smaller populations because random sampling effects matter more.
 
 ## Critical Perspective
-- Which mechanisms are random and which are directional, based on evidence?
-- How should students avoid overgeneralizing from one mechanism case to all evolution claims?
-- What assumptions are often hidden when interpreting population-mechanism data?
-- How can careful science keep mechanism evidence and worldview interpretation distinct?
-- Which mechanism claims are directly model-supported versus inferred from long-range scenarios?
+- Which mechanisms are mostly random, and which are more directional?
+- How can students avoid treating one mechanism case as proof of every broader claim?
+- What kinds of evidence help distinguish drift from selection?
+- Why does precise classification improve scientific reasoning?
 
 ## Biblical Integration
-Scripture encourages thoughtful discernment. Studying mechanisms of change can strengthen students’ ability to evaluate claims honestly while honoring God as Creator.
+Studying mechanisms carefully encourages discernment. Students can investigate how populations change while honoring God as Creator and practicing truthfulness about both evidence and interpretation.
 
-Verses: Romans 8:22; Proverbs 2:6.
+<div class="scripture-connection">
+<h3>Scripture Connection</h3>
+<p><strong>Romans 8:22</strong> and <strong>Proverbs 2:6</strong> frame this lesson with both honesty about creation’s groaning and gratitude that wisdom for understanding comes from the Lord.</p>
+</div>
 
 ## Homework / Assignment
-- Complete 15.3 mechanism practice set.
+- Complete the 15.3 mechanism practice set.
 - Write one reflection comparing drift and selection in terms of cause and evidence.
 
 ## Exit Ticket / Reflection
-Name one 15.3 mechanism and explain one clear dataset signal for identifying it.
+Name one mechanism from 15.3 and explain one clear dataset signal that could help identify it.
 
 ## Teacher Notes Only (not for students)
-- Replace placeholders with exact 15.3 wording and sample responses from PDFs.
-- Emphasize precise distinction between mechanism, evidence, and interpretation.
+- Reinforce that mutation introduces variation but is not identical to drift or gene flow.
+- Keep students focused on evidence patterns rather than vague mechanism labels.
 
 ## Navigation
 - [← Back to Unit 5 Hub]({{ "/lessons/unit5/" | relative_url }})

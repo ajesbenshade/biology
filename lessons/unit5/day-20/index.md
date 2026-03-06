@@ -1,62 +1,68 @@
 ---
 layout: default
-title: "Day 20: National Geographic Explorer — Çağan Şekercioğlu + Looking at the Data: Ecological Footprints"
+title: "Day 20: Chapter 16 Review + Looking at the Data: Ecological Footprints"
 permalink: /lessons/unit5/day-20/
 ---
 
-# Day 20: National Geographic Explorer — Çağan Şekercioğlu + Looking at the Data: Ecological Footprints
+# Day 20: Chapter 16 Review + Looking at the Data: Ecological Footprints
 
 ## Objectives
-- Explain how bird banding and radio tracking support climate-impact population research.
-- Interpret ecological-footprint tables using per-capita and population-level metrics.
-- Construct evidence-based arguments about environmental impact and resilience.
+- Review core Chapter 16 concepts: speciation, extinction, human impact, conservation, and sustainability.
+- Interpret ecological-footprint data using both per-capita and total-impact measures.
+- Correct common errors in evidence interpretation and policy argumentation.
+- Prepare for the final synthesis lesson by connecting data analysis with stewardship reasoning.
 
 ## Key Terms
 - ecological footprint
 - per-capita impact
-- climate change
-- tracking data
-- population resilience
+- total impact
+- sustainability
+- error analysis
 
 ## Textbook Content
-- National Geographic Explorer Çağan Şekercioğlu uses field tracking and databases to connect bird traits, ecological factors, and climate survival outcomes.
-- Looking at the Data activity compares ecological footprint values by population and per-capita use.
-- Students evaluate how dataset framing changes conclusions about responsibility and impact.
+- The ecological-footprint dataset invites students to compare per-capita and total-impact measures and think carefully about how framing shapes conclusions.
+- Chapter 16 review revisits biodiversity loss, conservation strategies, and sustainability.
+- This lesson combines data analysis with review so students can move from recall to evidence-based judgment.
 
-![Bird tracking fieldwork](../../../images/unit5/cagan-sekercioglu-birds.jpg)
-"National Geographic Explorer field methods: bird banding and radio tracking."
+![Ecological footprint analysis](../../../images/unit5/cagan-sekercioglu-birds.jpg)
+"Chapter 16 review data focus: comparing ecological-footprint measures and interpreting impact carefully."
 
 ## In-Class Activities / Minilabs
-1. **Explorer profile notes (15 min):** Identify methods, variables, and evidence type in field research.
-2. **Data-table analysis (25 min):** Organize footprint data and compute comparative values.
-3. **Argument construction (20 min):** Build a claim using both per-capita and total-impact evidence.
-4. **Peer critique (10 min):** Evaluate argument strength and assumptions.
+1. **Review warm-up (10 min):** Quick-check key Chapter 16 terms and contrasts.
+2. **Ecological-footprint analysis (25 min):** Compare per-capita and total-impact data and identify what each metric reveals.
+3. **Error analysis workshop (20 min):** Revise weak claims that overstate what the data proves.
+4. **Readiness check (10 min):** Complete a short mixed review on Chapter 16 content.
+5. **Reflection (5 min):** Identify one area of strength and one topic to review before Day 21.
 
 **Sample answers:**
-- Per-capita footprint and total population impact both matter, but they answer different questions.
-- Longitudinal tracking improves confidence by connecting traits, environment, and survival outcomes over time.
+- Per-capita impact and total impact answer different questions, so both may matter in a fair interpretation.
+- Ecological-footprint data can support claims about relative impact, but policy conclusions still require careful reasoning and stated assumptions.
 
 ## Critical Perspective
-- How does dataset framing (per capita vs total) shape conclusions about environmental responsibility?
-- Which conclusions from ecological-footprint data are direct, and which require assumptions?
-- How do field observations and large datasets complement each other in climate-impact studies?
-- What does fair interpretation require when evidence can support multiple policy priorities?
+- How does dataset framing shape conclusions about responsibility?
+- Which claims from ecological-footprint data are direct, and which depend on additional assumptions?
+- Why does error analysis improve scientific integrity rather than weaken confidence?
+- How can students connect stewardship concerns with careful data interpretation?
 
 ## Biblical Integration
-Care for creation includes truthful interpretation of data and shared responsibility across communities. Evidence-based decisions can reflect justice, humility, and stewardship.
+Stewardship includes both truthful interpretation and wise response. Students can evaluate environmental-impact data carefully while remembering that creation belongs to God and must not be treated carelessly.
 
-Verses: Romans 1:20; Micah 6:8.
+<div class="scripture-connection">
+<h3>Scripture Connection</h3>
+<p><strong>Proverbs 2:6</strong>, <strong>1 Thessalonians 5:21</strong>, and <strong>Genesis 2:15</strong> call students to pursue wisdom, test claims carefully, and care for what God has entrusted to humanity.</p>
+</div>
 
 ## Homework / Assignment
-- Complete ecological-footprint analysis questions.
-- Reflection prompt: Which metric should guide policy first—per-capita impact or total impact—and why?
+- Complete the Chapter 16 review packet and corrections.
+- Finish the ecological-footprint response comparing per-capita and total-impact reasoning.
+- Mark one area of Unit 5 growth and one area still needing review before Day 21.
 
 ## Exit Ticket / Reflection
-What is one claim from today’s data that is strong, and one claim that needs additional evidence?
+What is one strong claim supported by today’s data, and one claim that would require additional assumptions or evidence?
 
 ## Teacher Notes Only (not for students)
-- Encourage uncertainty-aware conclusions when datasets are limited.
-- Focus feedback on evidence traceability and interpretation limits.
+- Keep discussion balanced: students should distinguish data, interpretation, and policy recommendation.
+- Use the error-analysis section to reinforce precision before the final synthesis lesson.
 
 ## Navigation
 - [← Back to Unit 5 Hub]({{ "/lessons/unit5/" | relative_url }})

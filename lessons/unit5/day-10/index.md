@@ -7,10 +7,10 @@ permalink: /lessons/unit5/day-10/
 # Day 10: 15.2 Evolution in Populations + Minilab: Hawks and Mice
 
 ## Objectives
-- Explain how allele frequencies change in populations over time.
+- Explain how allele frequencies can change in populations over time.
 - Distinguish stabilizing, directional, and disruptive selection.
-- Analyze minilab data to support claims about selection pressure.
-- Apply Hardy-Weinberg-style reasoning to simple allele-frequency problem sets.
+- Analyze minilab data to support a claim about selection pressure.
+- Identify strengths and limits of a simulation model.
 
 ## Key Terms
 - population genetics
@@ -20,44 +20,48 @@ permalink: /lessons/unit5/day-10/
 - disruptive selection
 
 ## Textbook Content
-- Section 15.2 focuses on evolution in populations and measurable changes in frequency distributions.
-- Types of selection are modeled using trait distributions and environmental context.
-- Exact textbook excerpt placeholder: insert verbatim objectives, Analyze prompt, and Frayer-square terms.
+- Section 15.2 focuses on population-level change that can be measured and graphed.
+- Selection patterns are modeled through shifting trait distributions in different environments.
+- The Hawks and Mice minilab helps students connect predation pressure with measurable trait-frequency change.
 
 ![Hawks and mice minilab](../../../images/unit5/hawks-mice-minilab.jpg)
-"Hawks and Mice minilab setup — placeholder image path pending upload."
+"Minilab model for observing how selection pressure can shift frequencies over generations."
 
 ## In-Class Activities / Minilabs
-1. **Frayer square setup (10 min):** Define key 15.2 terms with examples/non-examples.
-2. **Selection pattern drill (15 min):** Match scenarios to selection type.
-3. **Minilab execution (30 min):** Run Hawks and Mice procedure with data table collection.
-4. **Analysis & discussion (15 min):** Complete conclusion questions and compare group results.
-5. **Extension option:** Use beans/beads to model frequency shifts and compare to hawk-mice results.
+1. **Frayer squares (10 min):** Define key vocabulary and list examples/non-examples.
+2. **Selection pattern drill (15 min):** Match scenarios to stabilizing, directional, or disruptive selection.
+3. **Hawks and Mice minilab (30 min):** Collect data across generations under simulated predation pressure.
+4. **Analysis and graphing (15 min):** Use evidence from the lab to identify the selection pattern shown.
 
-**Sample answers (placeholder):**
-- Directional selection shifts the population mean toward a favored trait.
-- The minilab supports that predation pressure can alter trait frequency in measurable ways.
+**Sample answers:**
+- Directional selection shifts a population toward one favored trait extreme.
+- The minilab supports the claim that predation pressure can change trait frequencies in measurable ways over generations.
 
 ## Critical Perspective
-- What does the minilab directly demonstrate, and what would require additional evidence?
-- How does this activity support microevolution claims without automatically proving macroevolution narratives?
-- Which assumptions are built into the lab model compared with real ecosystems?
-- How can results be interpreted through both natural-process and design-aware perspectives?
+- What does the minilab directly demonstrate about selection?
+- Which parts of the activity are simplified compared with real ecosystems?
+- Why is model limitation important when interpreting conclusions?
+- How can quantitative evidence strengthen a claim without being overextended?
 
 ## Biblical Integration
-God’s creation shows both complexity and order. Quantitative population data helps students appreciate how carefully designed systems can be studied with rigor and humility.
+Quantitative data can deepen appreciation for the order God built into living systems. Students can analyze population change carefully while practicing humility about what a lab model can and cannot show.
+
+<div class="scripture-connection">
+<h3>Scripture Connection</h3>
+<p><strong>Colossians 1:16-17</strong> reminds us that creation holds together in Christ. Population data and lab models reveal patterns that can be studied with rigor and gratitude.</p>
+</div>
 
 ## Homework / Assignment
-- Complete minilab analysis and graph.
-- Answer Chapter 15.2 review questions and one reflection on model limits.
-- Complete allele-frequency worksheet (including one Hardy-Weinberg check problem).
+- Complete the minilab graph and analysis questions.
+- Finish the 15.2 review questions.
+- Write a short reflection on one limitation of the model used today.
 
 ## Exit Ticket / Reflection
 Which selection type best fit your lab data, and what evidence supports your conclusion?
 
 ## Teacher Notes Only (not for students)
-- Insert full verbatim minilab instructions and sample answers after PDF import.
-- Grade on evidence quality, reasoning, and data interpretation.
+- Watch for students assuming “directional” always means larger size rather than one favored extreme.
+- Keep emphasis on population patterns, not individual effort or intention.
 
 ## Navigation
 - [← Back to Unit 5 Hub]({{ "/lessons/unit5/" | relative_url }})
