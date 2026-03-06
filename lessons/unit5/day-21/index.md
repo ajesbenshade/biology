@@ -47,9 +47,10 @@ permalink: /lessons/unit5/day-21/
 ## Biblical Integration
 Faith and science are not competitors: careful evidence evaluation and moral responsibility belong together. Students honor God by pursuing truth with rigor, humility, and wise stewardship.
 
-Verses: Colossians 1:16-17; Psalm 104:24.
-
-Supplemental verse: Psalm 139:14.
+<div class="scripture-connection">
+<h3>Scripture Connection</h3>
+<p><strong>Colossians 1:16-17</strong>, <strong>Psalm 104:24</strong>, and <strong>Psalm 139:14</strong> remind students that truth, wonder, and stewardship belong together. Final synthesis should reflect both scientific rigor and gratitude for God’s creation.</p>
+</div>
 
 ## Homework / Assignment
 - Complete final Chapter 16 corrections and submit synthesis response.

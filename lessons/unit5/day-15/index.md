@@ -47,7 +47,10 @@ permalink: /lessons/unit5/day-15/
 ## Biblical Integration
 God entrusts humans with stewardship over creation; harmful human actions can disrupt ecosystems and populations. Careful science can help us understand consequences and make wiser choices.
 
-Verses: Colossians 1:16-17; Genesis 2:15.
+<div class="scripture-connection">
+<h3>Scripture Connection</h3>
+<p><strong>Colossians 1:16-17</strong> and <strong>Genesis 2:15</strong> remind us that creation belongs to Christ and that people are called to steward it wisely. This case study connects scientific evidence with moral responsibility.</p>
+</div>
 
 ## Homework / Assignment
 - Complete Chapter 16 case-study questions.

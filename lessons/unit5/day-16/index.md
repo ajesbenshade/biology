@@ -43,9 +43,10 @@ permalink: /lessons/unit5/day-16/
 ## Biblical Integration
 Studying biodiversity can deepen appreciation for the richness and order of life. Faith and science work together when we analyze evidence honestly and acknowledge both discovery and mystery.
 
-Verses: Psalm 104:24; Romans 1:20.
-
-Supplemental verse: Genesis 1:21.
+<div class="scripture-connection">
+<h3>Scripture Connection</h3>
+<p><strong>Psalm 104:24</strong>, <strong>Romans 1:20</strong>, and <strong>Genesis 1:21</strong> frame biodiversity as part of God’s wise and varied creation. Students can study diversification carefully while maintaining awe and honesty.</p>
+</div>
 
 ## Homework / Assignment
 - Complete 16.1 guided questions and vocabulary practice.

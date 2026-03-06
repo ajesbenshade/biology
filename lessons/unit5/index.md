@@ -86,6 +86,6 @@ Each Unit 5 day page now follows one standardized section order:
 | 17 | 16.2 Extinction | [Go to Day 17 →]({{ "/lessons/unit5/day-17/" | relative_url }}) |
 | 18 | 16.3 Human Impact on the Environment + Minilab: Modeling Human-Caused Changes in the Environment | [Go to Day 18 →]({{ "/lessons/unit5/day-18/" | relative_url }}) |
 | 19 | 16.4 Reducing Human Impact on the Environment | [Go to Day 19 →]({{ "/lessons/unit5/day-19/" | relative_url }}) |
-| 20 | National Geographic Explorer: Çağan Şekercioğlu (Bird Populations in Changing Climate) + Looking at the Data: Ecological Footprints | [Go to Day 20 →]({{ "/lessons/unit5/day-20/" | relative_url }}) |
+| 20 | Chapter 16 Review + Looking at the Data: Ecological Footprints | [Go to Day 20 →]({{ "/lessons/unit5/day-20/" | relative_url }}) |
 | 21 | Chapter 16 Review + Tying It All Together: Tracking Tuskless Elephants + Unit Synthesis & Critical Reflection | [Go to Day 21 →]({{ "/lessons/unit5/day-21/" | relative_url }}) |
 {: .overflow-x-auto mb-6 }

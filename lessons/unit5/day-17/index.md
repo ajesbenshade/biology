@@ -43,7 +43,10 @@ permalink: /lessons/unit5/day-17/
 ## Biblical Integration
 Extinction discussions remind us that stewardship includes protecting life systems entrusted to human care. Scientific understanding helps us act responsibly toward neighboring communities and ecosystems.
 
-Verses: Genesis 2:15; Proverbs 12:10.
+<div class="scripture-connection">
+<h3>Scripture Connection</h3>
+<p><strong>Genesis 2:15</strong> and <strong>Proverbs 12:10</strong> remind students that caring for living things is part of faithful stewardship. Extinction should be studied honestly and responded to responsibly.</p>
+</div>
 
 ## Homework / Assignment
 - Complete Section 16.2 review questions.

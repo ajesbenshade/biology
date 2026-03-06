@@ -6,7 +6,7 @@ permalink: /lessons/unit4/student-view/
 
 # Unit 4 Student View — Objective Science Targets
 
-This page highlights the assessable science targets for Unit 4 review and biotechnology introduction.
+This page highlights the assessable science targets for Unit 4 and gives quick links to the current lesson emphasis.
 
 ## Students Are Assessed On
 - Punnett squares and probability
@@ -16,9 +16,14 @@ This page highlights the assessable science targets for Unit 4 review and biotec
 - Mutation types and inheritance patterns
 - PCR, gel electrophoresis, and CRISPR basics
 
+## Unit 4 Quick Links
+- [Unit 4 Hub]({{ "/lessons/unit4/" | relative_url }})
+- [Day 7: Chapter 12 Review + Biotechnology Introduction]({{ "/lessons/unit4/day-07/" | relative_url }})
+- [Day 8: Genetic Engineering Applications and Ethics]({{ "/lessons/unit4/day-08/" | relative_url }})
+
 ## Current Focus: Days 7–8
-- [Day 7: Chapter 12 Review + Biotechnology Introduction]({{ "/lessons/unit4/day7-review-biotech/" | relative_url }})
-- [Day 8: Genetic Engineering Applications and Ethics]({{ "/lessons/unit4/day8-genetic-engineering/" | relative_url }})
+- [Day 7: Chapter 12 Review + Biotechnology Introduction]({{ "/lessons/unit4/day-07/" | relative_url }})
+- [Day 8: Genetic Engineering Applications and Ethics]({{ "/lessons/unit4/day-08/" | relative_url }})
 
 ## Study Tip
 Practice with diagrams, vocabulary, and data-driven problem sets first, then verify reasoning with clear scientific evidence.

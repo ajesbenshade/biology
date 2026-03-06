@@ -43,7 +43,10 @@ permalink: /lessons/unit5/day-19/
 ## Biblical Integration
 Stewardship is active, not passive: responsible care includes prevention, restoration, and wise resource choices. Science helps us evaluate which actions actually produce faithful outcomes.
 
-Verses: Psalm 24:1; Genesis 2:15.
+<div class="scripture-connection">
+<h3>Scripture Connection</h3>
+<p><strong>Psalm 24:1</strong> and <strong>Genesis 2:15</strong> remind students that the earth belongs to God and that wise resource use is part of human responsibility. Sustainability can be framed as faithful stewardship, not mere trend language.</p>
+</div>
 
 ## Homework / Assignment
 - Complete 16.4 review questions.

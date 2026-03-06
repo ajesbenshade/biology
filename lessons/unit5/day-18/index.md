@@ -45,7 +45,10 @@ permalink: /lessons/unit5/day-18/
 ## Biblical Integration
 Human choices influence creation systems, so stewardship must include informed action. Science provides tools to measure impact and guide restoration-oriented decisions.
 
-Verses: Genesis 2:15; Micah 6:8.
+<div class="scripture-connection">
+<h3>Scripture Connection</h3>
+<p><strong>Genesis 2:15</strong> and <strong>Micah 6:8</strong> connect stewardship with justice, humility, and practical care. Measuring human impact can support wiser, more faithful decisions.</p>
+</div>
 
 ## Homework / Assignment
 - Complete minilab analysis questions and graph interpretation.
