@@ -59,3 +59,4 @@ Name one high-impact practice for reducing human environmental impact and defend
 ## Navigation
 - [← Back to Unit 5 Hub]({{ "/lessons/unit5/" | relative_url }})
 - [Go to Day 20 →]({{ "/lessons/unit5/day-20/" | relative_url }})
+- [Teacher Guide (Day 19)]({{ "/resources/teacher-guides/unit5/day-19/" | relative_url }})

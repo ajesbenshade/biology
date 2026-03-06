@@ -63,3 +63,4 @@ What is one data point from today that most strongly supports a change in trait 
 ## Navigation
 - [← Back to Unit 5 Hub]({{ "/lessons/unit5/" | relative_url }})
 - [Go to Day 16 →]({{ "/lessons/unit5/day-16/" | relative_url }})
+- [Teacher Guide (Day 15)]({{ "/resources/teacher-guides/unit5/day-15/" | relative_url }})

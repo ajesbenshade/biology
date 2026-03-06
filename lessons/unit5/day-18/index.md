@@ -61,3 +61,4 @@ Which one human-caused factor in today’s model produced the largest population
 ## Navigation
 - [← Back to Unit 5 Hub]({{ "/lessons/unit5/" | relative_url }})
 - [Go to Day 19 →]({{ "/lessons/unit5/day-19/" | relative_url }})
+- [Teacher Guide (Day 18)]({{ "/resources/teacher-guides/unit5/day-18/" | relative_url }})

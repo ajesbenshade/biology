@@ -61,3 +61,4 @@ Identify one review question where evidence was strong and one where assumptions
 ## Navigation
 - [← Back to Unit 5 Hub]({{ "/lessons/unit5/" | relative_url }})
 - [Go to Day 14 →]({{ "/lessons/unit5/day-14/" | relative_url }})
+- [Teacher Guide (Day 13)]({{ "/resources/teacher-guides/unit5/day-13/" | relative_url }})

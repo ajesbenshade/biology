@@ -61,3 +61,4 @@ What is one claim from today’s data that is strong, and one claim that needs a
 ## Navigation
 - [← Back to Unit 5 Hub]({{ "/lessons/unit5/" | relative_url }})
 - [Go to Day 21 →]({{ "/lessons/unit5/day-21/" | relative_url }})
+- [Teacher Guide (Day 20)]({{ "/resources/teacher-guides/unit5/day-20/" | relative_url }})

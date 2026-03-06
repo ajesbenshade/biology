@@ -48,6 +48,14 @@ Use this page to find student support materials and family communication documen
 - [Teacher Guide (Day 10): 15.2 Evolution in Populations and Hawks & Mice Minilab]({{ "/resources/teacher-guides/unit5/day-10/" | relative_url }})
 - [Teacher Guide (Day 11): 15.3 Other Mechanisms of Evolution]({{ "/resources/teacher-guides/unit5/day-11/" | relative_url }})
 - [Teacher Guide (Day 12): NG Explorer – Christopher Austin and Green-Blooded Skinks]({{ "/resources/teacher-guides/unit5/day-12/" | relative_url }})
+- [Teacher Guide (Day 13): Deer Mice Data Analysis, Hardy-Weinberg, and Chapter 15 Review]({{ "/resources/teacher-guides/unit5/day-13/" | relative_url }})
+- [Teacher Guide (Day 14): Bedbug Synthesis Task and Unit Reflection]({{ "/resources/teacher-guides/unit5/day-14/" | relative_url }})
+- [Teacher Guide (Day 15): Chapter 16 Opener and Tuskless Elephants]({{ "/resources/teacher-guides/unit5/day-15/" | relative_url }})
+- [Teacher Guide (Day 16): 16.1 Speciation]({{ "/resources/teacher-guides/unit5/day-16/" | relative_url }})
+- [Teacher Guide (Day 17): 16.2 Extinction and Biodiversity Loss]({{ "/resources/teacher-guides/unit5/day-17/" | relative_url }})
+- [Teacher Guide (Day 18): Human Impacts on Biodiversity and Conservation Strategies]({{ "/resources/teacher-guides/unit5/day-18/" | relative_url }})
+- [Teacher Guide (Day 19): Sustainability and Future Outlook]({{ "/resources/teacher-guides/unit5/day-19/" | relative_url }})
+- [Teacher Guide (Day 20): Unit Review and Error Analysis]({{ "/resources/teacher-guides/unit5/day-20/" | relative_url }})
 
 ## Family Communication
 - [Parent Letter]({{ "/resources/parent-letter/" | relative_url }})

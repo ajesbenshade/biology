@@ -61,3 +61,4 @@ In one sentence, state one condition that makes diversification more likely and 
 ## Navigation
 - [← Back to Unit 5 Hub]({{ "/lessons/unit5/" | relative_url }})
 - [Go to Day 17 →]({{ "/lessons/unit5/day-17/" | relative_url }})
+- [Teacher Guide (Day 16)]({{ "/resources/teacher-guides/unit5/day-16/" | relative_url }})

@@ -60,3 +60,4 @@ What is one practical protection strategy that can reduce extinction risk for a 
 ## Navigation
 - [← Back to Unit 5 Hub]({{ "/lessons/unit5/" | relative_url }})
 - [Go to Day 18 →]({{ "/lessons/unit5/day-18/" | relative_url }})
+- [Teacher Guide (Day 17)]({{ "/resources/teacher-guides/unit5/day-17/" | relative_url }})
