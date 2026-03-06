@@ -24,9 +24,6 @@ permalink: /lessons/unit5/day-12/
 - Students analyze what has been measured directly, what hypotheses are currently strongest, and what evidence is still needed.
 - The lesson extends earlier discussion by focusing more closely on Austin’s methods and interpretation.
 
-![Green-blooded skink](../../../images/unit5/green-blood-austin-ch15.jpg)
-"National Geographic Explorer case study: green-blooded skinks and hypothesis-driven research."
-
 ## In-Class Activities / Minilabs
 1. **Explorer read-through (15 min):** Annotate key findings, direct measurements, and unresolved questions.
 2. **Hypothesis matrix (20 min):** Compare two or more explanations for green blood and the evidence behind each.

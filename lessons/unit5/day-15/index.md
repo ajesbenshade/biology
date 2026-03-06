@@ -24,9 +24,6 @@ permalink: /lessons/unit5/day-15/
 - The map and trait-frequency context show how human activity can reshape which heritable traits become more common.
 - The case is revisited in the chapter to connect speciation, extinction risk, and long-term population outcomes.
 
-![Tuskless elephants](../../../images/unit5/elephant-tuskless-opener.jpg)
-"Chapter 16 opener: tuskless-elephant case in Gorongosa National Park."
-
 ## In-Class Activities / Minilabs
 1. **Phenomenon launch (10 min):** Students annotate the opener image and identify observable evidence.
 2. **Case-study data read (20 min):** Small groups summarize trait changes and possible selective pressures.

@@ -24,9 +24,6 @@ permalink: /lessons/unit5/day-08/
 - The case study shows how a resistance-related trait can increase in frequency when pesticides consistently remove non-resistant individuals.
 - Students should focus on what is directly supported by the case: measurable population change across generations.
 
-![Bedbug close-up](../../../images/unit5/bedbug-opener.jpg)
-"Chapter 15 opener: bedbugs as a case study in resistance and population change."
-
 ## In-Class Activities / Minilabs
 1. **Phenomenon launch (10 min):** Study the opener image and predict why one treatment may stop working over time.
 2. **Case-study annotation (20 min):** Mark observations, mechanism claims, and broader extrapolations in the bedbug narrative.

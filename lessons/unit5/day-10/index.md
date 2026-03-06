@@ -24,9 +24,6 @@ permalink: /lessons/unit5/day-10/
 - Selection patterns are modeled through shifting trait distributions in different environments.
 - The Hawks and Mice minilab helps students connect predation pressure with measurable trait-frequency change.
 
-![Hawks and mice minilab](../../../images/unit5/hawks-mice-minilab.jpg)
-"Minilab model for observing how selection pressure can shift frequencies over generations."
-
 ## In-Class Activities / Minilabs
 1. **Frayer squares (10 min):** Define key vocabulary and list examples/non-examples.
 2. **Selection pattern drill (15 min):** Match scenarios to stabilizing, directional, or disruptive selection.

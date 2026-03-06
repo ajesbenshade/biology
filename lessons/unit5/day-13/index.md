@@ -24,9 +24,6 @@ permalink: /lessons/unit5/day-13/
 - Hardy-Weinberg provides a comparison model for expected genotype frequencies when no major forces are acting.
 - Chapter 15 review pulls together natural selection, other mechanisms, and evidence-versus-inference thinking.
 
-![Deer mice tracking](../../../images/unit5/deer-mice-tracking.jpg)
-"Looking at the Data: deer mouse coat-color tracking and population analysis."
-
 ## In-Class Activities / Minilabs
 1. **Data-table analysis (25 min):** Calculate allele and genotype values from the deer mouse dataset.
 2. **Hardy-Weinberg check (20 min):** Compare expected and observed frequencies and propose likely explanations for deviation.

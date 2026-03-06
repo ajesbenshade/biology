@@ -5,14 +5,21 @@ title: Resources & Study Guides
 
 # Resources & Study Guides
 
-## Study Guides
-- [Unit 4 Study Guide](unit4-study-guide.md)
-- [Unit 5 Study Guide](unit5-study-guide.md)
+Use this page as a quick directory for student support and planning materials.
 
-## Additional Resources
-- National Geographic Explorer Videos
-- Punnett Square Practice Worksheets
-- Pedigree Chart Examples
+## Student Study Guides
+- [Unit 4 Study Guide]({{ "/resources/unit4-study-guide/" | relative_url }})
+- [Unit 5 Study Guide]({{ "/resources/unit5-study-guide/" | relative_url }})
 
-## Parent Letter
-- [Parent Letter](parent-letter.md)
+## Student Support Links
+- [Unit 4 Worksheet Pack]({{ "/resources/unit4-day7-8-worksheet-pack/" | relative_url }})
+- [Advanced Review: Unit 4 Days 7–8]({{ "/resources/unit4-days7-8-advanced-review/" | relative_url }})
+- [Unit 4 Student View]({{ "/lessons/unit4/student-view/" | relative_url }})
+- [Unit 4 Hub]({{ "/lessons/unit4/" | relative_url }})
+- [Unit 5 Hub]({{ "/lessons/unit5/" | relative_url }})
+
+## Family Communication
+- [Parent Letter]({{ "/resources/parent-letter/" | relative_url }})
+
+## Teacher Guides
+- Full Unit 4 and Unit 5 teacher-guide links are listed on the main [Resources hub]({{ "/resources/" | relative_url }}).

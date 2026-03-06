@@ -27,9 +27,6 @@ permalink: /lessons/unit5/day-01/
 - Historical context: early classification and observations (Linnaeus, Darwin) compared with modern molecular methods.
 - Figure/case caption: three-toed sloth suspended from a branch, highlighting habitat and trait context used in evolutionary inference.
 
-![Sloth in tree](../../../assets/images/dna-banner.jpg)
-"Three-toed sloth hanging upside down — Chapter 14 opener"
-
 ## In-Class Activities / Minilabs
 
 1. **Bellwork (8 min):** “What counts as strong evidence in science?”

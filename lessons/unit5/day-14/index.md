@@ -24,9 +24,6 @@ permalink: /lessons/unit5/day-14/
 - Students use Chapter 15 ideas to write a full explanation rather than isolated answers.
 - Reflection emphasizes the distinction between strong case-specific evidence and larger interpretive claims.
 
-![Bedbug synthesis task](../../../images/unit5/bedbug-tying.jpg)
-"Synthesis task: using Chapter 15 evidence to explain resistance clearly and carefully."
-
 ## In-Class Activities / Minilabs
 1. **Task launch (10 min):** Review the synthesis prompt, evidence expectations, and scoring focus.
 2. **Independent work (35 min):** Complete the bedbug performance task using claim, evidence, and mechanism reasoning.

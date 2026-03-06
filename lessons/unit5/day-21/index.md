@@ -23,9 +23,6 @@ permalink: /lessons/unit5/day-21/
 - Tying It All Together task uses a four-step model: track tusklessness frequency, compare population graphs, evaluate speciation/extinction implications, and communicate evidence-based conclusions.
 - Rubric-aligned responses emphasize data use, reasoning clarity, and interpretation limits.
 
-![Tuskless elephant synthesis](../../../images/unit5/elephant-tuskless-tying.jpg)
-"Tying It All Together: modeling trait-frequency change in elephants."
-
 ## In-Class Activities / Minilabs
 1. **Review quick-check (15 min):** Mixed key-concept items from Chapter 16.
 2. **Modeling task steps 1–2 (20 min):** Build and analyze trait-frequency and population comparison graphs.

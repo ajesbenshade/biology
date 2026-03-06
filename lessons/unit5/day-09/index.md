@@ -24,9 +24,6 @@ permalink: /lessons/unit5/day-09/
 - Artificial selection provides a directly observable analogy for how selection can shape populations over time.
 - Historical figures such as Lamarck, Darwin, and Wallace help students see the difference between scientific observations and proposed mechanisms.
 
-![Selection and theory development](../../../images/unit5/bedbug-case-study.jpg)
-"Historical and scientific context for developing evolutionary theory."
-
 ## In-Class Activities / Minilabs
 1. **Predict prompt warm-up (10 min):** Respond to a question about how humans may have influenced wolf traits over time.
 2. **Selection comparison chart (20 min):** Contrast artificial and natural selection using agent, speed, and examples.

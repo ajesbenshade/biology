@@ -7,19 +7,24 @@ permalink: /resources/
 
 # Resources & Study Guides
 
-Use this page to find student support materials and family communication documents.
+Use this page to find student support materials, lesson-connected practice resources, and teacher planning documents for Units 4 and 5.
 
-## Study Guides
+## Student Study Guides
 - [Unit 4 Study Guide]({{ "/resources/unit4-study-guide/" | relative_url }})
 - [Unit 5 Study Guide]({{ "/resources/unit5-study-guide/" | relative_url }})
 
-## Additional Resources
-- National Geographic Explorer videos
-- Punnett square practice sets
-- Pedigree chart examples
+## Student Support Materials
 - [Advanced Review: Unit 4 Days 7–8]({{ "/resources/unit4-days7-8-advanced-review/" | relative_url }})
 - [Unit 4 Student View (Objective Targets)]({{ "/lessons/unit4/student-view/" | relative_url }})
 - [Unit 4 Worksheet Pack (Day 7–8)]({{ "/resources/unit4-day7-8-worksheet-pack/" | relative_url }})
+- [Unit 4 Hub]({{ "/lessons/unit4/" | relative_url }})
+- [Unit 5 Hub]({{ "/lessons/unit5/" | relative_url }})
+
+## Lesson-Connected Reference Pages
+- [Unit 4 Day 6: Human Genetics and Pedigrees]({{ "/lessons/unit4/day-06/" | relative_url }})
+- [Unit 5 Day 6: Explorer Case Studies]({{ "/lessons/unit5/day-06/" | relative_url }})
+- [Unit 5 Day 12: Green-Blooded Skinks]({{ "/lessons/unit5/day-12/" | relative_url }})
+- [Unit 5 Day 20: Ecological Footprints]({{ "/lessons/unit5/day-20/" | relative_url }})
 
 ## Teacher Guides – Unit 4
 - [Teacher Guide (Day 1): Introduction to Genetics]({{ "/resources/teacher-guides/unit4/day-01/" | relative_url }})

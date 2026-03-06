@@ -23,9 +23,6 @@ permalink: /lessons/unit5/day-18/
 - Environmental pressures include pollution, fragmentation, and altered resource availability.
 - Minilab models dam construction effects on beetle populations using beads or paper punch-outs.
 
-![Human impact minilab](../../../images/unit5/human-impact-minilab.jpg)
-"Modeling human-caused changes: beetle population simulation setup."
-
 ## In-Class Activities / Minilabs
 1. **Bellwork/Identify prompt (10 min):** List daily human decisions that affect local ecosystems and predict one climate-linked impact.
 2. **Minilab setup (10 min):** Assign materials and define starting beetle-population conditions.

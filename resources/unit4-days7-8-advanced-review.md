@@ -31,6 +31,6 @@ Prepared for Dock Mennonite High School Freshman Biology with an academic-excell
 
 ## Quick-Win Implementation Links
 - [Unit 4 Hub]({{ "/lessons/unit4/" | relative_url }})
-- [Day 7 Sub-Page]({{ "/lessons/unit4/day7-review-biotech/" | relative_url }})
-- [Day 8 Sub-Page]({{ "/lessons/unit4/day8-genetic-engineering/" | relative_url }})
+- [Day 7 Sub-Page]({{ "/lessons/unit4/day-07/" | relative_url }})
+- [Day 8 Sub-Page]({{ "/lessons/unit4/day-08/" | relative_url }})
 - [Student View Page]({{ "/lessons/unit4/student-view/" | relative_url }})

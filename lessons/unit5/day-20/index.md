@@ -24,9 +24,6 @@ permalink: /lessons/unit5/day-20/
 - Chapter 16 review revisits biodiversity loss, conservation strategies, and sustainability.
 - This lesson combines data analysis with review so students can move from recall to evidence-based judgment.
 
-![Ecological footprint analysis](../../../images/unit5/cagan-sekercioglu-birds.jpg)
-"Chapter 16 review data focus: comparing ecological-footprint measures and interpreting impact carefully."
-
 ## In-Class Activities / Minilabs
 1. **Review warm-up (10 min):** Quick-check key Chapter 16 terms and contrasts.
 2. **Ecological-footprint analysis (25 min):** Compare per-capita and total-impact data and identify what each metric reveals.
