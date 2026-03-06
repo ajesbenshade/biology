@@ -65,3 +65,4 @@ In 2–3 sentences, identify one Chapter 16 concept you understand deeply and on
 
 ## Navigation
 - [← Back to Unit 5 Hub]({{ "/lessons/unit5/" | relative_url }})
+- [Teacher Guide (Day 21)]({{ "/resources/teacher-guides/unit5/day-21/" | relative_url }})

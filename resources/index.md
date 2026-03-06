@@ -56,6 +56,7 @@ Use this page to find student support materials and family communication documen
 - [Teacher Guide (Day 18): Human Impacts on Biodiversity and Conservation Strategies]({{ "/resources/teacher-guides/unit5/day-18/" | relative_url }})
 - [Teacher Guide (Day 19): Sustainability and Future Outlook]({{ "/resources/teacher-guides/unit5/day-19/" | relative_url }})
 - [Teacher Guide (Day 20): Unit Review and Error Analysis]({{ "/resources/teacher-guides/unit5/day-20/" | relative_url }})
+- [Teacher Guide (Day 21): Chapter 16 Review, Tuskless Elephants Synthesis, and Unit Reflection]({{ "/resources/teacher-guides/unit5/day-21/" | relative_url }})
 
 ## Family Communication
 - [Parent Letter]({{ "/resources/parent-letter/" | relative_url }})
