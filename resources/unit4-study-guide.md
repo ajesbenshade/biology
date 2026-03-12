@@ -80,4 +80,5 @@ Make sure you can:
 ## Study Strategy
 - Review vocabulary first.
 - Practice one diagram, one genetics problem, and one short-response question each session.
-- Use the [Unit 4 Hub]({{ "/lessons/unit4/" | relative_url }}) and [Unit 4 Worksheet Pack]({{ "/resources/unit4-day7-8-worksheet-pack/" | relative_url }}) for additional support.
+- Use the [Unit 4 Hub]({{ "/lessons/unit4/" | relative_url }}) and [Unit 4 Guided Practice Worksheets]({{ "/resources/unit4-guided-practice-worksheets/" | relative_url }}) for additional support.
+- Use the distributed practice days across Unit 4 to target one weak area at a time, then use Days 12–16 for final tightening before the Day 17 assessment.

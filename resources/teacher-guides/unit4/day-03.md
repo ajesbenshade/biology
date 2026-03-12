@@ -1,11 +1,11 @@
 ---
 layout: default
-title: "Teacher Guide: Unit 4 Day 3 – Gene Expression and Protein Synthesis"
-description: Complete teacher guide for Unit 4 Day 3, including lesson script, answer keys, biblical integration, and differentiation supports.
+title: "Teacher Guide: Unit 4 Day 3 – Gene Expression, Translation, and Codon Practice"
+description: Complete teacher guide for Unit 4 Day 3, including block pacing, answer keys, biblical integration, and classroom routines.
 permalink: /resources/teacher-guides/unit4/day-03/
 ---
 
-# Teacher Guide: Unit 4 Day 3 – Gene Expression and Protein Synthesis
+# Teacher Guide: Unit 4 Day 3 – Gene Expression, Translation, and Codon Practice
 
 > **For teacher use only.** This guide contains answer keys, lesson scripts, and grading notes not intended for student view.
 
@@ -26,7 +26,7 @@ Reinforce: The central dogma—DNA → RNA → protein—shows an ordered, consi
 - Explain translation: mRNA is read at the ribosome, using codons to assemble amino acids into a protein.
 - Use a codon table to predict amino acid sequences from mRNA codons.
 
-**Background for you:** The "central dogma" is just a name for information flow in cells: DNA makes RNA makes protein. Information flows one way (normally). The codon table is universal—nearly every organism uses the same code, which is powerful evidence of a common design.
+**Background for you:** The "central dogma" is just a name for information flow in cells: DNA makes RNA makes protein. Information flows one way (normally). Today also introduces the short clinic structure students will reuse later: solve, swap, locate the first error, and correct it precisely.
 
 ---
 
@@ -45,6 +45,15 @@ Reinforce: The central dogma—DNA → RNA → protein—shows an ordered, consi
 
 ---
 
+## Routine and Logistics Notes
+
+- Keep codon tables already on desks before students enter so the transition from mini-lesson to guided work is immediate.
+- During the codon clinic, Partner A decodes first while Partner B checks codon-table orientation; then partners switch roles on the next sequence.
+- Use one small dry-erase board or scratch strip per pair so corrections are visible during circulation.
+- Pull a 3-student reteach cluster during the second half of Guided Practice Block 2 if students continue to skip start or stop codons.
+
+---
+
 ## Bell Work Answer Key (10 min)
 
 **Question:** Explain how a cell uses DNA information to build proteins.
@@ -59,9 +68,16 @@ Reinforce: The central dogma—DNA → RNA → protein—shows an ordered, consi
 
 ---
 
-## Lesson Delivery Script (70 min)
+## Lesson Delivery Script (85 min)
 
-### 1. Mini-Lesson: Central Dogma (20 min)
+### 1. Bell Work and Launch (8 min)
+
+Students answer independently, then underline the step they feel least confident about.
+
+Transition cue:
+> "Underline your weak spot, hold your page at chest level, and keep it visible so I can sort who may need a quick check later."
+
+### 2. Mini-Lesson: Central Dogma (18 min)
 
 Write on board: **DNA → mRNA → Protein**
 
@@ -75,7 +91,10 @@ Say:
 **Why U instead of T in mRNA?**
 > "RNA uses uracil (U) instead of thymine (T). The chemical reason is that RNA is a temporary copy—uracil is slightly less stable than thymine, which is fine for a disposable messenger. It's a built-in system of distinctions."
 
-### 2. Guided Practice: Transcription and Translation (25 min)
+Transition cue:
+> "Codon tables out, flowcharts flat, partner roles set: A writes first, B checks first."
+
+### 3. Guided Practice Block 1 – Transcription and Translation (27 min)
 
 **Worked example to walk through on the board:**
 
@@ -91,7 +110,7 @@ Say:
 
 **Sentence stem for students:** "The DNA sequence ___ is transcribed as ___ mRNA, which translates to the amino acid ___."
 
-### 3. Codon Table Lab (10 min)
+### 4. Guided Practice Block 2 – Codon Clinic (22 min)
 
 Provide 3–4 short mRNA sequences. Students decode using the codon table.
 
@@ -103,7 +122,12 @@ Provide 3–4 short mRNA sequences. Students decode using the codon table.
 | `AUGCCGUAA` | AUG / CCG / UAA | Met / Pro / Stop |
 | `AUGCAGCUU` | AUG / CAG / CUU | Met / Gln / Leu |
 
-### 4. Debrief (5 min)
+Clinic protocol:
+- Round 1: decode normally.
+- Round 2: exchange with partner and mark the first error only.
+- Round 3: original student corrects and explains the fix aloud.
+
+### 5. Debrief and Exit Ticket (10 min)
 
 Ask: "What would happen if one base in the mRNA changed?"
 

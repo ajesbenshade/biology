@@ -1,11 +1,11 @@
 ---
 layout: default
-title: "Teacher Guide: Unit 4 Day 5 – Complex Inheritance Patterns"
-description: Complete teacher guide for Unit 4 Day 5, including lesson script, answer keys, biblical integration, and differentiation supports.
+title: "Teacher Guide: Unit 4 Day 5 – Complex Inheritance and Guided Problem Solving"
+description: Complete teacher guide for Unit 4 Day 5, including block pacing, answer keys, biblical integration, and classroom routines.
 permalink: /resources/teacher-guides/unit4/day-05/
 ---
 
-# Teacher Guide: Unit 4 Day 5 – Complex Inheritance Patterns
+# Teacher Guide: Unit 4 Day 5 – Complex Inheritance and Guided Problem Solving
 
 > **For teacher use only.** This guide contains answer keys, lesson scripts, and grading notes not intended for student view.
 
@@ -26,7 +26,7 @@ Human genetic diversity—varied blood types, blended flower colors, roan cattle
 - Model blood-type inheritance and interpret genotypes and phenotypes.
 - Compare Mendelian and non-Mendelian outcomes using data and evidence.
 
-**Background for you:** Mendel's simple dominant/recessive model is actually the exception rather than the rule. Most traits involve more nuance. This day builds critical thinking by showing that we always test models against evidence—and that God built flexibility and variety into the inheritance system He designed.
+**Background for you:** Mendel's simple dominant/recessive model is actually the exception rather than the rule. Most traits involve more nuance. This day also begins the clinic-style error-finding routine that will return later in the unit: identify the first wrong setup step, then fix only that step before finishing the problem.
 
 ---
 
@@ -46,6 +46,14 @@ Human genetic diversity—varied blood types, blended flower colors, roan cattle
 
 ---
 
+## Routine and Logistics Notes
+
+- Use table groups of three if possible: one solver, one checker, and one vocabulary monitor who listens for imprecise phenotype/genotype language.
+- Keep genotype cards sorted in small envelopes before class so the transition into the simulation is under 30 seconds.
+- During the clinic round, pull a short table conference for students who still confuse codominance and incomplete dominance after the first worked example.
+
+---
+
 ## Bell Work Answer Key (10 min)
 
 **Question:** Differentiate genotype and phenotype with one example.
@@ -61,9 +69,16 @@ Human genetic diversity—varied blood types, blended flower colors, roan cattle
 
 ---
 
-## Lesson Delivery Script (70 min)
+## Lesson Delivery Script (85 min)
 
-### 1. Direct Instruction: Three Complex Patterns (20 min)
+### 1. Bell Work and Launch (8 min)
+
+Students define genotype and phenotype independently, then compare with a partner only after you give the cue.
+
+Transition cue:
+> "If your example includes both the allele combination and the visible trait, you're ready to compare."
+
+### 2. Mini-Lesson: Three Complex Patterns (15 min)
 
 Write on board as you cover each:
 
@@ -93,7 +108,10 @@ Write on board as you cover each:
 
 Say: "These patterns don't contradict Mendel—they extend his work. God built flexibility into creation."
 
-### 2. Simulation: Blood-Type Inheritance Modeling (25 min)
+Transition cue:
+> "Cards out, Punnett sheets open, and assign your roles before I release you."
+
+### 3. Guided Practice Block 1 – Blood-Type Inheritance Modeling (27 min)
 
 Students complete Punnett squares for sample crosses. Walk them through the first one together:
 
@@ -116,7 +134,12 @@ Say: "All four blood types are possible from two parents who are type A and type
 
 Circulate and help with square setup. For struggling students: provide pre-filled squares with just the phenotype column blank.
 
-### 3. Comparison Task (10 min)
+Partner or triad protocol:
+- Solver fills the cross.
+- Checker verifies each genotype box.
+- Vocabulary monitor confirms that phenotype language only appears in the answer line.
+
+### 4. Guided Practice Block 2 – Comparison Task and Clinic Round (25 min)
 
 Students classify given examples as Mendelian, incomplete dominance, codominance, or multiple alleles.
 
@@ -129,7 +152,12 @@ Students classify given examples as Mendelian, incomplete dominance, codominance
 
 Say: "We choose the best model based on evidence—always test your assumptions about which pattern fits."
 
-### 4. Debrief (5 min)
+Clinic routine:
+- Students correct one flawed sample response.
+- They must underline the first place the reasoning becomes inaccurate.
+- Only after that correction may they complete the rest of the response.
+
+### 5. Debrief and Exit Ticket (10 min)
 
 Ask: "How can similar-looking phenotypes come from completely different mechanisms?"
 

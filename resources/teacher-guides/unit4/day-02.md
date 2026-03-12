@@ -1,11 +1,11 @@
 ---
 layout: default
-title: "Teacher Guide: Unit 4 Day 2 – DNA Structure and Replication"
-description: Complete teacher guide for Unit 4 Day 2, including lesson script, answer keys, biblical integration, and differentiation supports.
+title: "Teacher Guide: Unit 4 Day 2 – DNA Structure, Replication, and Error Checking"
+description: Complete teacher guide for Unit 4 Day 2, including block pacing, answer keys, biblical integration, and classroom routines.
 permalink: /resources/teacher-guides/unit4/day-02/
 ---
 
-# Teacher Guide: Unit 4 Day 2 – DNA Structure and Replication
+# Teacher Guide: Unit 4 Day 2 – DNA Structure, Replication, and Error Checking
 
 > **For teacher use only.** This guide contains answer keys, lesson scripts, and grading notes not intended for student view.
 
@@ -26,7 +26,7 @@ Emphasize: DNA replication shows precise, reliable order across billions of cell
 - Explain semi-conservative replication: each new DNA molecule has one original strand and one new strand.
 - Understand why high fidelity matters for stable inheritance across generations.
 
-**Background for you:** The "semi-conservative" name comes from the fact that each copy *conserves* half of the original. This was confirmed experimentally (Meselson-Stahl experiment, 1958)—worth mentioning as an example of testable science.
+**Background for you:** The "semi-conservative" name comes from the fact that each copy *conserves* half of the original. This was confirmed experimentally (Meselson-Stahl experiment, 1958). Today should also establish the Unit 4 error-check routine: verify strand direction, base pairing, then enzyme order.
 
 ---
 
@@ -46,6 +46,14 @@ Emphasize: DNA replication shows precise, reliable order across billions of cell
 
 ---
 
+## Routine and Logistics Notes
+
+- Keep partners in the same Day 1 seating pairs; assign Partner A as builder first and Partner B as checker first during the model build.
+- Use the phrase "Check direction, check pairs, check enzymes" every time students pause for error analysis.
+- During Guided Practice Block 2, pull one short teacher table of 4 students who reversed template and new strands during the model build; keep the reteach under 3 minutes, then send them back to retry the same step.
+
+---
+
 ## Bell Work Answer Key (10 min)
 
 **Question:** Sketch and label one DNA segment from memory (from Day 1).
@@ -59,9 +67,9 @@ Emphasize: DNA replication shows precise, reliable order across billions of cell
 
 ---
 
-## Lesson Delivery Script (70 min)
+## Lesson Delivery Script (85 min)
 
-### 1. Vocabulary Review (10 min)
+### 1. Bell Work and Vocabulary Review (8 min)
 
 Quick oral quiz on Day 1 terms. Suggested call-and-response:
 
@@ -71,7 +79,10 @@ Quick oral quiz on Day 1 terms. Suggested call-and-response:
 | "What is a gene?" | A section of DNA with instructions for one trait |
 | "How many chromosomes in a human body cell?" | 46 |
 
-### 2. Model Build (25 min)
+Transition cue:
+> "Point to the base pair you are least sure about, then pass your page one seat to the right for a 20-second partner check."
+
+### 2. Mini-Lesson and Model Build (15 min + 25 min)
 
 Students construct a DNA segment with labeled components.
 
@@ -80,7 +91,12 @@ Say:
 
 **Check for understanding:** Ask students to swap one base pair and explain why that would be a mutation.
 
-### 3. Replication Walk-Through (20 min)
+Partner protocol:
+- Partner A places bases for the first half of the model.
+- Partner B checks pairing and labels strand direction.
+- Switch roles for the second half.
+
+### 3. Guided Practice Block 2 – Replication Walk-Through and Error Checks (27 min)
 
 Walk through each step clearly:
 
@@ -96,7 +112,11 @@ Say:
 
 **Key analogy:** "It's like photocopying a page but using half the original ink in each copy—you always retain half the original."
 
-### 4. Optional Mini-Lab: Strawberry DNA Extraction (15 min)
+Pause twice for the class routine:
+- Pause 1: students whisper-check strand direction with partners.
+- Pause 2: students correct one flawed teacher sample before moving on.
+
+### 4. Optional Mini-Lab or Second-Pass Practice (15 min)
 
 Steps:
 1. Mash strawberry in bag with a small amount of detergent + water.
@@ -105,6 +125,12 @@ Steps:
 
 Say:
 > "That stringy material you see is actual DNA—real genetic material, visible to the naked eye. This is the same kind of molecule that carries every instruction for building a strawberry."
+
+If you skip the mini-lab, use this block for a second-pass correction sheet and a 3-minute teacher reteach table.
+
+### 5. Debrief and Exit Ticket (10 min)
+
+Have students complete the exit ticket silently, then compare only the "which step protects fidelity" part with a partner before you collect it.
 
 ---
 

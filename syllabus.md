@@ -25,7 +25,7 @@ Welcome to Biology with Aaron Esbenshade! This course covers Units 4 (Genetics) 
 Practice assignments may still be assigned regularly for reinforcement and readiness even when they are not recorded for points.
 
 ## Calendar
-- **Week 1-4:** Unit 4 (Genetics)
-- **Week 5-8:** Unit 5 (Evolution)
+- **Week 1-5:** Unit 4 (Genetics, guided practice, and assessment)
+- **Week 6-9:** Unit 5 (Evolution)
 
 For detailed daily plans, visit [Unit 4]({{ "/lessons/unit4/" | relative_url }}) and [Unit 5]({{ "/lessons/unit5/" | relative_url }}).

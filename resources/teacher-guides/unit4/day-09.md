@@ -1,11 +1,11 @@
 ---
 layout: default
-title: "Teacher Guide: Unit 4 Day 9 – Biotechnology Data Analysis"
-description: Complete teacher guide for Unit 4 Day 9, including gel interpretation keys, CER answer keys, biblical integration, and differentiation supports.
+title: "Teacher Guide: Unit 4 Day 9 – Biotechnology Data Analysis and CER Writing"
+description: Complete teacher guide for Unit 4 Day 9, including block pacing, gel interpretation keys, biblical integration, and classroom routines.
 permalink: /resources/teacher-guides/unit4/day-09/
 ---
 
-# Teacher Guide: Unit 4 Day 9 – Biotechnology Data Analysis
+# Teacher Guide: Unit 4 Day 9 – Biotechnology Data Analysis and CER Writing
 
 > **For teacher use only.** This guide contains answer keys, lesson scripts, and grading notes not intended for student view.
 
@@ -26,7 +26,7 @@ In data analysis, we resist the temptation to overstate conclusions or see what 
 - Guide students to write strong claim-evidence-reasoning (CER) responses from data.
 - Connect biotech ethics to biblical stewardship: healing applications are good; overreach and misuse are warnings.
 
-**Background for you:** PCR amplifies a specific DNA segment, producing many copies. Gel electrophoresis then separates those copies by size—smaller fragments travel farther through the gel toward the positive electrode. A "band" is where fragments of the same size collect. Controls are essential: a **positive control** (known sample that should produce a band) confirms the method worked; a **negative control** (water or blank sample) confirms no contamination. Results are only interpretable if controls behave correctly.
+**Background for you:** PCR amplifies a specific DNA segment, producing many copies. Gel electrophoresis then separates those copies by size. Controls are essential: a **positive control** confirms the method worked and a **negative control** confirms no contamination. Today should also teach students to separate evidence from reasoning cleanly before they reach the later cumulative writing days.
 
 ---
 
@@ -47,6 +47,15 @@ In data analysis, we resist the temptation to overstate conclusions or see what 
 
 ---
 
+## Routine and Logistics Notes
+
+- Keep the gel images face down until the mini-lesson starts so students do not jump ahead without the control reminder.
+- In pair work, Partner A names the claim and evidence first; Partner B tests whether the reasoning actually explains why the evidence supports the claim.
+- During the CER block, glance at every pair's evidence sentence before they move to reasoning.
+- Pull a small reteach cluster during the writing block if students keep treating any band as success without control comparison.
+
+---
+
 ## Bell Work Answer Key (8 min)
 
 **Prompt:** Interpret this gel description:
@@ -60,9 +69,16 @@ In data analysis, we resist the temptation to overstate conclusions or see what 
 
 ---
 
-## Lesson Delivery Script (70 min)
+## Lesson Delivery Script (85 min)
 
-### 1. Guided Analysis Demo (20 min)
+### 1. Bell Work and Launch (8 min)
+
+Students highlight the control that matters most in the warm-up and explain why in one sentence.
+
+Transition cue:
+> "Highlighter down, gel packet open, and stay silent until the control lanes are labeled on the board."
+
+### 2. Guided Analysis Demo (15 min)
 
 Project a labeled gel image on the board (or draw one). Walk through each element:
 
@@ -91,9 +107,12 @@ Say:
 
 > "Does any band mean success? No. A band in the wrong lane (negative control) means contamination. A band at the wrong size means a different fragment is present. Size and controls both matter."
 
-### 2. Small-Group Data Sets (25 min)
+Transition cue:
+> "Before you begin, each pair must point to the positive control and negative control on your first scenario."
 
-Groups work through two scenarios. Circulate and prompt with: "What specific data point supports your claim?" and "What would the negative control look like if your method had contamination?"
+### 3. Guided Practice Block 1 – Small-Group Data Sets (27 min)
+
+Groups work through one full scenario and one shorter comparison item. Circulate and prompt with: "What specific data point supports your claim?" and "What would the negative control look like if your method had contamination?"
 
 **Scenario A — GMO crop resistance test (sample answer key):**
 
@@ -111,16 +130,18 @@ Gel description: Ladder, positive control at 300 bp, negative control (no band),
 - Struggling learners: Provide pre-highlighted gel images with bands already circled; students identify size and compare to controls only.
 - Advanced: Ask students to propose a question this gel cannot answer (e.g., "Does the gene insert produce a functional protein?") and what additional experiment would be needed.
 
-### 3. CER Draft + Peer Check (12 min)
+### 4. Guided Practice Block 2 – Modeled CER and Homework Launch (25 min)
 
-Students write a full CER for their strongest scenario. Partners swap and annotate:
-- Is the claim falsifiable? (Could you design an experiment to disprove it?)
-- Is the evidence specific? (Does it include actual data values—bp sizes, lane numbers?)
-- Does the reasoning connect the evidence to the claim—or just restate the evidence?
+Build one class CER together from the strongest shared dataset, then ask students to draft only the claim and evidence sentence they will use for homework.
 
-Say: "Strong reasoning explains *why* the evidence means what you claim. 'The band at 400 bp matches the control' is evidence. 'This match shows the same-size fragment is present, making contamination unlikely' is reasoning."
+Say: "Strong reasoning explains *why* the evidence means what you claim. Today we will model that together so homework practice starts from a strong example instead of a rushed guess."
 
-### 4. Debrief + Ethics Tie (5–10 min)
+Peer protocol:
+- Writer reads the claim aloud.
+- Partner checks evidence for specificity only.
+- Writer revises one sentence before recording the homework plan.
+
+### 5. Debrief + Ethics Tie (10 min)
 
 Share one or two strong evidence statements from student work. Then:
 
@@ -131,9 +152,9 @@ Say:
 
 ## Exit Ticket Answer Key
 
-**Question:** What was your strongest evidence for your CER claim today?
+**Question:** What is one specific data detail you can cite when you finish your homework CER tonight?
 
-**Strong answer example:** "My strongest evidence was that a band appeared at 400 bp in my experimental sample, matching the positive control at 400 bp, while the negative control lane was blank—ruling out contamination."
+**Strong answer example:** "I can cite that the band in lane 4 appeared at 400 bp, matching the positive control at 400 bp, while the negative control lane was blank."
 
 **Grading:** 5 pts. Full credit for a specific data reference (size, lane, control comparison). Deduct 3 pts for vague answers ("I saw a band").
 
@@ -144,7 +165,7 @@ Say:
 | Assignment | Points | Key Criteria |
 |-----------|--------|-------------|
 | Corrected missed data-interpretation items | 10 pts | Corrections include reasoning, not just new answers |
-| Extension analysis — new scenario CER | 5 pts | All three CER components present; evidence is specific |
+| Homework CER — assigned scenario | 5 pts | Claim, evidence, and reasoning all present; evidence is specific |
 | Unit 4 review packet (start/completion) | Completion | All sections attempted |
 
 **Rubric for extension CER:**
@@ -152,7 +173,7 @@ Say:
 - Reasoning logic (connects evidence to claim): 30%
 - Accuracy of interpretation: 20%
 
-**Strong extension CER example:**
+**Strong homework CER example:**
 > "Claim: The patient sample does not contain the viral DNA. Evidence: No band appears in the patient sample lane; the positive control shows a clear band at 350 bp and the negative control shows no band, confirming the method functioned correctly. Reasoning: Because the positive control confirms amplification would have occurred if the target DNA were present, and no band appeared in the patient sample, we can conclude the viral sequence was absent in this sample."
 
 ---

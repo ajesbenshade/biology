@@ -1,11 +1,11 @@
 ---
 layout: default
-title: "Teacher Guide: Unit 4 Day 10 – Lab Skills and Mixed Practice"
+title: "Teacher Guide: Unit 4 Day 10 – Mixed Practice Workshop and Small-Group Support"
 description: Complete teacher guide for Unit 4 Day 10, including station answer keys, lesson script, biblical integration, and differentiation supports.
 permalink: /resources/teacher-guides/unit4/day-10/
 ---
 
-# Teacher Guide: Unit 4 Day 10 – Lab Skills and Mixed Practice
+# Teacher Guide: Unit 4 Day 10 – Mixed Practice Workshop and Small-Group Support
 
 > **For teacher use only.** This guide contains answer keys, lesson scripts, and grading notes not intended for student view.
 
@@ -25,7 +25,7 @@ Diligent practice reflects integrity. God upholds creation's order with perfect 
 - Reinforce codon decoding, Punnett squares and chi-square reasoning, replication structure labeling, and mutation classification.
 - Build error-checking habits for scientific reliability.
 
-**Background for you:** This is a consolidation day—no new content. The goal is fluency and accuracy across the unit's major skills before the Day 11 error-analysis session and Day 12 assessment. Watch for patterns in errors across the class; these inform your Day 11 focus.
+**Background for you:** This is a consolidation day—no new content. The goal is fluency and accuracy across the unit's major skills before the Day 11 error-analysis session and the shorter mastery runway in Days 12-16. Watch for patterns in errors across the class; these inform your reteach priorities.
 
 ---
 
@@ -126,14 +126,14 @@ Students classify examples as point mutation or frameshift, and evaluate likely 
 
 ---
 
-## Lesson Delivery Script (70 min)
+## Lesson Delivery Script (85 min)
 
 ### 1. Frame the Day (3 min before stations)
 
 Say:
 > "Today is not about new information—it's about fluency. The same way a musician practices scales before playing a piece, we practice the skills before we demonstrate mastery on the assessment. Work carefully, not just quickly. Write justifications—not just answers."
 
-### 2. Practice Stations (40 min — 4 rotations of ~10 min)
+### 2. Practice Stations (30 min — 4 rotations with one station shortened)
 
 Rotate groups on a signal. As you circulate:
 - Station 1: Watch for codon table navigation errors.
@@ -143,14 +143,16 @@ Rotate groups on a signal. As you circulate:
 
 Prompt for any station: "Can you show me which part of your evidence supports that answer?"
 
-### 3. Partner Error-Check (15 min)
+### 3. Partner Error-Check and Pull-Group Support (25 min)
 
 Students trade papers with a partner. Annotate corrections using: ✓ (correct), ? (unclear), ✗ + correction needed.
+
+During this block, pull one short teacher group based on the earliest station errors. Keep the group narrow: one skill, one correction, one new try.
 
 Say:
 > "Kind, specific feedback builds mastery. 'This is wrong' is not feedback. 'The codons should be read AUG/CCU, not AU/GCC—start with the A' is feedback."
 
-### 4. Wrap-Up Synthesis Challenge (7 min)
+### 4. Wrap-Up Synthesis Challenge (10 min)
 
 **Challenge problem:** "A mutation in the helicase gene prevents helicase from unzipping DNA. What happens to DNA replication? What happens to the organism's cells?"
 
@@ -215,7 +217,7 @@ Say:
 
 ## Planning Note
 
-After collecting station work, sort errors by category. Students who consistently struggled with one station type (e.g., frameshift reasoning) should be your Day 11 small-group focus. This makes your error-analysis session targeted rather than a full re-teach.
+After collecting station work, sort errors by category. Students who consistently struggled with one station type (e.g., frameshift reasoning) should be your Day 11 and Day 12 small-group focus. This keeps the distributed support sequence targeted rather than turning the mastery runway into a generic repeat.
 
 ---
 

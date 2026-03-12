@@ -1,11 +1,11 @@
 ---
 layout: default
-title: "Teacher Guide: Unit 4 Day 8 – Genetic Engineering Applications and Ethics"
-description: Complete teacher guide for Unit 4 Day 8, including lesson script, answer keys, biblical integration, and differentiation supports.
+title: "Teacher Guide: Unit 4 Day 8 – Genetic Engineering Applications and Data Reasoning"
+description: Complete teacher guide for Unit 4 Day 8, including block pacing, answer keys, biblical integration, and classroom routines.
 permalink: /resources/teacher-guides/unit4/day-08/
 ---
 
-# Teacher Guide: Unit 4 Day 8 – Genetic Engineering Applications and Ethics
+# Teacher Guide: Unit 4 Day 8 – Genetic Engineering Applications and Data Reasoning
 
 > **For teacher use only.** This guide contains answer keys, lesson scripts, and grading notes not intended for student view.
 
@@ -26,7 +26,7 @@ Genetic engineering represents one of the most powerful capabilities humans have
 - Evaluate biotechnology scenarios using evidence and scientific reasoning.
 - Communicate claims with clear vocabulary and data support.
 
-**Background for you:** Recombinant DNA simply means combining DNA from different sources. The basic method: cut DNA with restriction enzymes, insert a gene of interest into a vector (like a plasmid), and introduce the recombinant plasmid into a host cell (like bacteria) that then produces the desired protein. Insulin for diabetics has been made this way since the early 1980s—a clear example of life-serving application.
+**Background for you:** Recombinant DNA simply means combining DNA from different sources. The basic method: cut DNA with restriction enzymes, insert a gene of interest into a vector (like a plasmid), and introduce the recombinant plasmid into a host cell (like bacteria) that then produces the desired protein. Today should push students to ask which data would justify a biotechnology claim, not just whether the claim sounds persuasive.
 
 ---
 
@@ -47,6 +47,15 @@ Genetic engineering represents one of the most powerful capabilities humans have
 
 ---
 
+## Routine and Logistics Notes
+
+- Use assigned table groups of four with fixed roles: reader, evidence finder, recorder, and reporter.
+- During the case block, require every group to list one evidence statement before any ethical concern is shared aloud.
+- During the virtual lab, circulate first to groups that were weakest on the Day 7 checkpoint so the data-reasoning support happens early.
+- Reserve the last 3 minutes of Guided Practice Block 2 for a whole-class reset before the debrief.
+
+---
+
 ## Bell Work Answer Key (8 min)
 
 **Question:** Name one claimed benefit and one potential limitation of gene editing (from prior days).
@@ -64,9 +73,16 @@ Genetic engineering represents one of the most powerful capabilities humans have
 
 ---
 
-## Lesson Delivery Script (70 min)
+## Lesson Delivery Script (85 min)
 
-### 1. Key Terms and Applications (20 min)
+### 1. Bell Work and Launch (8 min)
+
+Students identify a benefit and limitation independently, then rank which statement is best supported by evidence.
+
+Transition cue:
+> "Table roles in place, notes open, and your best-supported statement starred before we start the mini-lesson."
+
+### 2. Key Terms and Applications (15 min)
 
 **Recombinant DNA**
 - Definition: DNA that has been formed by combining segments from different organisms or sources.
@@ -93,24 +109,25 @@ Say:
 Say:
 > "In 2023, the FDA approved the first CRISPR-based treatment for sickle cell disease—editing patients' own blood stem cells. That's somatic editing. Germline editing of human embryos is a different category, with much less consensus and much higher stakes."
 
-### 2. Pros/Cons Debate (25 min)
+Transition cue:
+> "Scenario folders out. Reader starts, evidence finder listens for the first data claim."
+
+### 3. Guided Practice Block 1 – Scenario Analysis (25 min)
 
 Divide class into groups. Assign each group one scenario:
 
 **Scenario A:** CRISPR to treat sickle cell disease in a 16-year-old patient (somatic therapy).
 **Scenario B:** Engineering bacteria to produce a malaria vaccine protein at low cost for sub-Saharan Africa.
 **Scenario C:** Modifying wheat to be drought-resistant for food security in arid regions.
-**Scenario D:** Using CRISPR to edit an embryo to remove a gene associated with an inherited disease.
-
 Groups complete debate outline (Scientific support column / Ethical concern column) and select one spokesperson.
 
 **Debrief:** Ask each group for one scientific point and one ethical point. Tie together:
 
 > "Notice that the evidence question and the ethics question are both real—and they're separate. We need both honest data and wise values to make good decisions."
 
-### 3. Virtual Lab: Gene Insertion Simulation (20 min)
+### 4. Guided Practice Block 2 – Gene Insertion Map and Data Reasoning (27 min)
 
-Walk through (or have students work through) a gene insertion simulation:
+Walk through a labeled gene insertion map rather than asking students to draw every step from scratch:
 
 **Steps to identify:**
 1. Restriction enzyme cuts the plasmid and the target DNA at matching recognition sequences.
@@ -119,7 +136,7 @@ Walk through (or have students work through) a gene insertion simulation:
 4. Recombinant plasmid is introduced into a bacterial host cell.
 5. Bacteria reproduce; each offspring carries the plasmid and expresses the inserted gene.
 
-**Student recording:** Have students draw and label each step and predict: "If this step fails, what happens?"
+**Student recording:** Have students label the provided diagram and predict: "If this step fails, what happens?"
 
 **Answer key for failure points:**
 - Wrong restriction enzyme → no complementary sticky ends → fragments won't join
@@ -127,7 +144,12 @@ Walk through (or have students work through) a gene insertion simulation:
 - Plasmid not taken up by bacteria → no production of desired protein
 - Insert is backward → protein is mistranslated
 
-### 4. Debrief / Evidence Synthesis (5 min)
+Partner protocol inside groups:
+- Recorder labels the diagram step.
+- Evidence finder names what data would show the step worked.
+- Reporter prepares one concise summary for the debrief.
+
+### 5. Debrief / Evidence Synthesis (10 min)
 
 Ask: "Which biotechnology application had the strongest data support in today's examples?"
 

@@ -1,198 +1,167 @@
 ---
 layout: default
-title: "Teacher Guide: Unit 4 Day 12 – Unit Assessment and Wrap-Up"
-description: Complete teacher guide for Unit 4 Day 12, including assessment logistics, reflection facilitation, biblical integration, and Unit 5 bridge notes.
+title: "Teacher Guide: Unit 4 Day 12 – Cumulative Skill Workshop and Reteach"
+description: Teacher guide for Unit 4 Day 12, including flexible grouping, workshop stations, conferencing, and support planning for the final mastery runway.
 permalink: /resources/teacher-guides/unit4/day-12/
 ---
 
-# Teacher Guide: Unit 4 Day 12 – Unit Assessment and Wrap-Up
+# Teacher Guide: Unit 4 Day 12 – Cumulative Skill Workshop and Reteach
 
-> **For teacher use only.** This guide contains grading guidance, reflection facilitation notes, and Unit 5 bridge notes not intended for student view.
+> **For teacher use only.** This guide contains workshop structure, conferencing guidance, and reteach planning notes not intended for student view.
 
 ---
 
 ## Scripture Focus
 
-**Psalm 139:14**
-> "I praise you because I am fearfully and wonderfully made; your works are wonderful, I know that full well."
+**Proverbs 12:1**
+> "Whoever loves discipline loves knowledge, but whoever hates correction is stupid."
 
-Close the unit where it began: awe at the design of living things. Students have spent twelve days studying the mechanism behind "fearfully and wonderfully made"—DNA, genes, proteins, inheritance patterns, and biotechnology. Today's assessment is an opportunity to demonstrate that understanding. Reflection afterward invites gratitude for what they've learned.
+Today is about loving correction because correction leads to knowledge. Students have already encountered the core Unit 4 content and several checkpoints; this day gives them space to repair the last misunderstandings before they are asked to demonstrate final mastery.
 
 ---
 
 ## Teacher Objectives
 
-- Administer the Unit 4 summative assessment fairly, consistently, and without unnecessary stress.
-- Facilitate a meaningful reflection that connects mastery to growth and gratitude.
-- Provide a clear and engaging bridge to Unit 5.
+- Use recent performance data to group students for efficient reteach.
+- Rebuild confidence through high-success, high-feedback practice.
+- Identify which students are ready for independent practice and which still need Day 13-16 support.
 
-**Background for you:** This day is logistically straightforward, but the wrap-up and bridge moments matter for culture. Students who leave the unit with a sense of accomplishment—and curiosity about what comes next—are more engaged learners. The reflection is not optional filler; it reinforces the habit of honest self-evaluation that good scientists and people of faith hold in common.
+**Background for you:** This day should feel practical, not punitive. Students already know the broad content of the unit because support has been distributed across the earlier lessons; what they need now is targeted repetition, corrected models, and short feedback loops. The goal is not to reteach everything. The goal is to remove the handful of errors that would otherwise keep them from showing what they actually know on Days 16-17.
 
 ---
 
 ## Key Biblical Integration Points
 
-- "Assess with integrity. Show what you know honestly—neither inflating nor selling yourself short. Your mastery belongs to God; demonstrate it faithfully."
-- "Celebrate growth as God's gift. Four weeks ago many of you couldn't explain what a gene was. Today you can discuss DNA replication enzymes, pedigree inheritance modes, and CRISPR ethics. That growth is worth pausing to recognize."
-- At wrap-up: "Genetics reveals the mechanism behind the words 'fearfully and wonderfully made.' We've seen the instruction book—and it has made the Psalmist's praise more informed."
+- "Correction is not a detour from learning; it is part of learning."
+- "Students do not need to prove they never struggled. They need to respond faithfully to feedback and keep moving toward mastery."
+- "A workshop day still belongs to God. Patience, honesty, and perseverance are part of the stewardship of our minds."
 
 ---
 
 ## Materials & Preparation
 
-- Printed Unit 4 assessment (Chapters 11–13 aligned; see note on alignment below).
-- Reflection sheets (one per student—see prompts in the Wrap-Up section).
-- Unit 5 preview slide or brief overview card (optional).
-- Quiet, distraction-minimized testing environment.
+- Station materials for four practice rotations: codon decoding, inheritance and chi-square, pedigrees, biotechnology data interpretation.
+- Color-coded group list based on Day 10–11 performance.
+- One-page conference tracker for short teacher check-ins.
+- Corrected model responses for each station.
 
 ---
 
-## Assessment Alignment Notes
+## Routine and Logistics Notes
 
-The assessment should cover the following Unit 4 major targets:
-
-| Chapter | Skill/Concept | Question Type |
-|---------|--------------|---------------|
-| Ch. 11 | DNA structure, base pairing | Label/diagram or short answer |
-| Ch. 11 | DNA replication steps and enzymes | Sequence/matching |
-| Ch. 11 | Transcription and translation, codon decoding | Calculation/decode |
-| Ch. 12 | Mendelian inheritance, Punnett squares | Calculation |
-| Ch. 12 | Chi-square interpretation | Calculation + interpretation |
-| Ch. 12 | Complex inheritance (incomplete dominance, codominance, multiple alleles) | Short answer |
-| Ch. 12 | Pedigree reading, sex-linked vs. autosomal | Diagram analysis |
-| Ch. 13 | Gel electrophoresis band interpretation | Data analysis |
-| Ch. 13 | PCR, CRISPR, recombinant DNA — basic functions | Matching/short answer |
-| All | CER writing on genetics or biotech topic | Extended response |
+- Post station directions before class so students can move immediately after the launch.
+- Keep rotations flexible. Students do not need to visit every station; they need the stations that target their real errors.
+- Use the cue "finish the line you are on, then rotate" to avoid mid-solution disruption.
+- Keep conferences short: one misconception, one correction, one next step.
+- Require every student to leave each station with one checked answer and one written takeaway so the block produces evidence of progress.
 
 ---
 
-## Bell Work / Opening Routine (5 min)
+## Bell Work Answer Key (8 min)
 
-Keep this minimal—do not introduce stress.
+**Prompt:** Which Unit 4 skill still needs the most work for you: codons, inheritance setup, pedigree interpretation, or biotechnology data? Give one concrete reason.
 
-Suggested routine:
-1. Students take their seats quietly; assessment is face-down on desks.
-2. Brief prayer (suggested text below).
-3. State expectations ( academic integrity, silence, raise hand for questions).
-4. Begin.
+**Strong answers:**
+- "Biotechnology data still needs work because I sometimes forget to compare my sample to the controls before I write a claim."
+- "Chi-square still needs work because I know the formula, but I sometimes divide incorrectly in each category."
+- "Pedigrees still need work because I rush to label a trait recessive before checking every generation."
 
-**Optional opening prayer (read aloud or invite a student):**
-> "Lord, we've spent weeks studying the design You built into every living thing. May we demonstrate that understanding honestly today. Help us think clearly, show our work, and be fair about what we know and what we're still learning. Amen."
+**Grading:** 5 pts. Award full credit for naming a real skill target and giving a concrete reason connected to class work, not just "it's hard."
 
 ---
 
-## Assessment Logistics
+## Lesson Delivery Script (85 min)
 
-| Item | Guideline |
-|------|----------|
-| Time | 45–60 min (adjust based on your schedule) |
-| Materials allowed | Pencil; codon table if you allow it (teacher's call) |
-| Accommodations | Follow IEP/504 plans; extended time students should have a plan in place |
-| Early finishers | Reflection sheet (below); do not allow internet or other work that creates distraction |
-| Collect | All papers before releasing students |
+### 1. Bell Work and Goal Set (8 min)
 
-**Note on codon tables:** Consider whether to provide them. Providing the codon table shifts the assessment toward reasoning (can students *use* the table correctly?) rather than memorization. This is generally the more authentic scientific skill.
+Students identify their weakest strand independently, then compare goals with one partner only after the silent work window.
 
----
+Transition cue:
+> "Circle the strand you most need to improve, star one reason why, and bring only that paper and a pencil when I release you to stations."
 
-## Wrap-Up / Reflection (15 min)
+### 2. Mini-Reteach (12 min)
 
-After collecting assessments, distribute reflection sheets. Give students genuine time—don't rush this.
+Model two common corrections pulled from Day 11 errors.
 
-**Reflection prompts and facilitation notes:**
+Suggested pair:
+- a chi-square setup error
+- a biotechnology CER evidence error
 
-**Prompt 1:** "What is one Unit 4 concept you can now explain clearly with evidence?"
+Say:
+> "Today is not about doing everything again. It is about fixing the few patterns that still cost you points."
 
-- Guide: "This is not a trick question. Think of a topic you'd be comfortable explaining to a younger student. What would you say?"
-- Purpose: Consolidates confidence in actual mastery; builds metacognitive awareness.
+### 3. Guided Practice Block 1 – Targeted Rotations (30 min)
 
-**Prompt 2:** "What is one area where you're still uncertain? What question do you still have?"
+Students visit two targeted stations. Recommended timing is 14 minutes per station plus a 2-minute reset.
 
-- Guide: "Uncertainty is honest and scientific. Name something specific—not 'all of it.'"
-- Purpose: Normalizes continued questioning; prepares for Unit 5 and potential reteach needs.
+Teacher moves:
+- Start with the students who most need direct help.
+- Require students to show the first fully worked problem before they continue.
+- Move students early if they demonstrate clean mastery and need mixed practice instead.
 
-**Prompt 3:** "How has studying genetics changed or deepened how you think about living things—including yourself?"
+### 4. Guided Practice Block 2 – Second Pass and Conferences (25 min)
 
-- Guide: "Think about Psalm 139:14. Does 'fearfully and wonderfully made' mean something different to you now than it did on Day 1?"
-- Purpose: Integrates faith and learning; closes the unit with wonder and gratitude.
+Students revisit their weakest strand or move into mixed review while you pull short conferences.
 
-**Brief class share:** Ask 3–4 volunteers to share their answer to Prompt 1 or 3. Keep it positive and brief—this is celebration, not reteaching.
+Conference script:
+- "What error are you correcting today?"
+- "Show me the line where the error begins."
+- "What will you do differently on Day 13 or Day 16 so this mistake does not return?"
 
----
+### 5. Debrief and Goal Setting (10 min)
 
-## Unit 5 Bridge (5 min)
-
-Preview what's coming without overwhelming. Adjust to your Unit 5 topic.
-
-**If Unit 5 is Ecology:**
-Say: "Genetics explains *how* traits are inherited and expressed within organisms. Ecology zooms out—how do those organisms interact with each other and with their environment? God's design doesn't stop at the cell; it continues at the ecosystem level."
-
-**If Unit 5 is Body Systems:**
-Say: "Genes code for proteins, and proteins run your body. Unit 5 connects molecular biology to what you can actually observe in living people—how systems work together and what happens when they don't."
-
-**If Unit 5 is Evolution (in whatever framing your school uses):**
-Say: "We've studied how genetic variation is produced and inherited. Unit 5 will look at what happens to those variations in populations over time—and we'll continue to separate observed evidence from interpretation carefully."
+Students complete a written goal note naming one correction they made, one skill still to watch, and one resource they will use next.
 
 ---
 
-## Post-Assessment: What to Do with Results
+## Key Teaching Moves
 
-**Before scoring:**
-- Note which questions were left blank across many students (test clarity issue vs. knowledge gap).
-- Note which question types clustered errors (e.g., all chi-square problems wrong—systematic misunderstanding).
-
-**After scoring:**
-- Share aggregate results (not individual grades publicly) to inform any reteaching need.
-- Consider a targeted 10-min reteach in the first day of Unit 5 for any concept where fewer than 60% of students scored correctly.
-
-**Optional corrections policy:**
-- Allow corrections for up to half credit within one week.
-- Require students to write: Original answer | Error type | Corrected answer | Why this is correct.
-- This reinforces the error-analysis habit from Day 11 and improves long-term retention.
+- Keep groups flexible. If a student demonstrates quick mastery, move that student to a stronger mixed-practice set.
+- Require concrete evidence in verbal answers: a codon, a ratio, a control result, or a pedigree clue.
+- Limit each teacher conference to one misconception, one correction, and one next step.
 
 ---
 
-## Grading Notes
+## Common Confusions to Watch
 
-- Score to your rubric; do not adjust standards during scoring.
-- CER extended response: grade for claim quality, evidence specificity, and reasoning logic—not for a particular viewpoint on biotech ethics.
-- Partial credit on calculation problems: award points for correct setup even if arithmetic error causes wrong final answer.
-- If a student's reflection (if collected) reveals a deep misconception about a graded concept, address 1:1—do not let it affect the test score, but do address it.
+| Concept | Likely Misstep |
+|---------|----------------|
+| Codon decoding | Wrong table orientation or forgotten stop codons |
+| Chi-square | Dividing after summing instead of per category |
+| Pedigrees | Declaring a pattern too early without checking all generations |
+| Gel interpretation | Ignoring controls or citing only one lane |
+| CER reasoning | Restating evidence instead of explaining why it supports the claim |
 
 ---
 
-## Common Confusions (Post-Assessment)
+## Exit Ticket Answer Key
 
-These are the most likely sources of lost points. Review with your class when returning assessments:
+**Prompt:** Name one correction you made today, one skill you still need tomorrow, and one piece of evidence that shows progress.
 
-| Concept | What students often miss |
-|---------|------------------------|
-| Codon decoding | Reading the table in the wrong orientation; forgetting UAA/UAG/UGA are stop codons |
-| Chi-square | Computing the sum before dividing per category |
-| Gel interpretation | Not referencing controls in their explanation |
-| CER reasoning | Restating evidence rather than explaining why it supports the claim |
-| Complex inheritance | Confusing codominance (both traits visible) with incomplete dominance (blended phenotype) |
+**Strong answer:** "I corrected my chi-square setup by dividing each category separately before summing. I still need one more round with pedigrees because I rush the inheritance claim. My evidence of progress is that I solved the second chi-square problem without teacher help and explained what the value means."
+
+**Grading:** 5 pts. Full credit requires all three parts and at least one concrete example from station work or a conference.
 
 ---
 
 ## Differentiation
 
-- **Advanced students:** Offer the optional correction set as a genuine extension—not just fixing errors, but adding a deeper explanation or connecting to a real-world example for each concept they missed.
-- **Struggling learners:** If you return assessments, walk through the top two error types 1:1 before beginning Unit 5. The investment is small and prevents compounding gaps.
-- **Students with accommodation plans:** Ensure extended time, distraction-reduced setting, and any oral response options have been arranged in advance—not improvised on test day.
+- **Advanced:** Move to a mixed review station where students justify which Unit 4 tool or representation best fits a problem.
+- **Support:** Give a narrowed checklist at each station with only the must-hit steps and one model answer to compare against.
+- **ELL support:** Use sentence frames such as "The error begins at ___ because ___. The correction is ___."
 
 ---
 
-## Grading Rubric (CER Extended Response)
+## Planning Note for Days 13–16
 
-| Component | 4 – Full Credit | 3 – Mostly There | 2 – Partial | 1 – Minimal |
-|-----------|----------------|-----------------|-------------|-------------|
-| Claim | Clear, specific, testable statement | Somewhat specific | Vague | Missing or off-topic |
-| Evidence | Specific data cited (size, lane, ratio, etc.) | General data reference | "I saw evidence" | No data |
-| Reasoning | Explains *why* evidence supports claim | Partial logical connection | Restates evidence | Missing |
+Use today's conference notes to sort students into three broad groups:
+
+- ready for mixed cumulative practice
+- needs support in one primary area
+- needs daily teacher check-ins before the assessment
 
 ---
 
-## Prayer Close (optional — after reflection share)
+## Prayer Close (optional)
 
-> "Lord, thank You for these weeks of study. Thank You for the design You placed in every cell, every chromosome, and every inherited trait. Thank You for minds that can explore what You've made. As we move forward, may we carry the habit of careful observation, honest interpretation, and humble conclusions—in science and in life. Amen."
+> "Lord, thank You for giving students time to grow through correction and practice. Help us use today's feedback wisely, work honestly, and keep moving toward mastery with humility. Amen."

@@ -1,11 +1,11 @@
 ---
 layout: default
-title: "Teacher Guide: Unit 4 Day 11 – Review and Error Analysis"
+title: "Teacher Guide: Unit 4 Day 11 – Error Analysis and Targeted Reteach"
 description: Complete teacher guide for Unit 4 Day 11, including misconception keys, workshop structure, biblical integration, and differentiation supports.
 permalink: /resources/teacher-guides/unit4/day-11/
 ---
 
-# Teacher Guide: Unit 4 Day 11 – Review and Error Analysis
+# Teacher Guide: Unit 4 Day 11 – Error Analysis and Targeted Reteach
 
 > **For teacher use only.** This guide contains answer keys, lesson scripts, and grading notes not intended for student view.
 
@@ -24,9 +24,9 @@ Bring this closer: the order we've spent four weeks studying—DNA, genes, repli
 
 - Identify and correct the most common Unit 4 errors using anonymized examples.
 - Strengthen scientific vocabulary and evidence use in written explanations.
-- Build student confidence and readiness for Day 12 summative assessment.
+- Build student confidence and readiness for the shorter final mastery sequence that leads to the Day 17 summative assessment.
 
-**Background for you:** Use the pattern of errors from Day 10 station work to focus today. If most students struggled with chi-square, spend more time there. If replication labeling was strong, move quickly. Today's efficiency depends on targeted—not universal—reteaching.
+**Background for you:** Use the pattern of errors from Days 4, 7, 9, and 10 to focus today. If most students struggled with chi-square, spend more time there. If replication labeling was strong, move quickly. Today's efficiency depends on targeted—not universal—reteaching, because Days 12-16 are now a mastery runway, not the first major review window.
 
 ---
 
@@ -77,7 +77,7 @@ Use this to select which anonymized examples to display:
 
 ---
 
-## Lesson Delivery Script (70 min)
+## Lesson Delivery Script (85 min)
 
 ### 1. Misconception Review (20 min)
 
@@ -109,7 +109,7 @@ Correct: "A frameshift shifts the reading frame from the insertion/deletion poin
 Wrong: "The phenotype of this plant is Tt."
 Correct: "Tt is the genotype (the allele combination). The phenotype is 'tall' (the observable trait resulting from the dominant T allele)."
 
-### 2. Workshop: Small-Group Error Analysis and Revision (25 min)
+### 2. Workshop: Small-Group Error Analysis and Revision (27 min)
 
 Distribute the review worksheet and anonymized response sets. Groups:
 1. Identify the error(s) in each sample.
@@ -120,9 +120,9 @@ Circulate. For struggling groups, prompt: "Which term did the student use incorr
 
 For advanced groups: "Could you design a follow-up question that would reveal whether the student who wrote this actually understands the correction?"
 
-### 3. Readiness Check (12 min)
+### 3. Readiness Check and Immediate Correction (25 min)
 
-Administer as low-stakes in-class practice (not graded for a major score—use for your diagnostic purposes).
+Administer the first half as low-stakes in-class practice, then require students to correct at least one missed item before they leave the block.
 
 **Sample items and answers for the readiness check:**
 
@@ -196,7 +196,7 @@ After: "The band at 300 bp in the experimental lane matches the positive control
 
 ## Planning Note for Day 12
 
-After reviewing the readiness check results, group students mentally by readiness level. Strong students can be given the extension option on the assessment. Students with persistent errors in one category may benefit from a modified starting point or a targeted verbal check-in before the test begins.
+After reviewing the readiness check results, group students mentally by readiness level. Strong students can move quickly into extension problems on Day 12, while students with persistent errors should begin the cumulative workshop with a targeted station and a teacher conference plan before the Day 16 practice assessment.
 
 ---
 

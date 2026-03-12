@@ -1,17 +1,18 @@
 ---
 layout: default
-title: "Day 4: Mendelian Inheritance"
-description: Unit 4 Day 4 lesson on monohybrid inheritance and chi-square checks.
+title: "Day 4: Mendelian Inheritance and Chapter 11 Checkpoint"
+description: Unit 4 Day 4 lesson on monohybrid inheritance, chi-square reasoning, and a Chapter 11 checkpoint.
 permalink: /lessons/unit4/day-04/
 ---
 
-# Day 4: Mendelian Inheritance
+# Day 4: Mendelian Inheritance and Chapter 11 Checkpoint
 
 ## Objectives
 
 - Solve monohybrid Punnett square problems accurately.
 - Distinguish genotype and phenotype in inheritance analysis.
 - Use chi-square reasoning to compare expected and observed ratios.
+- Demonstrate Chapter 11 readiness through a short checkpoint and immediate correction cycle.
 
 ## Key Terms
 
@@ -25,14 +26,21 @@ permalink: /lessons/unit4/day-04/
 
 - Mendel’s experimental approach and inheritance vocabulary.
 - Predictive modeling with Punnett squares and ratio checks.
+- Chapter 11 cumulative links among DNA, protein synthesis, and visible trait outcomes.
 
 ## In-Class Activities / Minilabs
 
-1. **Bellwork (10 min):** Predict outcomes from a simple dominant/recessive cross.
-2. **Review (15 min):** Mendelian vocabulary and model assumptions.
-3. **Guided Practice (25 min):** Multi-problem Punnett square set with optional coin-flip simulation.
-4. **Data Check (15 min):** Introduce chi-square setup and interpretation.
-5. **Assessment Block (last 20 min):** Chapter 11 quiz.
+1. **Bellwork (8 min):** Predict outcomes from a simple dominant/recessive cross and explain whether your evidence is genotype-based or phenotype-based.
+2. **Mini-Lesson (15 min):** Review Mendelian vocabulary, model assumptions, and the structure of a strong genetics explanation.
+3. **Guided Practice Block 1 (27 min):** Complete a multi-problem Punnett square set with teacher checkpoints and optional coin-flip simulation data.
+4. **Guided Practice Block 2 (25 min):** Run a short Chapter 11 checkpoint with immediate partner error analysis on one missed item.
+5. **Debrief (10 min):** Introduce chi-square interpretation and record one idea that still needs review before Day 5.
+
+## Classroom Routine Notes
+
+- Students solve the first Punnett square independently before any partner talk begins.
+- During Guided Practice Block 1, Partner A sets up parent alleles and Partner B checks the genotype boxes; roles switch on the second problem.
+- In the checkpoint block, the teacher keeps the room quiet for the first half, then releases one missed item for partner error analysis while conferencing quickly with students who still confuse genotype and phenotype.
 
 ## Critical Perspective
 
@@ -51,16 +59,16 @@ Studying inheritance patterns develops precision, logic, and stewardship of know
 ## Homework / Assignment
 
 - Complete ten monohybrid practice problems.
-- Write one paragraph comparing genotype predictions to phenotype outcomes.
+- Correct one checkpoint response and write one paragraph comparing genotype predictions to phenotype outcomes.
 
 ## Exit Ticket / Reflection
 
-When observed ratios differ from expected ratios, what is your next scientific step?
+When observed ratios differ from expected ratios, what is your next scientific step, and what evidence would you check first?
 
 ## Teacher Notes Only (not for students)
 
 - Advanced extension: Add incomplete dominance comparison problems.
-- Support for struggling learners: Provide a Punnett square setup template.
+- Support for struggling learners: Provide a Punnett square setup template and a genotype-versus-phenotype sentence frame.
 
 ## Navigation
 

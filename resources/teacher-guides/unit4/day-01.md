@@ -1,11 +1,11 @@
 ---
 layout: default
-title: "Teacher Guide: Unit 4 Day 1 – Introduction to Genetics"
-description: Complete teacher guide for Unit 4 Day 1, including lesson script, answer keys, biblical integration, and differentiation supports.
+title: "Teacher Guide: Unit 4 Day 1 – Introduction to Genetics and Evidence Routines"
+description: Complete teacher guide for Unit 4 Day 1, including block pacing, answer keys, biblical integration, and classroom routines.
 permalink: /resources/teacher-guides/unit4/day-01/
 ---
 
-# Teacher Guide: Unit 4 Day 1 – Introduction to Genetics – The Wonder of Inherited Traits
+# Teacher Guide: Unit 4 Day 1 – Introduction to Genetics and Evidence Routines
 
 > **For teacher use only.** This guide contains answer keys, lesson scripts, and grading notes not intended for student view.
 
@@ -26,7 +26,7 @@ Read this aloud early in the lesson. Tie it in: Genetics reveals the intricate, 
 - Show inheritance as reliable transmission of information from parents to offspring.
 - Build scientific thinking: distinguish observations (what we see) from interpretations (explanations).
 
-**Background for you:** This day sets the foundation—no Punnett squares yet. Focus on wonder and precision before complexity.
+**Background for you:** This day sets the foundation for the whole unit. Focus on wonder and precision before complexity, but also establish the routine students will use all unit: observe first, explain second, support claims with evidence.
 
 ---
 
@@ -47,6 +47,15 @@ Read this aloud early in the lesson. Tie it in: Genetics reveals the intricate, 
 
 ---
 
+## Routine and Logistics Notes
+
+- Seat students in assigned partner pairs before class begins; keep the same Partner A and Partner B roles for the first week so routines stabilize quickly.
+- Bellwork is silent for the first 3 minutes, then partners compare only after you give the cue: "Pens down, eyes up, compare one idea each."
+- During Guided Practice Block 1, Partner A is the first speaker and Partner B is the first recorder; switch roles halfway through the block.
+- During Guided Practice Block 2, circulate with a short roster and stop for 60-second vocabulary check-ins with three or four students who struggled to separate observation from interpretation during the opener.
+
+---
+
 ## Bell Work Answer Key (10 min)
 
 **Question:** List three family traits you share and one unique trait, then propose one possible explanation for variation.
@@ -62,15 +71,18 @@ Read this aloud early in the lesson. Tie it in: Genetics reveals the intricate, 
 
 ---
 
-## Lesson Delivery Script (70 min)
+## Lesson Delivery Script (85 min)
 
-### 1. Bell Work + Scripture Open (10–15 min)
+### 1. Bell Work + Scripture Open (10 min)
 
 Read Psalm 139:13-14 aloud. Say:
 
 > "God knit us together with incredible detail—today we start studying how that detail is passed on through generations. This isn't dry textbook material; it's the mechanism behind what the Psalmist is praising."
 
-### 2. Phenomenon Discussion (15 min)
+Transition cue:
+> "Finish your sentence, circle your best example, and turn to your partner when I count down from three."
+
+### 2. Mini-Lesson and Phenomenon Discussion (15 min)
 
 Show trait photos (e.g., family eye colors, hair types).
 
@@ -79,7 +91,12 @@ Say:
 
 Guide students: *Observations* = facts (e.g., "the child has the mother's nose"); *Interpretations* = explanations (e.g., "information in genes from the mother shaped the nose structure").
 
-### 3. Direct Instruction – Genes, Chromosomes, DNA (20 min)
+Partner protocol:
+- Partner A names one observation only.
+- Partner B tests whether it is truly observable or already an interpretation.
+- Reverse roles for the second image.
+
+### 3. Guided Practice Block 1 – Vocabulary and Evidence Anchor (25 min)
 
 **Simple definitions to write on board:**
 
@@ -97,7 +114,12 @@ Say:
 - "What organizes that information into manageable packages?" *(chromosomes)*
 - "What is a gene, specifically?" *(a section of DNA with instructions for a trait)*
 
-### 4. Collaborative Concept Map (20 min)
+Have students complete a quick sort on mini whiteboards or paper: one observation statement, one interpretation statement, and one claim that still needs evidence.
+
+Transition cue:
+> "Bring your sort back to center, stand if your group has all three categories ready, and move into your concept-map teams when I point to your row."
+
+### 4. Guided Practice Block 2 – Collaborative Concept Map and CER Write (25 min)
 
 Groups link: **DNA → genes → proteins → traits**
 
@@ -107,6 +129,14 @@ Circulate and provide sentence stems for struggling students:
 
 **Debrief:** Groups share one strong evidence-based statement. Example of strong statement:
 > "We observe that traits pass from parents to offspring across generations, so we infer that genes—sections of DNA—carry the instructions for those traits."
+
+Teacher logistics:
+- Call on one group from each side of the room.
+- While groups write, pull one quick support cluster of 3 students to rehearse the difference between evidence and reasoning.
+
+### 5. Debrief and Exit Ticket (10 min)
+
+Ask students to complete the exit ticket independently first, then let partners compare only if both have written a full sentence.
 
 ---
 

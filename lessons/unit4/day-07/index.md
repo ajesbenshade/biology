@@ -1,17 +1,17 @@
 ---
 layout: default
-title: "Day 7: Chapter 12 Review and Biotechnology Introduction"
-description: Unit 4 Day 7 review lesson bridging heredity content to biotechnology foundations.
+title: "Day 7: Chapter 12 Review and Biotechnology Bridge"
+description: Unit 4 Day 7 review lesson that tightens heredity understanding before a lighter biotechnology bridge into Chapter 13.
 permalink: /lessons/unit4/day-07/
 ---
 
-# Day 7: Chapter 12 Review and Biotechnology Introduction
+# Day 7: Chapter 12 Review and Biotechnology Bridge
 
 ## Objectives
 
 - Review core heredity concepts from Chapter 12 using evidence-based reasoning.
 - Introduce PCR, gel electrophoresis, and CRISPR at a foundational level.
-- Evaluate biotechnology applications with accurate scientific vocabulary.
+- Use a review-and-bridge structure so biotechnology work begins before the final mastery sequence.
 
 ## Key Terms
 
@@ -23,16 +23,23 @@ permalink: /lessons/unit4/day-07/
 
 ## Textbook Content
 
-- Chapter 12 review set: inheritance patterns, meiosis/mitosis distinctions, replication vocabulary.
+- Chapter 12 review set: inheritance patterns, chi-square, and pedigree reasoning.
 - Introductory biotechnology concepts that prepare students for Chapter 13 applications.
+- Error-analysis prompts that link heredity misconceptions to later biotechnology reasoning.
 
 ## In-Class Activities / Minilabs
 
-1. **Bellwork (8 min):** Respond to “What is one ethical issue in gene editing?” with one evidence-based statement.
-2. **Review Stations (35 min):** Punnett squares, chi-square interpretation, meiosis vs. mitosis, and DNA replication checks.
-3. **Mini-Lesson (17 min):** PCR, gels, and CRISPR fundamentals with visual examples.
-4. **Discussion (10 min):** Evaluate one biotechnology scenario using scientific evidence.
-5. **Assessment:** Chapter 12 quiz.
+1. **Bellwork (8 min):** Diagnose one heredity error from a sample response and explain the correction.
+2. **Mini-Lesson (12 min):** Tighten Chapter 12 vocabulary, then introduce PCR, gel electrophoresis, and CRISPR at the "what it does" level only.
+3. **Guided Practice Block 1 (24 min):** Rotate through three review stations on Punnett squares, chi-square interpretation, and pedigree clues.
+4. **Guided Practice Block 2 (31 min):** Model one biotechnology scenario, let partners identify the strongest evidence they would want, then finish with a short individual reflection before the checkpoint.
+5. **Debrief (10 min):** Complete a short Chapter 12 checkpoint and record one biotechnology term that is now clearer.
+
+## Classroom Routine Notes
+
+- Students move to review stations only after the teacher cue "record, reset, rotate" so materials stay in order.
+- Each station has a recorder and checker, and students return to assigned seats before the biotechnology bridge begins.
+- During the bridge block, partners talk first for two minutes, then each student writes an individual evidence note so the teacher can see who still needs support reading biotechnology data on Day 8.
 
 ## Critical Perspective
 
@@ -50,7 +57,7 @@ Students practice responsible stewardship of scientific knowledge by pairing evi
 
 ## Homework / Assignment
 
-- Complete targeted review corrections from quiz-prep items.
+- Complete targeted review corrections from today's checkpoint items.
 - Write one claim-evidence-reasoning paragraph on a biotechnology use case.
 
 ## Exit Ticket / Reflection
@@ -60,7 +67,7 @@ Name one biotechnology tool and one type of data needed to evaluate its effectiv
 ## Teacher Notes Only (not for students)
 
 - Keep graded work fully academic and textbook-aligned.
-- Reinforce respectful discussion norms during ethics-adjacent conversation.
+- Reinforce respectful discussion norms during ethics-adjacent conversation and use the checkpoint to sort students for Day 8 support.
 
 ## Navigation
 

@@ -16,6 +16,11 @@ This map defines the source pages used to populate canonical Unit 4 day pages.
 - `/lessons/unit4/day-10/` ← `day10-lab-skills-practice/index.md`
 - `/lessons/unit4/day-11/` ← `day11-review-error-analysis/index.md`
 - `/lessons/unit4/day-12/` ← `day12-unit-assessment-wrap-up/index.md`
+- `/lessons/unit4/day-13/` ← `day-13/index.md` (canonical)
+- `/lessons/unit4/day-14/` ← `day-14/index.md` (canonical)
+- `/lessons/unit4/day-15/` ← `day-15/index.md` (canonical)
+- `/lessons/unit4/day-16/` ← `day-16/index.md` (canonical)
+- `/lessons/unit4/day-17/` ← `day-17/index.md` (canonical)
 
 ## Topic URL handling
 
@@ -32,3 +37,5 @@ After migration, these topic URLs remain for compatibility but are moved notices
 - `/lessons/unit4/day10-lab-skills-practice/` → `/lessons/unit4/day-10/`
 - `/lessons/unit4/day11-review-error-analysis/` → `/lessons/unit4/day-11/`
 - `/lessons/unit4/day12-unit-assessment-wrap-up/` → `/lessons/unit4/day-12/`
+
+Days 13–17 are authored directly under canonical numeric folders, so no compatibility redirects are needed for those new support days.

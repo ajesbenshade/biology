@@ -1,17 +1,18 @@
 ---
 layout: default
-title: "Day 8: Genetic Engineering Applications and Ethics"
-description: Unit 4 Day 8 lesson on recombinant DNA, GMOs, CRISPR, and evidence-based evaluation.
+title: "Day 8: Genetic Engineering Applications and Data Reasoning"
+description: Unit 4 Day 8 lesson on recombinant DNA, GMOs, CRISPR, and evidence-based data reasoning with a lighter application load.
 permalink: /lessons/unit4/day-08/
 ---
 
-# Day 8: Genetic Engineering Applications and Ethics
+# Day 8: Genetic Engineering Applications and Data Reasoning
 
 ## Objectives
 
 - Describe recombinant DNA, GMO applications, and CRISPR basics.
 - Evaluate biotechnology scenarios using evidence and scientific reasoning.
 - Communicate biotechnology claims with clear vocabulary and data support.
+- Practice the data-reasoning moves that will be needed again on Days 9 and 13.
 
 ## Key Terms
 
@@ -25,14 +26,21 @@ permalink: /lessons/unit4/day-08/
 
 - Chapter 13 biotechnology overview with real-world applications.
 - Evidence evaluation of benefits, limits, and risks in engineering contexts.
+- Data-reasoning practice focused on reading case evidence before making claims.
 
 ## In-Class Activities / Minilabs
 
-1. **Bellwork (8 min):** Identify one claimed benefit and one potential limitation of gene editing.
-2. **Case Comparison (20 min):** Analyze textbook examples of biotechnology use.
-3. **Virtual Lab (25 min):** Simulate gene insertion and record outcome data.
-4. **Discussion (12 min):** Compare evidence quality across scenarios.
-5. **Debrief (5 min):** Write one defensible evidence-based claim.
+1. **Bellwork (8 min):** Identify one claimed benefit and one potential limitation of gene editing, then label which statement is strongest on evidence.
+2. **Mini-Lesson (15 min):** Model recombinant DNA, GMO applications, and CRISPR basics with a focus on reading claims critically.
+3. **Guided Practice Block 1 (25 min):** Analyze three biotechnology scenarios and record which data would count as strong support.
+4. **Guided Practice Block 2 (27 min):** Use a labeled gene-insertion diagram to identify the major steps, predict where the process could fail, and compare which evidence would prove success.
+5. **Debrief (10 min):** Write one defensible evidence-based claim and one follow-up question that would strengthen confidence.
+
+## Classroom Routine Notes
+
+- Table groups keep fixed roles during case analysis: reader, evidence finder, recorder, and reporter.
+- Groups must list one evidence statement before they move into the ethical discussion portion of the task.
+- During the second block, the reporter points to the labeled diagram while the recorder writes the predicted failure point so the task stays focused on reasoning rather than drawing every step from scratch.
 
 ## Critical Perspective
 
@@ -62,7 +70,7 @@ Which biotechnology application had the strongest data support, and why?
 ## Teacher Notes Only (not for students)
 
 - Keep scoring tied to scientific reasoning and content accuracy.
-- Use worldview framing as discussion guidance, not grading criteria.
+- Use worldview framing as discussion guidance, not grading criteria, and note who still needs support reading data before Day 9.
 
 ## Navigation
 

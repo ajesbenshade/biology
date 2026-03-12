@@ -1,11 +1,11 @@
 ---
 layout: default
-title: "Teacher Guide: Unit 4 Day 4 – Mendelian Inheritance"
-description: Complete teacher guide for Unit 4 Day 4, including lesson script, answer keys, biblical integration, and differentiation supports.
+title: "Teacher Guide: Unit 4 Day 4 – Mendelian Inheritance and Chapter 11 Checkpoint"
+description: Complete teacher guide for Unit 4 Day 4, including block pacing, answer keys, biblical integration, and classroom routines.
 permalink: /resources/teacher-guides/unit4/day-04/
 ---
 
-# Teacher Guide: Unit 4 Day 4 – Mendelian Inheritance
+# Teacher Guide: Unit 4 Day 4 – Mendelian Inheritance and Chapter 11 Checkpoint
 
 > **For teacher use only.** This guide contains answer keys, lesson scripts, and grading notes not intended for student view.
 
@@ -26,7 +26,7 @@ God's orderly patterns in inheritance reflect His logical, predictable creation.
 - Distinguish genotype (allele combination) from phenotype (observable trait).
 - Introduce chi-square reasoning for comparing expected vs. observed ratios.
 
-**Background for you:** Gregor Mendel was an Augustinian friar who ran careful, repeated experiments with pea plants. His work was ignored for decades until rediscovered in 1900. His approach—controlled crosses, large sample sizes, ratio analysis—is a model of rigorous scientific observation. The 3:1 phenotype ratio from a monohybrid cross is a mathematical prediction, not a guarantee in every small sample.
+**Background for you:** Gregor Mendel was an Augustinian friar who ran careful, repeated experiments with pea plants. His work was ignored for decades until rediscovered in 1900. The 3:1 phenotype ratio from a monohybrid cross is a mathematical prediction, not a guarantee in every small sample. Today also serves as a Chapter 11 checkpoint with immediate correction rather than a stand-alone quiz block.
 
 ---
 
@@ -43,6 +43,15 @@ God's orderly patterns in inheritance reflect His logical, predictable creation.
 - Sample class data from a coin-flip simulation if running that activity.
 - Chi-square reference sheet (formula + interpretation guide).
 - Chapter 11 quiz (assessment block at end of period).
+
+---
+
+## Routine and Logistics Notes
+
+- Students solve the first Punnett square independently for 2 minutes before partner talk begins.
+- In pair work, Partner A sets up the parent alleles and Partner B checks the interior boxes; then reverse roles on the next cross.
+- During the checkpoint block, keep half the room working independently while you circulate to students who mixed genotype and phenotype during the guided set.
+- Use the phrase "setup first, ratio second" every time you stop the class.
 
 ---
 
@@ -64,9 +73,9 @@ God's orderly patterns in inheritance reflect His logical, predictable creation.
 
 ---
 
-## Lesson Delivery Script (70 min)
+## Lesson Delivery Script (85 min)
 
-### 1. Vocabulary Review (15 min)
+### 1. Bell Work and Vocabulary Review (8 min + 10 min)
 
 | Term | Definition | Quick Example |
 |------|-----------|---------------|
@@ -80,7 +89,10 @@ God's orderly patterns in inheritance reflect His logical, predictable creation.
 Say:
 > "Genotype is what's in the DNA. Phenotype is what you see. A tall plant could be TT or Tt—same phenotype, different genotype. That's why these words are not interchangeable."
 
-### 2. Guided Practice: Punnett Square Problems (25 min)
+Transition cue:
+> "If your genotype and phenotype are both labeled, put your pencil down. If not, fix that before we move on."
+
+### 2. Guided Practice Block 1 – Punnett Square Problems (27 min)
 
 Work through these in order, increasing complexity:
 
@@ -99,7 +111,12 @@ Work through these in order, increasing complexity:
 Say before each:
 > "Set up the square first. Fill in the parent alleles on top and side. Fill in each box. Then count—genotype ratio first, then convert to phenotype ratio."
 
-### 3. Chi-Square Introduction (15 min)
+Partner protocol:
+- First problem independently.
+- Second problem with paired check.
+- Third problem with one student solving and the other narrating each step aloud.
+
+### 3. Guided Practice Block 2 – Checkpoint and Chi-Square Launch (25 min)
 
 **Formula:** $\chi^2 = \sum \frac{(O - E)^2}{E}$
 
@@ -120,9 +137,14 @@ Say:
 
 **Key concept:** Chi-square doesn't prove—it evaluates whether chance variation could explain the discrepancy.
 
-### 4. Chapter 11 Quiz (last 20 min)
+Checkpoint logistics:
+- Give the short Chapter 11 checkpoint for the first 12 to 15 minutes of this block.
+- After collection, return one selected item immediately for partner error analysis.
+- Pull a 4-student reteach line at the side table for anyone who still treats phenotype as genotype.
 
-Administer the quiz. Collect before students leave.
+### 4. Debrief and Exit Ticket (10 min)
+
+Collect exit tickets at the door so you can separate students who need extra setup practice before Day 5.
 
 ---
 

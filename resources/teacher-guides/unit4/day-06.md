@@ -1,11 +1,11 @@
 ---
 layout: default
-title: "Teacher Guide: Unit 4 Day 6 – Human Genetics and Pedigrees"
-description: Complete teacher guide for Unit 4 Day 6, including lesson script, answer keys, biblical integration, and differentiation supports.
+title: "Teacher Guide: Unit 4 Day 6 – Human Genetics, Pedigrees, and Evidence Writing"
+description: Complete teacher guide for Unit 4 Day 6, including block pacing, answer keys, biblical integration, and classroom routines.
 permalink: /resources/teacher-guides/unit4/day-06/
 ---
 
-# Teacher Guide: Unit 4 Day 6 – Human Genetics and Pedigrees
+# Teacher Guide: Unit 4 Day 6 – Human Genetics, Pedigrees, and Evidence Writing
 
 > **For teacher use only.** This guide contains answer keys, lesson scripts, and grading notes not intended for student view.
 
@@ -27,7 +27,7 @@ Pedigrees reveal inheritance patterns in real families. God's sustaining order a
 - Distinguish autosomal vs. sex-linked inheritance patterns using clue sets.
 - Calculate probabilities from pedigree data.
 
-**Background for you:** A pedigree is simply a family tree that tracks which people have a trait (shaded) and which don't (unshaded). Lines show marriages and parent-child relationships. Figuring out the inheritance mode requires careful reasoning from the pattern—no single rule works for every pedigree.
+**Background for you:** A pedigree is simply a family tree that tracks which people have a trait (shaded) and which don't (unshaded). Lines show marriages and parent-child relationships. Figuring out the inheritance mode requires careful reasoning from the pattern—no single rule works for every pedigree. Today should also move students from naming a pattern to defending that pattern with multiple clues in writing.
 
 ---
 
@@ -45,6 +45,15 @@ Pedigrees reveal inheritance patterns in real families. God's sustaining order a
 - Sample conditions to include: hemophilia (sex-linked recessive), color blindness (sex-linked recessive), Huntington's disease (autosomal dominant), cystic fibrosis (autosomal recessive).
 - Pedigree symbol reference card for each student or posted on board.
 - Fraction/probability reference (optional).
+
+---
+
+## Routine and Logistics Notes
+
+- Start in partner pairs for the bellwork, then shift students into table groups of three or four for pedigree analysis.
+- In group analysis, assign a lead reader, clue finder, and recorder so the pattern claim is built from evidence instead of quick guessing.
+- During the second guided block, pull a short teacher table for students who jump to sex-linked claims without checking every generation.
+- Require every written pattern claim to include at least two pedigree clues before a student can ask for a teacher check.
 
 ---
 
@@ -75,9 +84,9 @@ Pedigrees reveal inheritance patterns in real families. God's sustaining order a
 
 ---
 
-## Lesson Delivery Script (70 min)
+## Lesson Delivery Script (85 min)
 
-### 1. Symbol Review (10 min)
+### 1. Bell Work and Symbol Review (8 min + 10 min)
 
 Draw on board and annotate each symbol. Common errors to preemptively address:
 
@@ -87,7 +96,10 @@ Draw on board and annotate each symbol. Common errors to preemptively address:
 | Thinking half-filled always means carrier | "Half-filled is only used when we've determined someone carries a recessive allele but isn't affected. Not all carriers are marked." |
 | Listing generation numbers wrong | "Generation I is always at the top (the grandparents or oldest known generation)." |
 
-### 2. Group Pedigree Analysis (25 min)
+Transition cue:
+> "If your symbols are labeled and your clue list is ready, move your chair into your analysis group."
+
+### 2. Guided Practice Block 1 – Group Pedigree Analysis (25 min)
 
 Assign 3–4 sample pedigrees with different inheritance modes. Groups determine: mode of inheritance, likely genotypes for key individuals, and rationale.
 
@@ -103,6 +115,11 @@ Assign 3–4 sample pedigrees with different inheritance modes. Groups determine
 
 Say: "These clues guide our reasoning from evidence—but a small pedigree can still be ambiguous. More family data would improve confidence."
 
+Group protocol:
+- Round 1: clue finder marks evidence only.
+- Round 2: group proposes the inheritance mode.
+- Round 3: recorder writes a one-sentence defense using two clues.
+
 **Sample answer key for four pedigrees (adjust to match your printed sheets):**
 
 1. Both sexes equally affected, trait skips a generation → **Autosomal recessive**
@@ -110,7 +127,7 @@ Say: "These clues guide our reasoning from evidence—but a small pedigree can s
 3. Every affected individual has an affected parent → **Autosomal dominant**
 4. All carriers are female, only males show trait → **Sex-linked recessive** (X-linked)
 
-### 3. Probability Practice (20 min)
+### 3. Guided Practice Block 2 – Probability Practice and Evidence Writing (25 min)
 
 Walk through at least two probability calculations from pedigree data.
 
@@ -127,7 +144,12 @@ Walk through at least two probability calculations from pedigree data.
 
 Say: "These are probabilities, not guarantees. Each pregnancy is an independent event. A couple who has had three affected children still has the same 25% chance for the next."
 
-### 4. Debrief (5 min)
+Teacher logistics:
+- Let students solve the first probability problem with their group.
+- Require the second problem and short written defense independently.
+- Conference quickly with students who still confuse carrier and affected status.
+
+### 4. Debrief and Exit Ticket (10 min)
 
 Ask: "What additional data would increase your confidence in a pedigree conclusion?"
 

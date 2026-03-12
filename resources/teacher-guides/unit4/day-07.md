@@ -1,11 +1,11 @@
 ---
 layout: default
-title: "Teacher Guide: Unit 4 Day 7 – Chapter 12 Review and Biotechnology Introduction"
-description: Complete teacher guide for Unit 4 Day 7, including review station keys, lesson script, biblical integration, and differentiation supports.
+title: "Teacher Guide: Unit 4 Day 7 – Chapter 12 Review and Biotechnology Bridge"
+description: Complete teacher guide for Unit 4 Day 7, including block pacing, review station keys, biblical integration, and classroom routines.
 permalink: /resources/teacher-guides/unit4/day-07/
 ---
 
-# Teacher Guide: Unit 4 Day 7 – Chapter 12 Review and Biotechnology Introduction
+# Teacher Guide: Unit 4 Day 7 – Chapter 12 Review and Biotechnology Bridge
 
 > **For teacher use only.** This guide contains answer keys, lesson scripts, and grading notes not intended for student view.
 
@@ -26,7 +26,7 @@ Frame "dominion" as responsible stewardship: biotechnology tools are extensions 
 - Introduce PCR, gel electrophoresis, and CRISPR at a foundational level.
 - Evaluate one biotechnology scenario using scientific evidence.
 
-**Background for you:** Today is a transition day. The review stations reinforce Mendelian and complex inheritance before the Chapter 12 quiz. The biotech intro is brief and conceptual—you don't need deep expertise. Focus on: what each tool does, what kind of data it produces, and what questions it helps answer.
+**Background for you:** Today is a transition day. The review stations reinforce Mendelian and complex inheritance before students move into biotechnology work. The biotech intro is brief and conceptual. Focus on what each tool does, what kind of data it produces, and how today's heredity review prepares students for that data work.
 
 ---
 
@@ -40,27 +40,35 @@ Frame "dominion" as responsible stewardship: biotechnology tools are extensions 
 
 ## Materials & Preparation
 
-- **Review stations (4 stations, ~7 min each + transitions):** Printed question cards or posted questions at each station.
+- **Review stations (3 stations, ~7 minutes each + transitions):** Printed question cards or posted questions at each station.
 - Projector for biotech mini-lesson: PCR animation clip (optional), gel electrophoresis photo, simple CRISPR diagram.
-- Discussion scenario card (one per group for the ethics discussion segment).
+- Discussion scenario card (one per pair for the bridge segment).
 - Chapter 12 quiz (collected at end if adding assessment block, or given Day 8).
+
+---
+
+## Routine and Logistics Notes
+
+- Set station materials before class so row groups can move directly without waiting for handouts.
+- Keep station timing visible with a projected timer and use the same cue each rotation: "Record, reset, rotate."
+- During the biotechnology bridge block, return students to assigned seats so the whole-class modeling is calmer and easier to track.
+- Use the short checkpoint at the end to sort which students need extra support with data reasoning on Day 8.
 
 ---
 
 ## Bell Work Answer Key (8 min)
 
-**Question:** What is one ethical issue in gene editing? Give one evidence-based statement.
+**Question:** Diagnose this heredity error: "A carrier mother and unaffected father can never have a son with an X-linked disorder because the father is unaffected." What is wrong, and how would you correct it?
 
 **Good answers:**
-- "Risk of off-target edits: CRISPR can sometimes cut at unintended locations, causing unintended mutations. Data exists showing off-target events in lab models."
-- "Designer traits: there is concern that gene editing for non-medical traits (e.g., appearance) could be used on embryos, raising questions about consent and equity."
-- "Germline vs. somatic: editing embryo cells affects all future generations of that person's descendants, which raises different concerns than editing adult cells."
+- "The statement ignores that sons inherit their X chromosome from the mother. If the mother is a carrier, she can pass the affected allele to a son even if the father is unaffected."
+- "An unaffected father does not give an X chromosome to his sons, so his phenotype does not prevent an X-linked recessive disorder in a male child."
 
-**Grading:** 5 pts. Award full credit for any one issue with a data-based or logical support. Deduct 2 pts for opinion only ("it's wrong") without reasoning.
+**Grading:** 5 pts. Award full credit for identifying the inheritance mistake and correcting the parent-of-origin logic. Deduct 2 pts for vague statements without the X-chromosome explanation.
 
 ---
 
-## Review Station Answer Keys (35 min total)
+## Review Station Answer Keys (24 min total + transitions)
 
 **Station 1 – Punnett Square Practice**
 
@@ -78,29 +86,31 @@ $\chi^2 = \frac{(28-30)^2}{30} + \frac{(12-10)^2}{10} = \frac{4}{30} + \frac{4}{
 
 Interpretation: Small value → results are consistent with the 3:1 model; chance variation is sufficient explanation.
 
-**Station 3 – Meiosis vs. Mitosis Comparison**
+**Station 3 – Pedigree Clues**
 
-| Feature | Mitosis | Meiosis |
-|---------|---------|---------|
-| Purpose | Growth/repair | Sexual reproduction |
-| Number of divisions | 1 | 2 |
-| Daughter cells | 2 | 4 |
-| Chromosome number | Same as parent (2n) | Half of parent (n) |
-| Genetic variation | None (clones) | Yes (crossing over, independent assortment) |
-
-**Station 4 – DNA Replication Vocabulary**
-
-| Term | Definition |
-|------|-----------|
-| Helicase | Unzips the double helix by breaking H-bonds |
-| DNA Polymerase | Adds complementary nucleotides to the template strand |
-| Ligase | Joins Okazaki fragments on the lagging strand |
-| Semi-conservative | Each new molecule keeps one original strand |
-| Template strand | The strand read by DNA polymerase |
+| Clue | Likely Interpretation |
+|------|-----------------------|
+| Trait appears in every generation | Often dominant |
+| Unaffected parents have an affected child | Often recessive |
+| Mostly males affected | Consider X-linked recessive |
+| Father passes trait to every daughter but no sons | Consider X-linked dominant |
 
 ---
 
-## Mini-Lesson: Biotechnology Introduction (17 min)
+## Lesson Delivery Script (85 min)
+
+### 1. Bell Work and Launch (8 min)
+
+Students diagnose the heredity error independently, then compare with a shoulder partner only after the silent work window.
+
+Transition cue:
+> "When the timer hits zero, take your paper and stand behind your station number."
+
+### 2. Review Stations (24 min + transitions)
+
+Use the answer keys below while circulating. Aim for three stations at about 7 minutes each.
+
+### 3. Mini-Lesson: Biotechnology Introduction (15 min)
 
 ### PCR (Polymerase Chain Reaction)
 
@@ -134,11 +144,14 @@ Say:
 **What it does:** Acts as molecular scissors guided to a precise DNA target. The guide RNA leads the Cas9 protein to the correct location; Cas9 cuts both strands.
 
 Say:
-> "CRISPR is the most precise gene editing tool we have. It can disable a gene, correct a mutation, or insert new sequences. The guide RNA is the GPS; Cas9 is the scissors. But precision is not perfection—off-target cuts still occur."
+> "CRISPR can disable a gene, correct a mutation, or insert new sequences. For today, keep the big idea simple: guide RNA is the GPS and Cas9 is the scissors. We will sort through more complex ethical distinctions tomorrow once the data reading is steadier."
+
+Transition cue:
+> "Back to your seats, scenario card face down, and wait until everyone is ready before you begin the discussion."
 
 ---
 
-## Discussion Scenario (10 min)
+## Guided Discussion and Checkpoint (31 min total)
 
 **Sample prompt:** "A child is born with a rare genetic disorder affecting one gene. Scientists have developed a CRISPR treatment that could correct the mutation in body cells (somatic). What data would you want to see before recommending this treatment?"
 
@@ -149,6 +162,12 @@ Say:
 - Long-term follow-up data
 
 Say: "Good decision-making about technology requires asking 'what is the evidence?' not just 'what do I feel about this?'"
+
+Block logistics:
+- 8 minutes for partner discussion.
+- 5 minutes for whole-class share.
+- 8 minutes for individual written reflection on what evidence would matter most.
+- 10 minutes for the short checkpoint and one written reflection on a biotechnology term.
 
 ---
 

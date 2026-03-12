@@ -1,18 +1,18 @@
 ---
 layout: default
-title: "Day 3: Gene Expression and Protein Synthesis"
-description: Unit 4 Day 3 lesson on transcription, translation, and codon decoding.
+title: "Day 3: Gene Expression, Translation, and Codon Practice"
+description: Unit 4 Day 3 lesson on transcription, translation, codon decoding, and early problem-solving practice.
 permalink: /lessons/unit4/day-03/
 ---
 
-# Day 3: Gene Expression and Protein Synthesis
+# Day 3: Gene Expression, Translation, and Codon Practice
 
 ## Objectives
 
 - Describe transcription from DNA to mRNA.
 - Describe translation from mRNA to protein.
 - Use codon-table evidence to explain protein synthesis outcomes.
-- Distinguish observed mutation effects from assumptions about long-range biological change.
+- Practice a short clinic routine for catching translation and codon-decoding errors.
 
 ## Key Terms
 
@@ -26,14 +26,21 @@ permalink: /lessons/unit4/day-03/
 
 - Chapter 11 section on the central dogma and information flow in cells.
 - Codon-based translation practice and protein outcome interpretation.
+- Early correction work focused on codon-table orientation, start and stop codons, and sequence order.
 
 ## In-Class Activities / Minilabs
 
-1. **Bellwork (10 min):** Explain how a cell uses DNA information to build proteins.
-2. **Mini-Lesson (20 min):** Central dogma instruction with guided examples and short video support.
-3. **Guided Practice (25 min):** Complete transcription and translation sequences using a flowchart handout.
-4. **Codon Table Lab (10 min):** Decode short mRNA strands and compare outputs.
-5. **Debrief (5 min):** Share one common translation error and correction.
+1. **Bellwork (8 min):** Explain how a cell uses DNA information to build proteins, then underline the step you feel least confident about.
+2. **Mini-Lesson (18 min):** Model the central dogma with guided examples and quick checks on sequence order.
+3. **Guided Practice Block 1 (27 min):** Complete transcription and translation sequences using a flowchart handout and teacher checkpoints.
+4. **Guided Practice Block 2 (22 min):** Run a codon clinic in pairs: decode short mRNA strands, find one planted mistake, and explain the correction.
+5. **Debrief (10 min):** Share one common translation error, one correction, and one codon-table habit that improves accuracy.
+
+## Classroom Routine Notes
+
+- Bellwork is individual first, then students underline the step they feel least confident about so the teacher can spot likely reteach needs early.
+- In the codon clinic, Partner A decodes first while Partner B checks codon-table orientation; then partners switch roles on the next strand.
+- The teacher circulates with short stop-signals during Guided Practice Block 2 and pulls a 3-student support cluster if start and stop codons are still being skipped.
 
 ## Critical Perspective
 
@@ -53,16 +60,16 @@ Biological information flow displays remarkable order and consistency. Students 
 ## Homework / Assignment
 
 - Complete the protein synthesis practice set.
-- Write one evidence-based explanation of how codons determine amino acid sequence.
+- Revise one codon-decoding response so the reasoning names a specific codon and amino acid change.
 
 ## Exit Ticket / Reflection
 
-Translate a short mRNA sequence and justify one codon choice.
+Translate a short mRNA sequence and justify one codon choice using the codon table.
 
 ## Teacher Notes Only (not for students)
 
 - Advanced extension: Analyze potential effects of one point mutation.
-- Support for struggling learners: Use scaffolded codon charts and step cards.
+- Support for struggling learners: Use scaffolded codon charts, step cards, and a partner-check protocol.
 - Keep language precise when discussing mutation as information change in real organisms.
 
 ## Navigation
