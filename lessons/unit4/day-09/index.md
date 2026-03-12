@@ -41,10 +41,10 @@ permalink: /lessons/unit4/human-genetics-and-pedigrees/
 - Groups must identify at least two clues before they ask for teacher confirmation.
 - The teacher pulls a short support table for students who jump too quickly to sex-linked conclusions.
 
-## Critical Perspective
+## Critical Thinking
 
-- What makes a pedigree conclusion careful instead of rushed?
-- Why is one clue rarely enough to settle an inheritance pattern?
+- If you only know part of a family history, what can you conclude from a pedigree and what should you avoid claiming too strongly?
+- What additional family evidence would make a pedigree-based inheritance explanation stronger in a real situation?
 
 ## Biblical Integration
 

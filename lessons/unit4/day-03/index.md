@@ -41,10 +41,10 @@ permalink: /lessons/unit4/gene-expression-and-protein-synthesis/
 - In the codon clinic, Partner A decodes while Partner B checks codon-table orientation, then roles switch.
 - The teacher pulls a short support group if start and stop codons are being skipped.
 
-## Critical Perspective
+## Critical Thinking
 
-- Why does the order of information matter in biology?
-- How can a small decoding error create a much larger explanation error?
+- How could one mistake in reading a sequence change a real scientific or medical conclusion about a protein?
+- Why is it important to trace DNA to RNA to protein step by step when explaining what happened in a real cell?
 
 ## Biblical Integration
 

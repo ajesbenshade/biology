@@ -41,10 +41,10 @@ permalink: /lessons/unit4/chapter-11-review-and-assessment/
 - Immediate correction time focuses on one missed item, not a full reteach.
 - The teacher uses results to sort support priorities for the Chapter 12 launch.
 
-## Critical Perspective
+## Critical Thinking
 
-- Why is a checkpoint most useful when it leads to correction instead of just a score?
-- How does molecular genetics prepare us to understand inheritance patterns more clearly?
+- If a chapter checkpoint reveals one weak molecular idea, how should that change the way you prepare for real heredity problems next?
+- Which molecular genetics ideas matter most when you try to explain how a real trait can be inherited?
 
 ## Biblical Integration
 

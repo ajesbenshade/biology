@@ -41,10 +41,10 @@ permalink: /lessons/unit4/complex-inheritance-patterns/
 - The teacher uses a fast reset cue between simulation and clinic work so materials stay organized.
 - Students must name the evidence for a model before they label it.
 
-## Critical Perspective
+## Critical Thinking
 
-- Why is it weak reasoning to force every inheritance problem into a dominant-recessive pattern?
-- How does evidence help us choose the right model?
+- When a real trait pattern does not fit simple dominant-recessive inheritance, what evidence helps you choose a better model?
+- How could using the wrong inheritance model affect a real explanation or prediction about offspring traits?
 
 ## Biblical Integration
 

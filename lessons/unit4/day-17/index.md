@@ -41,10 +41,10 @@ permalink: /lessons/unit4/unit-assessment-and-wrap-up/
 - Reflection begins only after all assessments are collected.
 - The closing stays calm and brief so the summative block remains the center of the day.
 
-## Critical Perspective
+## Critical Thinking
 
-- How do we distinguish confidence from demonstrated mastery?
-- What evidence from your work best supports your self-assessment?
+- Which Unit 4 ideas feel most transferable to real decisions about heredity or biotechnology, and why?
+- What evidence from your work would convince someone that your understanding is usable in a real context, not just memorized for a test?
 
 ## Biblical Integration
 

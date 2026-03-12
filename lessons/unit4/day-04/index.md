@@ -41,10 +41,10 @@ permalink: /lessons/unit4/mutations-and-protein-variation/
 - Partner checks focus on the first codon affected, not just the final answer.
 - The teacher pauses the room once to model how frameshift effects compound across a sequence.
 
-## Critical Perspective
+## Critical Thinking
 
-- Why is it misleading to say that every mutation has the same effect?
-- How does tracing a sequence change protect you from shallow conclusions?
+- If two mutations happen in different places in a gene, what questions should you ask before predicting that they will affect an organism the same way?
+- How does tracing a sequence change through codons and proteins help you make a more realistic claim about its effect?
 
 ## Biblical Integration
 

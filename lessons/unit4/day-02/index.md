@@ -41,10 +41,10 @@ permalink: /lessons/unit4/dna-structure-and-replication/
 - The class uses the same cue each time it pauses: check direction, check pairs, check enzymes.
 - The teacher pulls a short reteach table for students who reverse template and new strands.
 
-## Critical Perspective
+## Critical Thinking
 
-- Why is accuracy more important than speed in DNA replication?
-- What kinds of evidence show that a model is biologically sound?
+- If DNA copying errors build up in real cells, what consequences might show up in tissues or organisms over time?
+- What evidence would help you decide whether a DNA replication model matches what happens in living cells?
 
 ## Biblical Integration
 

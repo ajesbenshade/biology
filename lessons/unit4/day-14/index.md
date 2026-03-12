@@ -41,10 +41,10 @@ permalink: /lessons/unit4/biotechnology-data-analysis/
 - Partner A names the data point first and Partner B checks whether the explanation actually uses it.
 - The teacher pulls a short support cluster if students keep ignoring the negative control.
 
-## Critical Perspective
+## Critical Thinking
 
-- Why does a band by itself not automatically prove success?
-- How do controls protect scientists from careless conclusions?
+- If a gel or PCR result could influence a diagnosis or investigation, why do controls matter so much before anyone draws a conclusion?
+- What real-world mistake could happen if someone treats any band pattern as proof without checking controls?
 
 ## Biblical Integration
 

@@ -41,10 +41,10 @@ permalink: /lessons/unit4/biotechnology-cer-and-mixed-practice/
 - Partner checks focus on evidence specificity before reasoning style.
 - The teacher uses conference time to point each student toward one concrete review target for Day 16.
 
-## Critical Perspective
+## Critical Thinking
 
-- What makes a CER response convincing instead of vague?
-- How does mixed practice reveal whether understanding is really flexible?
+- If you were evaluating a biotechnology claim in a report or news story, what evidence details would make the explanation trustworthy?
+- How can mixed practice show whether you can apply biotechnology ideas outside one familiar dataset?
 
 ## Biblical Integration
 

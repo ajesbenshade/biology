@@ -41,10 +41,10 @@ permalink: /lessons/unit4/mendelian-inheritance/
 - Partner A sets up parent alleles and Partner B checks the inside boxes before roles switch.
 - The teacher keeps the language precise so genotype and phenotype are never treated as interchangeable.
 
-## Critical Perspective
+## Critical Thinking
 
-- Why is inheritance reasoning stronger when the setup is visible?
-- What happens when students jump straight to trait labels without checking allele combinations?
+- If you were predicting trait outcomes for a real cross, why would it matter to separate genotype predictions from phenotype predictions?
+- How could hidden assumptions about allele combinations lead someone to the wrong real-world inheritance conclusion?
 
 ## Biblical Integration
 

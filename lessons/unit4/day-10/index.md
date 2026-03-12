@@ -41,10 +41,10 @@ permalink: /lessons/unit4/inheritance-probability-and-chi-square/
 - Partner checks focus on whether each category is computed separately before summing.
 - The teacher uses a side table for students whose arithmetic is strong but interpretation is weak.
 
-## Critical Perspective
+## Critical Thinking
 
-- Why is chi-square a reasoning tool rather than a proof machine?
-- How does quantitative evidence strengthen inheritance claims?
+- If real inheritance data differ from expected ratios, what possible explanations should you consider before rejecting the model?
+- How can chi-square help you make a careful claim from real breeding or population data without overstating certainty?
 
 ## Biblical Integration
 

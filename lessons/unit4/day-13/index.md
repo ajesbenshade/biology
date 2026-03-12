@@ -43,10 +43,10 @@ permalink: /lessons/unit4/biotechnology-tools-and-applications/
 - The teacher uses a fixed role structure: reader, evidence finder, recorder, reporter.
 - Students stay focused on what each tool does and what evidence would matter before diving into debate.
 
-## Critical Perspective
+## Critical Thinking
 
-- What makes one biotechnology tool a better fit for a problem than another?
-- Why should evidence come before strong opinions about a new tool?
+- If a school, farm, lab, or clinic were considering a biotechnology tool, what evidence should they ask for before deciding to use it?
+- How might the same biotechnology tool be useful in one real context but a poor fit in another?
 
 ## Biblical Integration
 

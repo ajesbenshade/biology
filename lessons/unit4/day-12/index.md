@@ -41,10 +41,10 @@ permalink: /lessons/unit4/chapter-12-review-and-assessment/
 - Review materials stay out for the full period so the day remains a true Chapter 12 close.
 - The teacher uses immediate correction to target one misconception at a time rather than reopening the whole chapter.
 
-## Critical Perspective
+## Critical Thinking
 
-- Why is a chapter review most useful when it produces correction instead of just a score?
-- What kind of evidence shows that you are actually ready to move forward?
+- If a heredity review reveals one weak area, how should that change the way you prepare before moving into a new genetics context?
+- What evidence would show that you are ready to use inheritance ideas in a new situation instead of only repeating class examples?
 
 ## Biblical Integration
 

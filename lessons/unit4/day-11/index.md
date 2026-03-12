@@ -41,10 +41,10 @@ permalink: /lessons/unit4/chapter-12-problem-solving-clinic/
 - Groups are formed by dominant error pattern so feedback stays narrow and useful.
 - The teacher keeps the room quiet during the first half of the readiness check, then releases one item for immediate correction.
 
-## Critical Perspective
+## Critical Thinking
 
-- Why is it more useful to find where an answer breaks than to only copy a correct answer?
-- How does targeted support inside the chapter change readiness?
+- In a real genetics problem, why is finding the first wrong step more useful than memorizing the corrected answer?
+- How can targeted practice change the way someone handles future genetics decisions or explanations?
 
 ## Biblical Integration
 

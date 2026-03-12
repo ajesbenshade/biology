@@ -41,10 +41,10 @@ permalink: /lessons/unit4/biotechnology-synthesis-and-assessment-prep/
 - Partner checks focus on whether the synthesis response names the right tool, cites actual evidence, and explains the conclusion clearly.
 - The teacher uses short conferences only after students complete one full synthesis attempt.
 
-## Critical Perspective
+## Critical Thinking
 
-- Why does synthesis reveal understanding more clearly than isolated skill drills?
-- Which Chapter 13 ideas connect most naturally back to the earlier parts of Unit 4?
+- If you had to explain a real biotechnology case to someone outside science class, which ideas would need to connect clearly for it to make sense?
+- How can synthesis help you decide which Unit 4 ideas still matter when facing a real genetics problem?
 
 ## Biblical Integration
 

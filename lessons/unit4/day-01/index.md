@@ -41,10 +41,10 @@ permalink: /lessons/unit4/introduction-to-genetics/
 - During the concept-map block, Partner A names evidence first and Partner B records before roles switch.
 - The teacher pauses midway for a quick vocabulary check with students who still confuse evidence and reasoning.
 
-## Critical Perspective
+## Critical Thinking
 
-- Why is it important to separate what we observe from what we conclude?
-- What makes a genetics explanation trustworthy instead of just interesting?
+- If people confuse observation and inference when talking about inherited traits, how could that distort a real conclusion about a family pattern?
+- What evidence would you want before claiming that a trait difference is truly inherited rather than just noticed?
 
 ## Biblical Integration
 

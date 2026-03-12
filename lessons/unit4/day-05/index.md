@@ -41,10 +41,10 @@ permalink: /lessons/unit4/molecular-genetics-problem-solving/
 - Station timing stays visible so the block remains a chapter workshop instead of a rushed review.
 - The teacher conference table focuses on one misconception and one immediate retry.
 
-## Critical Perspective
+## Critical Thinking
 
-- What makes a molecular explanation complete rather than partial?
-- Why is showing your process especially important in sequence-based biology?
+- In a real genetics case, why is showing sequence evidence more useful than giving only a final answer?
+- How would you check where a molecular explanation first goes wrong before trusting the conclusion?
 
 ## Biblical Integration
 

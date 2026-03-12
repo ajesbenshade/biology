@@ -33,7 +33,7 @@ Each Unit 4 lesson is paced for an 80-90 minute class block:
 - Key Terms
 - Textbook Content
 - In-Class Activities / Minilabs
-- Critical Perspective
+- Critical Thinking
 - Biblical Integration
 - Homework / Assignment
 - Exit Ticket / Reflection
