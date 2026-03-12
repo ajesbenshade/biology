@@ -16,40 +16,44 @@ Use the opening of the unit to frame genetics as the careful study of wonderfull
 ## Teacher Objectives
 
 - Launch Unit 4 vocabulary and evidence routines.
-- Establish observation before explanation as a class habit.
+- Model how inherited trait information comes from both parents.
 - Set up partner roles that can be reused throughout the unit.
 
 ## Materials & Preparation
 
-- Trait photos or opener slides
+- Dragon Genetics worksheet (see downloadable PDF below)
+- Blue and pink Easter eggs with chromosome pieces inside
 - Vocabulary organizer
-- Concept-map handout
+- Student recording sheet for baby dragon traits
 
-## Routine and Logistics Notes
+### Downloadable Resources for Teachers
+
+- [Dragon Genetics Lab worksheet (PDF)]({{ "/assets/downloads/Dragon Genetics Lab.pdf" | relative_url }})
+- [Genetics Day 1 slides (PowerPoint)]({{ "/assets/downloads/Genetics Day 1.pptx" | relative_url }})
 
 - Bellwork is silent for the first 3 minutes.
 - Keep Partner A and Partner B roles stable this week.
-- Pull a short vocabulary check with students who blur evidence and reasoning.
+- Make sure each pair keeps the chromosome pieces from each egg separated until the combination step begins.
 
 ## Bell Work Answer Key
 
-Accept any real inherited trait example that is clearly labeled as observation rather than explanation.
+Accept real traits that students plausibly share with both parents and traits they plausibly share with only one parent. The goal is a concrete starting point for inheritance discussion, not perfect genetic certainty.
 
 ## Lesson Delivery Script (85 min)
 
-1. **Bellwork (8 min):** Students list inherited traits and sort observation from inference.
-2. **Mini-Lesson (15 min):** Introduce DNA, genes, chromosomes, and the Unit 4 evidence routine.
-3. **Guided Practice Block 1 (25 min):** Sort observation, evidence, and explanation statements from class images.
-4. **Guided Practice Block 2 (25 min):** Build the DNA to genes to proteins to traits concept map.
-5. **Debrief (10 min):** Students write one short CER statement about inheritance.
+1. **Bellwork (8 min):** Students respond to the parent-trait prompt and compare one example with a partner.
+2. **Mini-Lesson (15 min):** Introduce DNA, genes, chromosomes, and the idea that offspring receive inherited information from both parents.
+3. **Guided Practice Block 1 (25 min):** Distribute the Dragon Genetics worksheet. Students pair up, open one blue and one pink Easter egg, and combine the four chromosomes from each set.
+4. **Guided Practice Block 2 (25 min):** Students use the combined chromosome information to determine and record the baby dragon's traits, then explain which traits came from the parent sets.
+5. **Debrief (10 min):** Students write one short explanation of how the dragon model demonstrated inheritance from two parents.
 
 ## Exit Ticket Answer Key
 
-Strong answers cite one observation from class and connect it to a cautious genetics claim.
+Strong answers explain that the baby dragon's traits came from combining chromosome information from both parent sets and use at least one trait example from the activity.
 
 ## Planning Note
 
-Save strong observation-versus-inference examples to revisit on Day 6.
+Save one or two strong Dragon Genetics examples to revisit when students later connect chromosomes, genes, and trait outcomes.
 
 ## Prayer Close
 
