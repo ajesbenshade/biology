@@ -45,9 +45,8 @@ Numeric day lesson URLs should remain available as canonical lesson targets wher
 
 ## Compatibility layer: older legacy topic URLs
 
-The earlier legacy lesson paths should also remain available as moved notices:
+The earlier legacy lesson paths listed below still have dedicated moved notices in source:
 
-- `/lessons/unit4/dna-structure-and-replication/` → `/lessons/unit4/day-02/`
 - `/lessons/unit4/day2-dna-replication/` → `/lessons/unit4/day-02/`
 - `/lessons/unit4/day3-gene-expression/` → `/lessons/unit4/gene-expression-and-protein-synthesis/`
 - `/lessons/unit4/day4-mendelian-inheritance/` → `/lessons/unit4/mendelian-inheritance/`

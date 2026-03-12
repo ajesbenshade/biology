@@ -10,7 +10,7 @@ permalink: /lessons/unit4/readme/
 ## Canonical Lesson Sequence
 
 - [Day 1: Introduction to Genetics and Evidence Routines](../unit4/introduction-to-genetics/)
-- [Day 2: DNA Structure and Replication](../unit4/dna-structure-and-replication/)
+- [Day 2: DNA Structure and Replication](../unit4/day-02/)
 - [Day 3: Gene Expression and Protein Synthesis](../unit4/gene-expression-and-protein-synthesis/)
 - [Day 4: Mutations and Protein Variation](../unit4/mutations-and-protein-variation/)
 - [Day 5: Molecular Genetics Problem Solving](../unit4/molecular-genetics-problem-solving/)
