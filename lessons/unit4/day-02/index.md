@@ -72,6 +72,11 @@ The order and reliability of DNA replication reflect God's trustworthy design. S
 - Complete the replication flowchart from helicase opening the DNA to DNA polymerase building complementary strands.
 - Describe one diagnosed model error from class, explain how the group recognized it, and write the correct fix using accurate vocabulary.
 
+## Downloadable Resources
+
+- [DNA Replication Error Menu]({{ "/resources/unit4-dna-replication-error-menu/" | relative_url }})
+- [DNA Replication Flowchart Template]({{ "/resources/unit4-dna-replication-flowchart-template/" | relative_url }})
+
 ## Exit Ticket / Reflection
 
 Which step in replication matters most for accuracy, and why?

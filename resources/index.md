@@ -17,6 +17,8 @@ Use this page to find student support materials, lesson-connected practice resou
 - [Unit 4 Guided Practice Arc]({{ "/resources/unit4-guided-practice-arc/" | relative_url }})
 - [Unit 4 Student View (Objective Targets)]({{ "/lessons/unit4/student-view/" | relative_url }})
 - [Unit 4 Guided Practice Worksheets]({{ "/resources/unit4-guided-practice-worksheets/" | relative_url }})
+- [Unit 4 DNA Replication Error Menu]({{ "/resources/unit4-dna-replication-error-menu/" | relative_url }})
+- [Unit 4 DNA Replication Flowchart Template]({{ "/resources/unit4-dna-replication-flowchart-template/" | relative_url }})
 - [Unit 4 Hub]({{ "/lessons/unit4/" | relative_url }})
 - [Unit 5 Hub]({{ "/lessons/unit5/" | relative_url }})
 
