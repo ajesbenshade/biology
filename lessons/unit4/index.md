@@ -55,7 +55,7 @@ Recommended time flow:
 | Day | Focus | Link |
 |---|---|---|
 | 1 | Introduction to Genetics and Evidence Routines | [Go to Day 1 →]({{ "/lessons/unit4/introduction-to-genetics/" | relative_url }}) |
-| 2 | DNA Structure and Replication | [Go to Day 2 →]({{ "/lessons/unit4/dna-structure-and-replication/" | relative_url }}) |
+| 2 | DNA Structure and Replication | [Go to Day 2 →]({{ "/lessons/unit4/day-02/" | relative_url }}) |
 | 3 | Gene Expression and Protein Synthesis | [Go to Day 3 →]({{ "/lessons/unit4/gene-expression-and-protein-synthesis/" | relative_url }}) |
 | 4 | Mutations and Protein Variation | [Go to Day 4 →]({{ "/lessons/unit4/mutations-and-protein-variation/" | relative_url }}) |
 | 5 | Molecular Genetics Problem Solving | [Go to Day 5 →]({{ "/lessons/unit4/molecular-genetics-problem-solving/" | relative_url }}) |

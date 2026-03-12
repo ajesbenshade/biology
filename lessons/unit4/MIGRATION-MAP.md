@@ -1,11 +1,11 @@
-# Unit 4 Migration Map (Topic-Based Canonical URLs)
+# Unit 4 Migration Map (Current Canonical URLs)
 
 This map defines the current canonical Unit 4 lesson URLs and the compatibility layers that still need to resolve to those canonical targets.
 
 ## Canonical lesson targets
 
 - `/lessons/unit4/introduction-to-genetics/` ← `day-01/index.md`
-- `/lessons/unit4/dna-structure-and-replication/` ← `day-02/index.md`
+- `/lessons/unit4/day-02/` ← `day-02/index.md`
 - `/lessons/unit4/gene-expression-and-protein-synthesis/` ← `day-03/index.md`
 - `/lessons/unit4/mutations-and-protein-variation/` ← `day-04/index.md`
 - `/lessons/unit4/molecular-genetics-problem-solving/` ← `day-05/index.md`
@@ -24,10 +24,9 @@ This map defines the current canonical Unit 4 lesson URLs and the compatibility 
 
 ## Compatibility layer: old numeric day URLs
 
-Old numeric lesson URLs should remain available as moved notices that point to the new canonical lesson targets:
+Numeric day lesson URLs should remain available as canonical lesson targets where they are already current, while older topic paths should resolve to those targets:
 
 - `/lessons/unit4/day-01/` → `/lessons/unit4/introduction-to-genetics/`
-- `/lessons/unit4/day-02/` → `/lessons/unit4/dna-structure-and-replication/`
 - `/lessons/unit4/day-03/` → `/lessons/unit4/gene-expression-and-protein-synthesis/`
 - `/lessons/unit4/day-04/` → `/lessons/unit4/mutations-and-protein-variation/`
 - `/lessons/unit4/day-05/` → `/lessons/unit4/molecular-genetics-problem-solving/`
@@ -48,7 +47,8 @@ Old numeric lesson URLs should remain available as moved notices that point to t
 
 The earlier legacy lesson paths should also remain available as moved notices:
 
-- `/lessons/unit4/day2-dna-replication/` → `/lessons/unit4/dna-structure-and-replication/`
+- `/lessons/unit4/dna-structure-and-replication/` → `/lessons/unit4/day-02/`
+- `/lessons/unit4/day2-dna-replication/` → `/lessons/unit4/day-02/`
 - `/lessons/unit4/day3-gene-expression/` → `/lessons/unit4/gene-expression-and-protein-synthesis/`
 - `/lessons/unit4/day4-mendelian-inheritance/` → `/lessons/unit4/mendelian-inheritance/`
 - `/lessons/unit4/day5-complex-inheritance/` → `/lessons/unit4/complex-inheritance-patterns/`

@@ -77,5 +77,5 @@ How did the Dragon Genetics activity show that offspring inherit trait informati
 ## Navigation
 
 - [← Back to Unit 4 Hub]({{ "/lessons/unit4/" | relative_url }})
-- [Go to Day 2 →]({{ "/lessons/unit4/dna-structure-and-replication/" | relative_url }})
+- [Go to Day 2 →]({{ "/lessons/unit4/day-02/" | relative_url }})
 - [Teacher Guide (Day 1)]({{ "/resources/teacher-guides/unit4/day-01/" | relative_url }})
