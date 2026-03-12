@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Moved: Chapter 12 Problem-Solving Clinic"
-permalink: /lessons/unit4/day11-review-error-analysis/
+title: "Moved: Day 11 Chapter 12 Problem-Solving Clinic"
+permalink: /lessons/unit4/day-11/
 ---
 
 # This lesson has moved

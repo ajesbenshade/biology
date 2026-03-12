@@ -1,77 +1,76 @@
 ---
 layout: default
-title: "Day 16: Practice Assessment and Readiness Conferences"
-description: Unit 4 Day 16 practice assessment lesson with teacher conferences to finalize readiness before the summative assessment.
-permalink: /lessons/unit4/day-16/
+title: "Day 16: Biotechnology Synthesis and Assessment Prep"
+description: Unit 4 Day 16 closes Chapter 13 with a biotechnology synthesis workshop and targeted preparation for the Unit 4 assessment.
+permalink: /lessons/unit4/biotechnology-synthesis-and-assessment-prep/
 ---
 
-# Day 16: Practice Assessment and Readiness Conferences
+# Day 16: Biotechnology Synthesis and Assessment Prep
 
 ## Objectives
 
-- Demonstrate near-ready performance on a short Unit 4 practice assessment.
-- Use feedback immediately to fix final weak spots before the summative assessment.
-- Reflect honestly on readiness and next steps.
-- Use the block schedule for both independent work and meaningful conference time.
+- Synthesize biotechnology tools, applications, and data interpretation in one extended lesson.
+- Connect Chapter 13 work back to major Unit 4 genetics ideas before the summative assessment.
+- Identify one final review priority for the Unit 4 assessment.
 
 ## Key Terms
 
-- readiness check
-- practice assessment
-- conference
-- correction
-- proficiency
+- synthesis
+- assessment preparation
+- case study
+- evidence integration
+- review target
 
 ## Textbook Content
 
-- Short cumulative checkpoint spanning the highest-priority Unit 4 standards.
-- Focus on accurate reasoning and final feedback before assessment day.
-- Conference notes should point students to one precise review target, not a broad reteach list.
+- Chapter 13 synthesis across biotechnology tools, data interpretation, and application claims.
+- Short cumulative preparation tasks that connect biotechnology back to inheritance and molecular genetics.
+- Final review focused on integration rather than a separate practice-assessment day or detached reteach block.
 
 ## In-Class Activities / Minilabs
 
-1. **Bellwork (8 min):** Quick calm-start routine and expectations for the practice assessment.
-2. **Practice Assessment (40 min):** Mixed-format set covering core Unit 4 targets.
-3. **Teacher Conferences (25 min):** Students meet briefly with the teacher to review one strength and one next step while classmates work independently.
-4. **Correction Window (10 min):** Students revise one response using feedback.
-5. **Closing Reflection (7 min):** Students identify one focus for Day 17 and one strength they can rely on.
+1. **Bellwork (8 min):** Identify the biotechnology tool or data skill you feel strongest in and the one you still need to tighten.
+2. **Mini-Lesson (12 min):** Model one full biotechnology synthesis task that combines tool choice, data reading, and evidence-based explanation.
+3. **Guided Practice Block 1 (28 min):** Complete a chapter synthesis packet that connects applications, datasets, and claims.
+4. **Guided Practice Block 2 (25 min):** Revise one synthesis response, complete a short cumulative review check, and mark one final Unit 4 review target.
+5. **Closing Reflection (10 min):** Identify one strength to carry into Day 17 and one concept to review tonight.
 
 ## Classroom Routine Notes
 
-- The practice assessment begins in silence and remains independent until the teacher opens the conference window.
-- While conferences run, students who are not meeting with the teacher continue independent correction or review rather than partner discussion.
-- The teacher follows a short rotation list for conferences and keeps each one focused on one strength, one fixable error, and one final review target.
+- Students write independently during the opening of each block before partner revision begins.
+- Partner checks focus on whether the synthesis response names the right tool, cites actual evidence, and explains the conclusion clearly.
+- The teacher uses short conferences only after students complete one full synthesis attempt.
 
 ## Critical Perspective
 
-- What evidence from today's practice suggests that you are ready for the final assessment?
-- Which corrections matter most right before a summative task?
+- Why does synthesis reveal understanding more clearly than isolated skill drills?
+- Which Chapter 13 ideas connect most naturally back to the earlier parts of Unit 4?
 
 ## Biblical Integration
 
-Honest self-assessment and thoughtful correction are part of wise, disciplined learning.
+Careful synthesis and honest preparation are part of wise, disciplined learning.
 
 <div class="scripture-connection">
 <h3>Scripture Connection</h3>
-<p><strong>James 1:5</strong> encourages students to seek wisdom humbly as they evaluate their own preparedness.</p>
+<p><strong>James 1:5</strong> reminds students to seek wisdom humbly as they connect what they have learned and prepare to demonstrate it.</p>
 </div>
 
 ## Homework / Assignment
 
-- Review teacher conference notes and one final weak area.
+- Review one final weak area and your synthesis notes.
 - Bring all Unit 4 materials needed for Day 17.
 
 ## Exit Ticket / Reflection
 
-What is one strength you can rely on tomorrow, and what is one final detail you still need to review?
+What is one Chapter 13 idea you can now explain more clearly, and what is one final Unit 4 detail you still need to review?
 
 ## Teacher Notes Only (not for students)
 
-- Keep conferences short and specific so every student leaves with a concrete next step.
-- Preserve accommodations that will also be used on the final assessment.
+- Keep the synthesis work concrete and evidence-based rather than presentation-heavy.
+- Preserve any accommodations that will also be used on Day 17.
 
 ## Navigation
 
 - [← Back to Unit 4 Hub]({{ "/lessons/unit4/" | relative_url }})
-- [Go to Day 17 →]({{ "/lessons/unit4/day-17/" | relative_url }})
+- [Go to Day 17 →]({{ "/lessons/unit4/unit-assessment-and-wrap-up/" | relative_url }})
 - [Teacher Guide (Day 16)]({{ "/resources/teacher-guides/unit4/day-16/" | relative_url }})

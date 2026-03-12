@@ -1,25 +1,24 @@
 ---
 layout: default
 title: Unit 4 — Genetics
-description: Unit 4 overview for Genetics with daily lesson links, skill targets, and student resources.
+description: Unit 4 overview for Genetics with chapter-based lesson links, skill targets, and student resources.
 permalink: /lessons/unit4/
 ---
 
 # Unit 4 — Genetics
 
-Welcome to Unit 4. This unit is focused on measurable mastery of National Geographic Biology Chapters 11–13, with support distributed across the full sequence so students get guided practice, correction, and review before the final mastery stretch.
+Welcome to Unit 4. This unit is focused on measurable mastery of National Geographic Biology Chapters 11–13, with the extra time embedded directly inside each chapter arc.
 
 **Master these skills and you'll be ready for AP Biology or college-level science!**
 
 ## What You’ll Master
 
-- Mendelian inheritance and Punnett squares
-- Chi-square analysis and probability
-- Meiosis vs. mitosis diagrams
-- DNA replication (including leading/lagging strands and enzymes)
-- Transcription and translation using codon tables
-- Mutations and gene expression basics
+- DNA structure, replication, and mutation analysis
+- Transcription, translation, and codon decoding
+- Mendelian and complex inheritance
+- Pedigrees, probability, and chi-square reasoning
 - PCR, gel electrophoresis, recombinant DNA, GMOs, and CRISPR
+- Data interpretation and evidence-based biotechnology writing
 
 ## Assessment Weighting
 
@@ -28,7 +27,7 @@ Welcome to Unit 4. This unit is focused on measurable mastery of National Geogra
 
 ## Daily Lesson Structure
 
-Each Unit 4 day page now follows one standardized section order and is paced for an 80-90 minute class block:
+Each Unit 4 lesson is paced for an 80-90 minute class block:
 
 - Objectives
 - Key Terms
@@ -55,46 +54,39 @@ Recommended time flow:
 
 | Day | Focus | Link |
 |---|---|---|
-| 1 | Introduction to Genetics and Evidence Routines | [Go to Day 1 →]({{ "/lessons/unit4/day-01/" | relative_url }}) |
-| 2 | DNA Structure, Replication, and Error Checking | [Go to Day 2 →]({{ "/lessons/unit4/day-02/" | relative_url }}) |
-| 3 | Transcription, Translation, and Codon Practice | [Go to Day 3 →]({{ "/lessons/unit4/day-03/" | relative_url }}) |
-| 4 | Mendelian Inheritance and Chapter 11 Checkpoint | [Go to Day 4 →]({{ "/lessons/unit4/day-04/" | relative_url }}) |
+| 1 | Introduction to Genetics and Evidence Routines | [Go to Day 1 →]({{ "/lessons/unit4/introduction-to-genetics/" | relative_url }}) |
+| 2 | DNA Structure and Replication | [Go to Day 2 →]({{ "/lessons/unit4/dna-structure-and-replication/" | relative_url }}) |
+| 3 | Gene Expression and Protein Synthesis | [Go to Day 3 →]({{ "/lessons/unit4/gene-expression-and-protein-synthesis/" | relative_url }}) |
+| 4 | Mutations and Protein Variation | [Go to Day 4 →]({{ "/lessons/unit4/mutations-and-protein-variation/" | relative_url }}) |
+| 5 | Molecular Genetics Problem Solving | [Go to Day 5 →]({{ "/lessons/unit4/molecular-genetics-problem-solving/" | relative_url }}) |
+| 6 | Chapter 11 Review and Assessment | [Go to Day 6 →]({{ "/lessons/unit4/chapter-11-review-and-assessment/" | relative_url }}) |
 
-### Chapter 12 — Genetic Variation and Heredity
+### Chapter 12 — Inheritance
 
 | Day | Focus | Link |
 |---|---|---|
-| 5 | Complex Inheritance and Guided Problem Solving | [Go to Day 5 →]({{ "/lessons/unit4/day-05/" | relative_url }}) |
-| 6 | Human Genetics, Pedigrees, and Evidence Writing | [Go to Day 6 →]({{ "/lessons/unit4/day-06/" | relative_url }}) |
-| 7 | Chapter 12 Review and Biotechnology Bridge | [Go to Day 7 →]({{ "/lessons/unit4/day-07/" | relative_url }}) |
-| 8 | Genetic Engineering Applications and Data Reasoning | [Go to Day 8 →]({{ "/lessons/unit4/day-08/" | relative_url }}) |
+| 7 | Mendelian Inheritance | [Go to Day 7 →]({{ "/lessons/unit4/mendelian-inheritance/" | relative_url }}) |
+| 8 | Complex Inheritance Patterns | [Go to Day 8 →]({{ "/lessons/unit4/complex-inheritance-patterns/" | relative_url }}) |
+| 9 | Human Genetics and Pedigrees | [Go to Day 9 →]({{ "/lessons/unit4/human-genetics-and-pedigrees/" | relative_url }}) |
+| 10 | Inheritance Probability and Chi-Square | [Go to Day 10 →]({{ "/lessons/unit4/inheritance-probability-and-chi-square/" | relative_url }}) |
+| 11 | Chapter 12 Problem-Solving Clinic | [Go to Day 11 →]({{ "/lessons/unit4/chapter-12-problem-solving-clinic/" | relative_url }}) |
+| 12 | Chapter 12 Review and Assessment | [Go to Day 12 →]({{ "/lessons/unit4/chapter-12-review-and-assessment/" | relative_url }}) |
 
 ### Chapter 13 — Genetic Technologies
 
 | Day | Focus | Link |
 |---|---|---|
-| 9 | Biotechnology Data Analysis and CER Writing | [Go to Day 9 →]({{ "/lessons/unit4/day-09/" | relative_url }}) |
-| 10 | Mixed Practice Workshop and Small-Group Support | [Go to Day 10 →]({{ "/lessons/unit4/day-10/" | relative_url }}) |
-| 11 | Error Analysis and Targeted Reteach | [Go to Day 11 →]({{ "/lessons/unit4/day-11/" | relative_url }}) |
-{: .overflow-x-auto mb-6 }
-
-### Unit 4 Mastery Runway
-
-| Day | Focus | Link |
-|---|---|---|
-| 12 | Cumulative Skill Workshop and Reteach | [Go to Day 12 →]({{ "/lessons/unit4/day-12/" | relative_url }}) |
-| 13 | Data and Reasoning Studio | [Go to Day 13 →]({{ "/lessons/unit4/day-13/" | relative_url }}) |
-| 14 | Problem-Solving Clinic and Review Workshop | [Go to Day 14 →]({{ "/lessons/unit4/day-14/" | relative_url }}) |
-| 15 | Full Unit Synthesis Workshop | [Go to Day 15 →]({{ "/lessons/unit4/day-15/" | relative_url }}) |
-| 16 | Practice Assessment and Readiness Conferences | [Go to Day 16 →]({{ "/lessons/unit4/day-16/" | relative_url }}) |
-| 17 | Unit Assessment and Wrap-Up | [Go to Day 17 →]({{ "/lessons/unit4/day-17/" | relative_url }}) |
-{: .overflow-x-auto mb-6 }
+| 13 | Biotechnology Tools and Applications | [Go to Day 13 →]({{ "/lessons/unit4/biotechnology-tools-and-applications/" | relative_url }}) |
+| 14 | Biotechnology Data Analysis | [Go to Day 14 →]({{ "/lessons/unit4/biotechnology-data-analysis/" | relative_url }}) |
+| 15 | Biotechnology CER and Mixed Practice | [Go to Day 15 →]({{ "/lessons/unit4/biotechnology-cer-and-mixed-practice/" | relative_url }}) |
+| 16 | Biotechnology Synthesis and Assessment Prep | [Go to Day 16 →]({{ "/lessons/unit4/biotechnology-synthesis-and-assessment-prep/" | relative_url }}) |
+| 17 | Unit Assessment and Wrap-Up | [Go to Day 17 →]({{ "/lessons/unit4/unit-assessment-and-wrap-up/" | relative_url }}) |
 
 ## Pacing Notes
 
-- Days 1-11 now include embedded retrieval, error analysis, writing practice, and short conference windows so support is not delayed until the end of the unit.
-- Days 12-15 narrow the focus to cumulative rehearsal, synthesis, and readiness rather than serving as the first major support window.
-- Day 16 remains the practice-assessment and conference day, and Day 17 remains the summative assessment day.
+- Chapter 11 now uses six days so mutation analysis, molecular problem solving, and chapter review happen before the unit shifts to heredity.
+- Chapter 12 now uses six days so inheritance modeling, pedigrees, quantitative reasoning, clinic work, and chapter review remain inside the heredity arc.
+- Chapter 13 now uses five days so tools, applications, data analysis, synthesis, and the summative assessment stay tied to the biotechnology block.
 
 ## Student Resources
 

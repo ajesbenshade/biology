@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Moved: Molecular Genetics Problem Solving"
-permalink: /lessons/unit4/day10-lab-skills-practice/
+title: "Moved: Day 5 Molecular Genetics Problem Solving"
+permalink: /lessons/unit4/day-05/
 ---
 
 # This lesson has moved

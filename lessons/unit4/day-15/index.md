@@ -1,77 +1,76 @@
 ---
 layout: default
-title: "Day 15: Full Unit Synthesis Workshop"
-description: Unit 4 Day 15 synthesis workshop connecting molecular genetics, heredity, and biotechnology into one cumulative sequence.
-permalink: /lessons/unit4/day-15/
+title: "Day 15: Biotechnology CER and Mixed Practice"
+description: Unit 4 Day 15 extends Chapter 13 with CER writing and mixed biotechnology problem solving before assessment preparation.
+permalink: /lessons/unit4/biotechnology-cer-and-mixed-practice/
 ---
 
-# Day 15: Full Unit Synthesis Workshop
+# Day 15: Biotechnology CER and Mixed Practice
 
 ## Objectives
 
-- Connect major Unit 4 ideas into one coherent explanation of genetics.
-- Practice cumulative review across Chapters 11–13 without separating concepts into isolated buckets.
-- Defend answers with vocabulary, diagrams, and evidence.
-- Prepare directly for the practice assessment by rehearsing transitions between molecular, heredity, and biotechnology ideas.
+- Write a biotechnology CER response using specific data and clear reasoning.
+- Connect application knowledge and dataset analysis in one chapter-based practice block.
+- Identify which Chapter 13 skill still needs the most review before assessment preparation.
 
 ## Key Terms
 
-- cumulative review
-- synthesis
-- model accuracy
-- evidence-based explanation
-- mastery check
+- CER
+- evidence sentence
+- reasoning
+- data interpretation
+- mixed practice
 
 ## Textbook Content
 
-- Unit-wide review of DNA information flow, inheritance patterns, and biotechnology applications.
-- Emphasis on synthesis instead of isolated fact recall.
-- Strong responses should show sequence words, evidence, and accurate vocabulary across chapters.
+- Chapter 13 cumulative practice across applications, tools, and data.
+- CER writing that uses controls, band patterns, and precise vocabulary.
+- Mixed practice designed to stay inside biotechnology and strengthen Chapter 13 fluency before synthesis and final review.
 
 ## In-Class Activities / Minilabs
 
-1. **Bellwork (8 min):** Sequence DNA to protein and identify where a mutation would change the final product.
-2. **Mini-Lesson (15 min):** Teacher models how Unit 4 concepts connect across chapters using a full-sequence exemplar.
-3. **Guided Practice Block 1 (25 min):** Students solve a structured packet moving from replication to heredity to biotechnology evidence.
-4. **Guided Practice Block 2 (25 min):** Students complete a written synthesis response, then use a readiness checklist to mark strong and weak strands before a short partner share.
-5. **Debrief (10 min):** Students self-rate readiness on a simple checklist and name one strand to review before Day 16.
+1. **Bellwork (8 min):** Improve a weak biotechnology evidence sentence.
+2. **Mini-Lesson (15 min):** Build one class CER from a shared dataset.
+3. **Guided Practice Block 1 (25 min):** Students write one full CER independently.
+4. **Guided Practice Block 2 (25 min):** Complete a short mixed biotechnology practice set and revise one CER sentence after feedback.
+5. **Debrief (10 min):** Mark one Chapter 13 strength and one target to review before Day 16.
 
 ## Classroom Routine Notes
 
-- Students enter with synthesis packets already on desks so the bellwork transitions directly into the model.
-- During Block 2, each student writes independently for the first half of the block, then swaps with one partner for a quick checklist-based read.
-- The teacher uses the partner-share window to mark who still needs an extra readiness conference on Day 16.
+- Students write independently first so peer feedback improves real thinking instead of replacing it.
+- Partner checks focus on evidence specificity before reasoning style.
+- The teacher uses conference time to point each student toward one concrete review target for Day 16.
 
 ## Critical Perspective
 
-- Why is it harder to reason well when concepts are isolated instead of connected?
-- What evidence best shows that you understand the full sequence from DNA to trait?
+- What makes a CER response convincing instead of vague?
+- How does mixed practice reveal whether understanding is really flexible?
 
 ## Biblical Integration
 
-Studying connected biological systems can increase wonder at the coherence and order of creation.
+Careful reasoning and truthful communication are part of faithful scientific work.
 
 <div class="scripture-connection">
 <h3>Scripture Connection</h3>
-<p><strong>Romans 1:20</strong> can frame the study of biological order as one way God's wisdom is visible through what He has made.</p>
+<p><strong>Ephesians 4:25</strong> can frame accurate scientific writing as one expression of truthfulness.</p>
 </div>
 
 ## Homework / Assignment
 
-- Finish the cumulative review checklist.
-- Prepare for tomorrow's practice assessment by reviewing your weakest strand.
+- Revise your biotechnology CER using today's feedback.
+- Review your weakest Chapter 13 skill before tomorrow's synthesis block.
 
 ## Exit Ticket / Reflection
 
-What is one connection across Chapters 11–13 that is clearer to you now than it was last week, and what evidence helped you see it?
+Which Chapter 13 skill feels strongest now, and which still needs one more pass?
 
 ## Teacher Notes Only (not for students)
 
-- Push students to explain transitions between ideas, not just isolated facts.
-- Save strong exemplar responses to model before Day 16.
+- Keep the mixed practice narrow enough that students still produce one strong written response.
+- Use today's work to shape Day 16 conference priorities.
 
 ## Navigation
 
 - [← Back to Unit 4 Hub]({{ "/lessons/unit4/" | relative_url }})
-- [Go to Day 16 →]({{ "/lessons/unit4/day-16/" | relative_url }})
+- [Go to Day 16 →]({{ "/lessons/unit4/biotechnology-synthesis-and-assessment-prep/" | relative_url }})
 - [Teacher Guide (Day 15)]({{ "/resources/teacher-guides/unit4/day-15/" | relative_url }})

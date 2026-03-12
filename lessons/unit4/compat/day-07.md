@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Moved: Mendelian Inheritance"
-permalink: /lessons/unit4/day4-mendelian-inheritance/
+title: "Moved: Day 7 Mendelian Inheritance"
+permalink: /lessons/unit4/day-07/
 ---
 
 # This lesson has moved

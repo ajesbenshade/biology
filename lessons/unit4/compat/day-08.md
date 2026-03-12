@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Moved: Complex Inheritance Patterns"
-permalink: /lessons/unit4/day5-complex-inheritance/
+title: "Moved: Day 8 Complex Inheritance Patterns"
+permalink: /lessons/unit4/day-08/
 ---
 
 # This lesson has moved

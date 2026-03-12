@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Moved: Chapter 12 Review and Assessment"
-permalink: /lessons/unit4/day7-review-biotech/
+title: "Moved: Day 12 Chapter 12 Review and Assessment"
+permalink: /lessons/unit4/day-12/
 ---
 
 # This lesson has moved

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Moved: Biotechnology Data Analysis"
-permalink: /lessons/unit4/day9-biotech-data-analysis/
+title: "Moved: Day 14 Biotechnology Data Analysis"
+permalink: /lessons/unit4/day-14/
 ---
 
 # This lesson has moved

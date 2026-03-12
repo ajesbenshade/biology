@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Moved: Biotechnology Tools and Applications"
-permalink: /lessons/unit4/day8-genetic-engineering/
+title: "Moved: Day 13 Biotechnology Tools and Applications"
+permalink: /lessons/unit4/day-13/
 ---
 
 # This lesson has moved

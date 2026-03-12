@@ -1,77 +1,76 @@
 ---
 layout: default
-title: "Day 11: Error Analysis and Targeted Reteach"
-description: Unit 4 Day 11 targeted review lesson correcting misconceptions before the final mastery runway.
-permalink: /lessons/unit4/day-11/
+title: "Day 11: Chapter 12 Problem-Solving Clinic"
+description: Unit 4 Day 11 uses an embedded Chapter 12 clinic to repair heredity errors before the chapter closes.
+permalink: /lessons/unit4/chapter-12-problem-solving-clinic/
 ---
 
-# Day 11: Error Analysis and Targeted Reteach
+# Day 11: Chapter 12 Problem-Solving Clinic
 
 ## Objectives
 
-- Identify and correct common genetics problem-solving errors.
-- Strengthen explanations using precise scientific vocabulary.
-- Improve readiness for Unit 4 summative assessment.
-- Use error patterns from earlier distributed practice to target the right reteach groups.
+- Identify and correct common inheritance problem-solving errors.
+- Strengthen genotype, phenotype, pedigree, and chi-square explanations.
+- Use targeted practice inside the chapter rather than delaying support until the end of the unit.
 
 ## Key Terms
 
-- misconception
-- error analysis
-- model accuracy
-- evidence support
-- mastery
+- clinic
+- error pattern
+- correction
+- inheritance reasoning
+- targeted practice
 
 ## Textbook Content
 
-- High-priority Unit 4 concepts requiring accurate reasoning before assessment.
-- Error-analysis methods for revising weak or incorrect responses.
-- Focused reteach strands selected from Days 4, 7, 9, and 10 checkpoint data.
+- Chapter 12 correction cycle across Mendelian inheritance, complex inheritance, pedigrees, and chi-square.
+- Error-analysis methods that improve readiness before the chapter closes.
+- Mixed practice still anchored to heredity rather than later biotechnology work.
 
 ## In-Class Activities / Minilabs
 
-1. **Bellwork (8 min):** Diagnose one incorrect sample response and name the first place the reasoning broke down.
-2. **Mini-Lesson (15 min):** Run a focused misconception review using the most common errors from earlier checkpoints.
-3. **Guided Practice Block 1 (27 min):** Complete small-group error analysis and response revision in targeted skill buckets.
-4. **Guided Practice Block 2 (25 min):** Finish a short mixed-format readiness check, then correct one missed item immediately.
-5. **Debrief (10 min):** Students name one corrected misconception and one specific target for Day 12.
+1. **Bellwork (8 min):** Diagnose one incorrect heredity response and name the first place the reasoning broke down.
+2. **Mini-Lesson (12 min):** Review the most common Chapter 12 errors with corrected models.
+3. **Guided Practice Block 1 (30 min):** Students work in targeted heredity groups to revise sample responses.
+4. **Guided Practice Block 2 (25 min):** Complete one short mixed readiness check and correct one missed item immediately.
+5. **Debrief (10 min):** Name one error pattern you now recognize faster than before.
 
 ## Classroom Routine Notes
 
-- Students begin the error diagnosis independently, then shift into targeted skill groups after the teacher identifies the main misconception buckets.
-- Each group must underline the first place an answer goes wrong before revising the rest of the response.
-- During the readiness check, the teacher maintains a quiet first half and then releases one item for immediate partner correction before the final debrief.
+- Students underline the first wrong step before they rewrite the rest of a sample.
+- Groups are formed by dominant error pattern so feedback stays narrow and useful.
+- The teacher keeps the room quiet during the first half of the readiness check, then releases one item for immediate correction.
 
 ## Critical Perspective
 
-- How does error analysis strengthen confidence in scientific conclusions?
-- Which corrections required better evidence versus better vocabulary?
+- Why is it more useful to find where an answer breaks than to only copy a correct answer?
+- How does targeted support inside the chapter change readiness?
 
 ## Biblical Integration
 
-Growth in understanding includes correction, perseverance, and commitment to truth in learning.
+Correction, humility, and perseverance are part of faithful intellectual work.
 
 <div class="scripture-connection">
 <h3>Scripture Connection</h3>
-<p><strong>Psalm 19:1</strong> encourages students to pursue scientific understanding with wonder, discipline, and humility.</p>
+<p><strong>Proverbs 15:31</strong> can frame correction as something that leads to wisdom rather than something to avoid.</p>
 </div>
 
 ## Homework / Assignment
 
-- Complete the final Unit 4 review sheet.
-- Revise one readiness-check response with stronger evidence.
+- Finish any incomplete heredity clinic corrections.
+- Review your weakest Chapter 12 skill for tomorrow's chapter close.
 
 ## Exit Ticket / Reflection
 
-What is one error pattern you corrected today, and what changed in your reasoning?
+Which heredity error do you now catch faster, and what changed in your process?
 
 ## Teacher Notes Only (not for students)
 
-- Emphasize improvement through specific corrective feedback.
-- Keep assessment preparation focused on objective mastery and use today's revisions to set Day 12 conference priorities.
+- Keep this day truly chapter-specific so it strengthens heredity reasoning before the chapter closes.
+- Use the clinic and readiness check to shape Day 12 emphasis.
 
 ## Navigation
 
 - [← Back to Unit 4 Hub]({{ "/lessons/unit4/" | relative_url }})
-- [Go to Day 12 →]({{ "/lessons/unit4/day-12/" | relative_url }})
+- [Go to Day 12 →]({{ "/lessons/unit4/chapter-12-review-and-assessment/" | relative_url }})
 - [Teacher Guide (Day 11)]({{ "/resources/teacher-guides/unit4/day-11/" | relative_url }})

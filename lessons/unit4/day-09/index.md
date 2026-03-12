@@ -1,78 +1,76 @@
 ---
 layout: default
-title: "Day 9: Biotechnology Data Analysis and CER Writing"
-description: Unit 4 Day 9 lesson focused on PCR and gel data interpretation with one modeled CER and a narrower writing target.
-permalink: /lessons/unit4/day-09/
+title: "Day 9: Human Genetics and Pedigrees"
+description: Unit 4 Day 9 develops pedigree interpretation and inheritance claims inside the Chapter 12 heredity arc.
+permalink: /lessons/unit4/human-genetics-and-pedigrees/
 ---
 
-# Day 9: Biotechnology Data Analysis and CER Writing
+# Day 9: Human Genetics and Pedigrees
 
 ## Objectives
 
-- Interpret PCR output data accurately.
-- Analyze gel electrophoresis band patterns.
-- Write claim-evidence-reasoning responses from biotechnology datasets.
-- Calibrate writing quality before the cumulative workshop days later in the unit.
+- Construct and interpret pedigree charts using standard symbols.
+- Distinguish autosomal and sex-linked inheritance clues.
+- Write a short inheritance claim supported by multiple pedigree clues.
 
 ## Key Terms
 
-- PCR output
-- gel band pattern
-- control sample
-- claim-evidence-reasoning
-- data interpretation
+- pedigree
+- carrier
+- autosomal
+- sex-linked
+- inheritance clue
 
 ## Textbook Content
 
-- Chapter 13 data analysis skills for biotechnology investigations.
-- Comparative interpretation of multiple evidence sources.
-- Writing emphasis on controls, specific band patterns, and reasoning that goes beyond restating data.
+- Chapter 12 family-based inheritance analysis.
+- Pedigree conventions and generational pattern reading.
+- Evidence writing that uses more than one clue before naming a pattern.
 
 ## In-Class Activities / Minilabs
 
-1. **Bellwork (8 min):** Complete a PCR and gel interpretation warm-up item and highlight the control that matters most.
-2. **Mini-Lesson (15 min):** Model how to read sample outputs, identify controls, and separate evidence from reasoning.
-3. **Guided Practice Block 1 (27 min):** Interpret one full biotechnology scenario and one shorter comparison item using provided data.
-4. **Guided Practice Block 2 (25 min):** Build one CER together from the class dataset, then draft an individual evidence sentence and claim for homework expansion.
-5. **Debrief (10 min):** Record one specific data detail you will use when finishing the full CER at home and one writing move to reuse on Day 13.
+1. **Bellwork (8 min):** Interpret one simple pedigree and mark the clue that led to your first conclusion.
+2. **Mini-Lesson (15 min):** Review pedigree symbols, common errors, and autosomal versus sex-linked evidence.
+3. **Guided Practice Block 1 (25 min):** Analyze sample family trees and identify likely inheritance modes.
+4. **Guided Practice Block 2 (25 min):** Write one short explanation that defends a pedigree conclusion with evidence.
+5. **Debrief (10 min):** Share one clue that changed your initial conclusion.
 
 ## Classroom Routine Notes
 
-- Gel packets stay face down until the teacher labels the control lanes with the whole class.
-- In the CER block, Partner A reads the claim and evidence aloud while Partner B checks only for evidence specificity before partners switch.
-- The teacher glances at each pair's evidence sentence before students move to homework planning and pulls a small reteach cluster if control comparisons are still missing.
+- Bellwork starts in pairs, then students shift into analysis groups with assigned roles.
+- Groups must identify at least two clues before they ask for teacher confirmation.
+- The teacher pulls a short support table for students who jump too quickly to sex-linked conclusions.
 
 ## Critical Perspective
 
-- What makes one dataset more reliable than another?
-- Which conclusions are warranted versus overstated from the available evidence?
+- What makes a pedigree conclusion careful instead of rushed?
+- Why is one clue rarely enough to settle an inheritance pattern?
 
 ## Biblical Integration
 
-Truthful scientific communication requires precision, honesty, and responsible interpretation of evidence.
+Genetics in families should be discussed with compassion, humility, and truthfulness.
 
 <div class="scripture-connection">
 <h3>Scripture Connection</h3>
-<p><strong>Proverbs 3:5-6</strong> can guide wise decision-making while evaluating modern biotechnology claims.</p>
+<p><strong>Philippians 2:4</strong> encourages students to approach family-based genetics with care for real people rather than detached curiosity.</p>
 </div>
 
 ## Homework / Assignment
 
-- Correct missed data-interpretation items.
-- Finish the full CER for the assigned scenario using today's modeled structure.
-- Complete the Unit 4 review packet for the upcoming assessment.
+- Complete the pedigree analysis worksheet.
+- Revise your inheritance explanation using at least two pedigree clues.
 
 ## Exit Ticket / Reflection
 
-What is one specific data detail you can cite when you finish your homework CER tonight?
+What additional data would make you more confident in a pedigree conclusion?
 
 ## Teacher Notes Only (not for students)
 
-- Prioritize evidence quality and vocabulary accuracy in feedback.
-- Encourage students to justify claims with specific data points and save strong CER samples for cumulative review days.
+- Keep the writing emphasis on citing evidence from multiple generations.
+- Use today's work to prepare for probability and chi-square tomorrow.
 
 ## Navigation
 
 - [← Back to Unit 4 Hub]({{ "/lessons/unit4/" | relative_url }})
-- [Go to Day 10 →]({{ "/lessons/unit4/day-10/" | relative_url }})
+- [Go to Day 10 →]({{ "/lessons/unit4/inheritance-probability-and-chi-square/" | relative_url }})
 - [Teacher Guide (Day 9)]({{ "/resources/teacher-guides/unit4/day-09/" | relative_url }})

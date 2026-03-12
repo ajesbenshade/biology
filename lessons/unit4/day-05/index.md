@@ -1,78 +1,76 @@
 ---
 layout: default
-title: "Day 5: Complex Inheritance and Guided Problem Solving"
-description: Unit 4 Day 5 lesson on non-Mendelian inheritance models with a guided problem-solving clinic.
-permalink: /lessons/unit4/day-05/
+title: "Day 5: Molecular Genetics Problem Solving"
+description: Unit 4 Day 5 uses an extended Chapter 11 workshop to practice replication, gene expression, and mutation reasoning.
+permalink: /lessons/unit4/molecular-genetics-problem-solving/
 ---
 
-# Day 5: Complex Inheritance and Guided Problem Solving
+# Day 5: Molecular Genetics Problem Solving
 
 ## Objectives
 
-- Explain incomplete dominance, codominance, and multiple alleles.
-- Model blood-type inheritance using genotype evidence.
-- Compare Mendelian and non-Mendelian outcomes using data.
-- Use a guided clinic structure to locate where problem-solving errors begin.
+- Solve mixed molecular genetics problems with stronger setup and vocabulary.
+- Connect replication, gene expression, and mutation analysis in one workflow.
+- Identify where a molecular biology error begins instead of only fixing the final answer.
 
 ## Key Terms
 
-- incomplete dominance
-- codominance
-- multiple alleles
-- blood type
-- inheritance pattern
+- molecular genetics
+- sequence evidence
+- template strand
+- amino acid change
+- error analysis
 
 ## Textbook Content
 
-- Chapter 12 complex inheritance framework and worked examples.
-- ABO blood group case study for genotype-phenotype interpretation.
-- Practice set emphasizing setup, evidence, and correction of common inheritance mistakes.
+- Chapter 11 cumulative practice across DNA structure, replication, transcription, translation, and mutation.
+- Mixed-sequence reasoning that prepares students for a true chapter close rather than a late-unit reteach.
+- Error analysis focused on process, not just answers.
 
 ## In-Class Activities / Minilabs
 
-1. **Bellwork (8 min):** Differentiate genotype and phenotype with one example and explain how you know which is which.
-2. **Mini-Lesson (15 min):** Model incomplete dominance, codominance, and multiple alleles with worked examples.
-3. **Guided Practice Block 1 (27 min):** Complete a blood-type inheritance simulation and annotate where each genotype leads to a phenotype outcome.
-4. **Guided Practice Block 2 (25 min):** Rotate through a short clinic set: classify outcomes as Mendelian or non-Mendelian, solve one blood-type family puzzle, and correct one flawed sample response.
-5. **Debrief (10 min):** Record one "watch out" note for complex inheritance problems and one example of evidence that made a pattern clear.
+1. **Bellwork (8 min):** Diagnose a flawed transcription or translation response and name the first wrong step.
+2. **Mini-Lesson (12 min):** Model one full molecular genetics problem from DNA to protein outcome.
+3. **Guided Practice Block 1 (30 min):** Rotate through short problem sets on replication, codons, and mutation effects.
+4. **Guided Practice Block 2 (25 min):** Run partner error-checks and teacher conferences on the weakest skill strand.
+5. **Debrief (10 min):** Record one process move that made a later problem easier.
 
 ## Classroom Routine Notes
 
-- Students begin in triads when possible: one solver, one checker, and one vocabulary monitor who listens for phenotype-versus-genotype confusion.
-- The teacher uses a fast transition cue between simulation and clinic work so genotype cards are packed before new materials come out.
-- During the clinic block, the teacher pulls a short side-table reteach for students who still confuse codominance and incomplete dominance after the first worked example.
+- Students must mark the first error line before correcting the rest of a sample response.
+- Station timing stays visible so the block remains a chapter workshop instead of a rushed review.
+- The teacher conference table focuses on one misconception and one immediate retry.
 
 ## Critical Perspective
 
-- How can similar phenotype patterns emerge from different genetic mechanisms?
-- What assumptions should we test before claiming one inheritance model fits best?
+- What makes a molecular explanation complete rather than partial?
+- Why is showing your process especially important in sequence-based biology?
 
 ## Biblical Integration
 
-Human biological diversity can be studied with rigor and respect. Students are called to analyze differences truthfully and compassionately.
+Patient revision and careful problem solving reflect integrity in scientific work.
 
 <div class="scripture-connection">
 <h3>Scripture Connection</h3>
-<p><strong>Psalm 104:24</strong> emphasizes God’s wisdom in creating biological complexity, including varied inheritance patterns.</p>
+<p><strong>Colossians 3:23</strong> supports doing careful work wholeheartedly, even when the task is repetitive practice.</p>
 </div>
 
 ## Homework / Assignment
 
-- Complete the complex inheritance analysis questions from the simulation.
-- Prepare one evidence-based claim comparing two inheritance patterns.
-- Correct one flawed blood-type explanation using genotype evidence.
+- Complete one mixed molecular review set with work shown.
+- Correct any practice item you missed and explain why the revision is stronger.
 
 ## Exit Ticket / Reflection
 
-Which type of complex inheritance was easiest to identify, and which clue helped you decide?
+Which molecular genetics skill improved most today, and what evidence shows that?
 
 ## Teacher Notes Only (not for students)
 
-- Advanced extension: Add multi-generation blood-type inference challenge.
-- Support for struggling learners: Use color-coded genotype cards and a clinic checklist that marks where to verify setup before solving.
+- Use today to decide which students need the most support on Day 6.
+- Keep the workshop tightly tied to Chapter 11, not to later inheritance content.
 
 ## Navigation
 
 - [← Back to Unit 4 Hub]({{ "/lessons/unit4/" | relative_url }})
-- [Go to Day 6 →]({{ "/lessons/unit4/day-06/" | relative_url }})
+- [Go to Day 6 →]({{ "/lessons/unit4/chapter-11-review-and-assessment/" | relative_url }})
 - [Teacher Guide (Day 5)]({{ "/resources/teacher-guides/unit4/day-05/" | relative_url }})

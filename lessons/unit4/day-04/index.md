@@ -1,77 +1,76 @@
 ---
 layout: default
-title: "Day 4: Mendelian Inheritance and Chapter 11 Checkpoint"
-description: Unit 4 Day 4 lesson on monohybrid inheritance, chi-square reasoning, and a Chapter 11 checkpoint.
-permalink: /lessons/unit4/day-04/
+title: "Day 4: Mutations and Protein Variation"
+description: Unit 4 Day 4 extends Chapter 11 with mutation analysis and the effects of sequence changes on protein outcomes.
+permalink: /lessons/unit4/mutations-and-protein-variation/
 ---
 
-# Day 4: Mendelian Inheritance and Chapter 11 Checkpoint
+# Day 4: Mutations and Protein Variation
 
 ## Objectives
 
-- Solve monohybrid Punnett square problems accurately.
-- Distinguish genotype and phenotype in inheritance analysis.
-- Use chi-square reasoning to compare expected and observed ratios.
-- Demonstrate Chapter 11 readiness through a short checkpoint and immediate correction cycle.
+- Distinguish point mutations from frameshift mutations.
+- Predict how sequence changes can alter protein products.
+- Use evidence from DNA, RNA, and codon changes to explain molecular consequences.
 
 ## Key Terms
 
-- genotype
-- phenotype
-- dominant
-- recessive
-- chi-square
+- mutation
+- substitution
+- insertion
+- deletion
+- frameshift
 
 ## Textbook Content
 
-- Mendel’s experimental approach and inheritance vocabulary.
-- Predictive modeling with Punnett squares and ratio checks.
-- Chapter 11 cumulative links among DNA, protein synthesis, and visible trait outcomes.
+- Chapter 11 extension on how information changes affect protein outcomes.
+- Mutation types linked to transcription and translation review.
+- Focus on tracing consequences from sequence change to product change.
 
 ## In-Class Activities / Minilabs
 
-1. **Bellwork (8 min):** Predict outcomes from a simple dominant/recessive cross and explain whether your evidence is genotype-based or phenotype-based.
-2. **Mini-Lesson (15 min):** Review Mendelian vocabulary, model assumptions, and the structure of a strong genetics explanation.
-3. **Guided Practice Block 1 (27 min):** Complete a multi-problem Punnett square set with teacher checkpoints and optional coin-flip simulation data.
-4. **Guided Practice Block 2 (25 min):** Run a short Chapter 11 checkpoint with immediate partner error analysis on one missed item.
-5. **Debrief (10 min):** Introduce chi-square interpretation and record one idea that still needs review before Day 5.
+1. **Bellwork (8 min):** Compare two short sequences and identify which base changed.
+2. **Mini-Lesson (15 min):** Model how substitution, insertion, and deletion affect downstream codons.
+3. **Guided Practice Block 1 (25 min):** Annotate DNA-to-protein examples and classify mutation types.
+4. **Guided Practice Block 2 (27 min):** Complete a short mutation clinic and write one evidence-based explanation of a changed protein outcome.
+5. **Debrief (10 min):** Record one pattern that helps you tell substitution and frameshift errors apart.
 
 ## Classroom Routine Notes
 
-- Students solve the first Punnett square independently before any partner talk begins.
-- During Guided Practice Block 1, Partner A sets up parent alleles and Partner B checks the genotype boxes; roles switch on the second problem.
-- In the checkpoint block, the teacher keeps the room quiet for the first half, then releases one missed item for partner error analysis while conferencing quickly with students who still confuse genotype and phenotype.
+- Students highlight the exact location of a mutation before they make any claim about the result.
+- Partner checks focus on the first codon affected, not just the final answer.
+- The teacher pauses the room once to model how frameshift effects compound across a sequence.
 
 ## Critical Perspective
 
-- How do we separate strong model use from overconfident claims?
-- Which inheritance conclusions are directly supported by measured outcomes?
+- Why is it misleading to say that every mutation has the same effect?
+- How does tracing a sequence change protect you from shallow conclusions?
 
 ## Biblical Integration
 
-Studying inheritance patterns develops precision, logic, and stewardship of knowledge. Students practice careful reasoning while honoring truth and evidence.
+Studying how changes in biological information affect outcomes deepens respect for the precision of living systems.
 
 <div class="scripture-connection">
 <h3>Scripture Connection</h3>
-<p><strong>Genesis 1:21</strong> (“according to their kinds”) supports careful discussion of observable variation within populations.</p>
+<p><strong>Proverbs 18:13</strong> reminds students to examine the evidence fully before drawing a conclusion.</p>
 </div>
 
 ## Homework / Assignment
 
-- Complete ten monohybrid practice problems.
-- Correct one checkpoint response and write one paragraph comparing genotype predictions to phenotype outcomes.
+- Complete the mutation comparison practice set.
+- Write one short explanation of how a sequence change altered a protein product.
 
 ## Exit Ticket / Reflection
 
-When observed ratios differ from expected ratios, what is your next scientific step, and what evidence would you check first?
+Which mutation type is easier for you to recognize, and what clue helps most?
 
 ## Teacher Notes Only (not for students)
 
-- Advanced extension: Add incomplete dominance comparison problems.
-- Support for struggling learners: Provide a Punnett square setup template and a genotype-versus-phenotype sentence frame.
+- Keep the lesson grounded in sequence evidence rather than broad claims about disorders.
+- Use common mutation errors as material for Day 5 problem solving.
 
 ## Navigation
 
 - [← Back to Unit 4 Hub]({{ "/lessons/unit4/" | relative_url }})
-- [Go to Day 5 →]({{ "/lessons/unit4/day-05/" | relative_url }})
+- [Go to Day 5 →]({{ "/lessons/unit4/molecular-genetics-problem-solving/" | relative_url }})
 - [Teacher Guide (Day 4)]({{ "/resources/teacher-guides/unit4/day-04/" | relative_url }})

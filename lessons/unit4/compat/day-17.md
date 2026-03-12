@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Moved: Unit Assessment and Wrap-Up"
-permalink: /lessons/unit4/day12-unit-assessment-wrap-up/
+title: "Moved: Day 17 Unit Assessment and Wrap-Up"
+permalink: /lessons/unit4/day-17/
 ---
 
 # This lesson has moved

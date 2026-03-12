@@ -81,4 +81,4 @@ Make sure you can:
 - Review vocabulary first.
 - Practice one diagram, one genetics problem, and one short-response question each session.
 - Use the [Unit 4 Hub]({{ "/lessons/unit4/" | relative_url }}) and [Unit 4 Guided Practice Worksheets]({{ "/resources/unit4-guided-practice-worksheets/" | relative_url }}) for additional support.
-- Use the distributed practice days across Unit 4 to target one weak area at a time, then use Days 12–16 for final tightening before the Day 17 assessment.
+- Use each chapter block to target one weak area while the content is still fresh, then use Days 16 and 17 to confirm readiness and complete the assessment.

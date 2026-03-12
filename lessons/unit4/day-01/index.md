@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Day 1: Introduction to Genetics and Evidence Routines"
-description: Unit 4 Day 1 lesson introducing heredity, DNA, and the evidence routines students will use across the unit.
-permalink: /lessons/unit4/day-01/
+description: Unit 4 Day 1 introduces heredity, core genetics vocabulary, and the evidence routine students will use across the chapter.
+permalink: /lessons/unit4/introduction-to-genetics/
 ---
 
 # Day 1: Introduction to Genetics and Evidence Routines
@@ -10,67 +10,67 @@ permalink: /lessons/unit4/day-01/
 ## Objectives
 
 - Describe genes, chromosomes, and DNA using accurate biological vocabulary.
-- Explain inheritance as transmission of biological information across generations.
-- Practice the Unit 4 routine for turning observations into evidence-based explanations.
+- Explain inheritance as the passing of biological information from parents to offspring.
+- Practice the observation-to-explanation routine that will anchor Unit 4.
 
 ## Key Terms
 
+- heredity
+- DNA
 - gene
 - chromosome
-- DNA
-- inherited trait
-- variation
+- trait
 
 ## Textbook Content
 
-- National Geographic Chapter 11 opener introducing heredity and trait transmission.
-- Foundational concepts: DNA as information, genes as coded instructions, chromosomes as DNA organization structures.
-- Unit 4 explanation routine: claim, evidence, and reasoning supported by observable data.
+- Chapter 11 opener on heredity, DNA, and biological information.
+- Introductory genetics vocabulary that supports all later molecular and inheritance work.
+- Evidence routine: observe, cite evidence, then explain.
 
 ## In-Class Activities / Minilabs
 
-1. **Bellwork (10 min):** List three family traits you share and one unique trait, then sort each statement into observation or inference.
-2. **Mini-Lesson (15 min):** Introduce DNA, genes, chromosomes, and the Unit 4 explanation routine with quick checks for understanding.
-3. **Guided Practice Block 1 (25 min):** Analyze trait photos, classify observation versus interpretation, and build a class anchor chart for strong genetics claims.
-4. **Guided Practice Block 2 (25 min):** Teams build a concept map linking DNA → genes → proteins → traits, then write one short claim-evidence-reasoning response from the map.
-5. **Debrief (10 min):** Share one evidence-based statement about inheritance and log one vocabulary term that still needs practice.
+1. **Bellwork (8 min):** List three inherited traits you observe in families and mark which statements are observations versus inferences.
+2. **Mini-Lesson (15 min):** Introduce DNA, genes, chromosomes, and the Unit 4 explanation routine with modeled examples.
+3. **Guided Practice Block 1 (25 min):** Analyze trait photos and sort observation, evidence, and explanation statements.
+4. **Guided Practice Block 2 (25 min):** Build a class concept map linking DNA, genes, proteins, and visible traits.
+5. **Debrief (10 min):** Write one short claim-evidence-reasoning response about inheritance.
 
 ## Classroom Routine Notes
 
-- Bellwork stays silent for the first 3 minutes, then partners compare one observation and one inference when the teacher gives the cue.
-- During Guided Practice Block 1, Partner A names observations first and Partner B checks whether they are truly observable; roles switch on the second image.
-- During Guided Practice Block 2, teams move only after the countdown cue, and the teacher pauses midway for a 60-second vocabulary check-in with students who still mix up evidence and reasoning.
+- Bellwork begins silently, then partners compare one observation when the teacher gives the cue.
+- During the concept-map block, Partner A names evidence first and Partner B records before roles switch.
+- The teacher pauses midway for a quick vocabulary check with students who still confuse evidence and reasoning.
 
 ## Critical Perspective
 
-- Which parts of heredity are directly observed, and which are inferred from models?
-- How does clear use of evidence improve scientific claims about genetic traits?
+- Why is it important to separate what we observe from what we conclude?
+- What makes a genetics explanation trustworthy instead of just interesting?
 
 ## Biblical Integration
 
-God’s creation is orderly and intelligible, which supports careful scientific study. Human life is described as fearfully and wonderfully made, inviting both rigor and humility in genetics.
+Careful observation and truthful explanation honor the order God built into living things.
 
 <div class="scripture-connection">
 <h3>Scripture Connection</h3>
-<p><strong>Psalm 139:13-14</strong> highlights the intentional design and value of human life, supporting careful study of inherited traits with both rigor and humility.</p>
+<p><strong>Psalm 139:14</strong> reminds students that the design of living things is wonderful and worth studying carefully.</p>
 </div>
 
 ## Homework / Assignment
 
-- Read Chapter 11.1.
-- Complete the key-terms organizer and revise today's short CER paragraph so it includes one specific piece of evidence.
+- Read the Chapter 11 opener.
+- Complete the vocabulary organizer and revise today's short CER response.
 
 ## Exit Ticket / Reflection
 
-What is one genetics claim from class that is directly supported by observed evidence, and what observation supports it?
+What is one genetics claim you can support with an actual observation from class today?
 
 ## Teacher Notes Only (not for students)
 
-- Advanced extension: Research one genetic disorder and distinguish observed data from interpretation.
-- Support for struggling learners: Provide pre-filled diagrams, sentence stems, and an observation-versus-inference sort.
+- Keep the first day focused on precision and routine building more than volume.
+- Save strong observation-versus-inference examples for Day 6 review.
 
 ## Navigation
 
 - [← Back to Unit 4 Hub]({{ "/lessons/unit4/" | relative_url }})
-- [Go to Day 2 →]({{ "/lessons/unit4/day-02/" | relative_url }})
+- [Go to Day 2 →]({{ "/lessons/unit4/dna-structure-and-replication/" | relative_url }})
 - [Teacher Guide (Day 1)]({{ "/resources/teacher-guides/unit4/day-01/" | relative_url }})

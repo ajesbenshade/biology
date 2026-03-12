@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Moved: Gene Expression and Protein Synthesis"
-permalink: /lessons/unit4/day3-gene-expression/
+title: "Moved: Day 3 Gene Expression and Protein Synthesis"
+permalink: /lessons/unit4/day-03/
 ---
 
 # This lesson has moved

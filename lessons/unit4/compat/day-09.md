@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Moved: Human Genetics and Pedigrees"
-permalink: /lessons/unit4/day6-human-genetics-pedigrees/
+title: "Moved: Day 9 Human Genetics and Pedigrees"
+permalink: /lessons/unit4/day-09/
 ---
 
 # This lesson has moved

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Moved: DNA Structure and Replication"
-permalink: /lessons/unit4/day2-dna-replication/
+title: "Moved: Day 2 DNA Structure and Replication"
+permalink: /lessons/unit4/day-02/
 ---
 
 # This lesson has moved

@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Day 17: Unit Assessment and Wrap-Up"
-description: Unit 4 Day 17 summative assessment and reflection lesson after the distributed practice and final mastery sequence.
-permalink: /lessons/unit4/day-17/
+description: Unit 4 Day 17 concludes the unit with the summative assessment and a short reflection on growth and readiness.
+permalink: /lessons/unit4/unit-assessment-and-wrap-up/
 ---
 
 # Day 17: Unit Assessment and Wrap-Up
@@ -11,8 +11,7 @@ permalink: /lessons/unit4/day-17/
 
 - Demonstrate mastery of Unit 4 genetics targets.
 - Solve and explain textbook-aligned problems accurately.
-- Reflect on strengths and next steps for Unit 5 readiness.
-- Use post-assessment reflection to identify which distributed support routines helped most.
+- Reflect on strengths, growth, and next steps for Unit 5 readiness.
 
 ## Key Terms
 
@@ -24,23 +23,23 @@ permalink: /lessons/unit4/day-17/
 
 ## Textbook Content
 
-- Unit 4 cumulative targets spanning Chapters 11–13.
+- Unit 4 cumulative targets spanning Chapters 11 to 13.
 - Final emphasis on clear reasoning and accurate scientific communication.
-- Reflection emphasis on the habits that supported mastery across the whole unit.
+- Reflection on the classroom routines and practice structures that supported mastery.
 
 ## In-Class Activities / Minilabs
 
-1. **Bellwork (5 min):** Quick readiness routine and assessment expectations.
-2. **Summative Assessment (65–70 min):** Unit 4 test or quiz in the main block of class.
-3. **Wrap-Up Discussion (5 min):** "How does genetics reveal God's glory?"
-4. **Reflection (10 min):** Identify strongest skill, one area for growth, and one classroom routine that helped you prepare.
-5. **Preview (5 min):** Unit 5 bridge and expectations.
+1. **Bellwork (5 min):** Complete a brief focus reminder before the assessment begins.
+2. **Summative Assessment (65 min):** Complete the Unit 4 test or quiz in the main class block.
+3. **Wrap-Up Discussion (5 min):** Reflect briefly on how genetics reveals order in living systems.
+4. **Reflection (10 min):** Name one strongest skill, one area for growth, and one routine that helped you prepare.
+5. **Preview (5 min):** Transition toward Unit 5 expectations.
 
 ## Classroom Routine Notes
 
-- Assessment materials and accommodations are set before students enter so the bellwork can move directly into testing expectations.
-- The summative block is fully independent, with only teacher clarification of directions and accommodation support as needed.
-- Reflection and Unit 5 preview begin only after all assessments are collected so the room stays calm and assessment conditions stay consistent.
+- Assessment materials and accommodations are set before students enter.
+- Reflection begins only after all assessments are collected.
+- The closing stays calm and brief so the summative block remains the center of the day.
 
 ## Critical Perspective
 
@@ -63,12 +62,12 @@ Responsible scholarship includes honest evaluation of progress and gratitude for
 
 ## Exit Ticket / Reflection
 
-What is one Unit 4 concept you can now explain clearly with evidence, and which practice routine helped you learn it?
+What is one Unit 4 concept you can now explain clearly with evidence, and which routine helped you learn it?
 
 ## Teacher Notes Only (not for students)
 
-- Capture post-assessment trends to inform targeted reteaching.
-- Maintain strictly academic scoring criteria.
+- Capture post-assessment trends to inform later review.
+- Keep scoring tied to content mastery and reasoning clarity.
 
 ## Navigation
 

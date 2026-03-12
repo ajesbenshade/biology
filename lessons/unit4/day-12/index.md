@@ -1,75 +1,76 @@
 ---
 layout: default
-title: "Day 12: Cumulative Skill Workshop and Reteach"
-description: Unit 4 Day 12 cumulative workshop that targets the last high-need skill gaps before the final mastery runway.
-permalink: /lessons/unit4/day-12/
+title: "Day 12: Chapter 12 Review and Assessment"
+description: Unit 4 Day 12 closes the heredity chapter with review, a checkpoint, and final correction before Chapter 13 begins.
+permalink: /lessons/unit4/chapter-12-review-and-assessment/
 ---
 
-# Day 12: Cumulative Skill Workshop and Reteach
+# Day 12: Chapter 12 Review and Assessment
 
 ## Objectives
 
-- Revisit the highest-need Unit 4 skill gaps before the final assessment sequence.
-- Strengthen problem-solving accuracy across molecular genetics, heredity, and biotechnology.
-- Use feedback from earlier checkpoints to choose the next best practice target instead of reteaching the entire unit at once.
+- Demonstrate Chapter 12 readiness across inheritance models, pedigrees, and quantitative reasoning.
+- Correct lingering heredity misconceptions before the biotechnology chapter begins.
+- Use checkpoint evidence to identify the one inheritance idea that still needs the most tightening.
 
 ## Key Terms
 
-- reteach
-- targeted practice
-- evidence-based explanation
-- skill repair
+- heredity review
+- checkpoint
+- correction
 - readiness
+- chapter close
 
 ## Textbook Content
 
-- Unit 4 cumulative targets spanning Chapters 11–13.
-- Teacher-selected reteach strands based on error patterns from Days 4, 7, 9, 10, and 11.
+- Chapter 12 cumulative review and checkpoint.
+- Final heredity correction cycle before the unit shifts into biotechnology.
+- Review and checkpoint evidence used to tighten Chapter 12 understanding while the content is still fresh.
 
 ## In-Class Activities / Minilabs
 
-1. **Bellwork (8 min):** Students identify one skill they still need to strengthen and one piece of evidence showing growth.
-2. **Mini-Lesson (12 min):** Teacher models two high-leverage corrections pulled from checkpoint data.
-3. **Guided Practice Block 1 (30 min):** Rotating stations for codon decoding, heredity calculations, pedigree interpretation, and biotechnology data reading.
-4. **Guided Practice Block 2 (25 min):** Students return to their weakest strand for a second pass while the teacher runs short readiness conferences.
-5. **Debrief (10 min):** Students record one corrected misconception and one plan for Day 13.
+1. **Bellwork (8 min):** Identify the Chapter 12 skill you most improved and one you still need to strengthen.
+2. **Mini-Lesson (12 min):** Review two high-frequency heredity errors with corrected models.
+3. **Guided Practice Block 1 (24 min):** Rotate through short Chapter 12 review stations or a chapter checkpoint set.
+4. **Guided Practice Block 2 (26 min):** Complete a short Chapter 12 checkpoint, then correct one missed item immediately.
+5. **Debrief (10 min):** Record one heredity idea you can explain now and one skill that still needs a final correction.
 
 ## Classroom Routine Notes
 
-- Students begin by naming one target skill and then move to the station color assigned from recent checkpoint data.
-- When the timer resets, students either rotate to the next station or return to their weakest strand for a second pass based on teacher direction.
-- The teacher conferences with students one at a time during Guided Practice Block 2 and keeps each check-in to one misconception, one correction, and one next step.
+- Students complete the chapter checkpoint quietly before any correction talk begins.
+- Review materials stay out for the full period so the day remains a true Chapter 12 close.
+- The teacher uses immediate correction to target one misconception at a time rather than reopening the whole chapter.
 
 ## Critical Perspective
 
-- Which corrections changed your understanding most, and why?
-- How can targeted practice improve confidence more effectively than simply repeating the same mistake?
+- Why is a chapter review most useful when it produces correction instead of just a score?
+- What kind of evidence shows that you are actually ready to move forward?
 
 ## Biblical Integration
 
-Responsible scholarship includes honest evaluation, correction, and persistence when mastery takes time.
+Wise learning includes honest review, correction, and the humility to strengthen weak understanding before moving on.
 
 <div class="scripture-connection">
 <h3>Scripture Connection</h3>
-<p><strong>Proverbs 12:1</strong> supports a classroom culture where correction, discipline, and growth are part of wise learning.</p>
+<p><strong>Proverbs 12:1</strong> supports a classroom culture where correction is part of growth rather than something to avoid.</p>
 </div>
 
 ## Homework / Assignment
 
-- Finish any incomplete workshop station tasks.
-- Complete one corrected-response submission showing how your reasoning improved.
+- Finish any Chapter 12 corrections.
+- Preview the first Chapter 13 vocabulary terms for tomorrow.
 
 ## Exit Ticket / Reflection
 
-What is one Unit 4 skill you are more prepared for now than you were at the start of class, and what evidence shows that growth?
+What Chapter 12 idea can you now explain clearly, and what still needs one more review?
 
 ## Teacher Notes Only (not for students)
 
-- Use the full set of earlier checkpoint patterns to form flexible groups.
-- Keep conferencing practical and specific: one misconception, one correction, one next step.
+- Treat today as a full Chapter 12 close, not as the start of Chapter 13.
+- Use checkpoint results to decide which inheritance ideas still need quick reinforcement before the summative assessment.
 
 ## Navigation
 
 - [← Back to Unit 4 Hub]({{ "/lessons/unit4/" | relative_url }})
-- [Go to Day 13 →]({{ "/lessons/unit4/day-13/" | relative_url }})
+- [Go to Day 13 →]({{ "/lessons/unit4/biotechnology-tools-and-applications/" | relative_url }})
 - [Teacher Guide (Day 12)]({{ "/resources/teacher-guides/unit4/day-12/" | relative_url }})
